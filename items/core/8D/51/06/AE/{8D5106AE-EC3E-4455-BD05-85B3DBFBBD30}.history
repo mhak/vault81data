@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{8D5106AE-EC3E-4455-BD05-85B3DBFBBD30}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-27T03:19:52.5589051Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Engagement-analytics",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
+    "commandType": "Label",
+    "template": "LaunchPad-Button",
+    "sourceControlRevisionId": null
+  }
+]
