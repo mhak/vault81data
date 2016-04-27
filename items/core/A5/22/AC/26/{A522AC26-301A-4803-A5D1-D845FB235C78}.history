@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{A522AC26-301A-4803-A5D1-D845FB235C78}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-27T03:19:52.5101162Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Søg",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/RecoveredItemsDataSource/Search",
+    "commandType": "Label",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]
