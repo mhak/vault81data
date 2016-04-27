@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{F41D140B-B455-43EA-8202-6D101DA1E0C2}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-27T03:19:52.5382458Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SearchDataSource",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots/PageSettings/Data/SnapshotsDataSource",
+    "commandType": "Label",
+    "template": "View rendering",
+    "sourceControlRevisionId": null
+  }
+]
