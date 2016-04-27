@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{4926F08F-6D93-4CAC-92F8-FC681851E6DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.4408144Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "removeBold",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultProductName/ProductName-Parameters/Data/removeBold",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
