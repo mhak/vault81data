@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{6BDDCF1D-B2C4-498E-A76B-46F9729E58D7}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-27T03:19:52.5882303Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tilføj en ny betingelse",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion/Rules ActionControl Parameters/Rules ActionColumn/Rules ActionGroup/Add new condition",
+    "commandType": "Label",
+    "template": "Action",
+    "sourceControlRevisionId": null
+  }
+]
