@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{F5F3C7ED-6854-470D-A30B-AF3A543B81F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.5998491Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Data Source Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Filter based selection/PageSettings/Search Data Source Parameters",
+    "commandType": "Label",
+    "template": "Search Data Source Parameters",
+    "sourceControlRevisionId": null
+  }
+]
