@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{4E8BB40C-2CE3-4D5C-AAA9-4527023E9681}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.4408144Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultProductName/ProductName-Parameters/__Standard Values",
+    "commandType": "Label",
+    "template": "ProductName-Parameters",
+    "sourceControlRevisionId": null
+  }
+]
