@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{ED52B507-BB9E-433F-9432-DDE2CF5C9850}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.4769022Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ListControl",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Timeline/PageSettings/ListControl",
+    "commandType": "Label",
+    "template": "ListControl",
+    "sourceControlRevisionId": null
+  }
+]
