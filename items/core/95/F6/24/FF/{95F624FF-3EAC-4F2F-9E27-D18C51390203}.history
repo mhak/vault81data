@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{95F624FF-3EAC-4F2F-9E27-D18C51390203}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.6438673Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sitecore Version",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/ListControl/Sitecore Version",
+    "commandType": "Label",
+    "template": "ColumnField",
+    "sourceControlRevisionId": null
+  }
+]
