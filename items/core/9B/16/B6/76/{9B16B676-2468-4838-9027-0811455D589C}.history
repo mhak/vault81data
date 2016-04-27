@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{9B16B676-2468-4838-9027-0811455D589C}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-27T03:19:52.6284287Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Formatering",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/Data/HistoryDataSource/Formatting",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
