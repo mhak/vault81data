@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{0877B399-37CB-4D1A-811C-7E738986DFCB}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-27T03:19:52.5867735Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ActionControl-parametre for segmentering",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion/Rules ActionControl Parameters",
+    "commandType": "Label",
+    "template": "ActionControl Parameters",
+    "sourceControlRevisionId": null
+  }
+]
