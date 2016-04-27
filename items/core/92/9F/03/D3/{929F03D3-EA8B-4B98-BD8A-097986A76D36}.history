@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{929F03D3-EA8B-4B98-BD8A-097986A76D36}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.4252247Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/TargetSystemsDS/TargetSystemsDS-Parameters/__Standard Values",
+    "commandType": "Label",
+    "template": "TargetSystemsDS-Parameters",
+    "sourceControlRevisionId": null
+  }
+]
