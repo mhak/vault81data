@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{1271B707-3EEE-42F1-AF31-E34E20539079}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.4114967Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Common",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
