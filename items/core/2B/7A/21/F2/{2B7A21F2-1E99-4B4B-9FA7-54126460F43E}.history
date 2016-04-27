@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{2B7A21F2-1E99-4B4B-9FA7-54126460F43E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.4721832Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Timeline",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Timeline",
+    "commandType": "Label",
+    "template": "Speak-DashboardPage",
+    "sourceControlRevisionId": null
+  }
+]
