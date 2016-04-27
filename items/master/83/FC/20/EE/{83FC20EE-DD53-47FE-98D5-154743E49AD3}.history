@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "VersionRemoved",
+    "database": "master",
+    "itemId": "{83FC20EE-DD53-47FE-98D5-154743E49AD3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:27.8162599Z",
+    "label": "Version 1 Removed",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Tags",
+    "commandType": "Item",
+    "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": null
+  }
+]
