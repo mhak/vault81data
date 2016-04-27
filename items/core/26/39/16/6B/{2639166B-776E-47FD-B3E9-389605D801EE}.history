@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{2639166B-776E-47FD-B3E9-389605D801EE}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-27T03:19:52.6284287Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SearchDataSource-parametre",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/Data/HistoryDataSource/HistoryDataSource Parameters",
+    "commandType": "Label",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]
