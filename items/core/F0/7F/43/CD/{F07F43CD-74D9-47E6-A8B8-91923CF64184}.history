@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{F07F43CD-74D9-47E6-A8B8-91923CF64184}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.4721832Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Renderings",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Renderings",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
