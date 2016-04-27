@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{B7FF8BAF-2A53-49C1-B0E2-380A82870729}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.6284287Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/Data/HistoryDataSource/HistoryDataSource Parameters/__Standard Values",
+    "commandType": "Label",
+    "template": "HistoryDataSource Parameters",
+    "sourceControlRevisionId": null
+  }
+]
