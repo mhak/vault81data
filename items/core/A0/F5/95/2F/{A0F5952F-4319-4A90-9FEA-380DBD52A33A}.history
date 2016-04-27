@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{A0F5952F-4319-4A90-9FEA-380DBD52A33A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.4408144Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "UpdatedMessages",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultSelectableVerificationList/SelectableVerificationList-Parameters/Messaging/UpdatedMessages",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
