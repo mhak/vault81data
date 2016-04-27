@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{DC896A64-B2A2-40BA-A5A3-88D881C0233C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.4408144Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Items",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultRecentActivity/RecentActivity-Parameters/Data/Items",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
