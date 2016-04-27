@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{D2C7E1A6-AC71-4403-A882-D152B704BCEA}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-27T03:19:52.4566063Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Skabelon",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Filters/Template",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
