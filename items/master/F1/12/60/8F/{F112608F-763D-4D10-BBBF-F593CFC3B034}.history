@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F112608F-763D-4D10-BBBF-F593CFC3B034}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:22:14.5911033Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Story",
+    "itemPath": "/sitecore/content/Home/Story",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
+  }
+]

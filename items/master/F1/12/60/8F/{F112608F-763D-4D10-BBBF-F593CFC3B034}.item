@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {F112608F-763D-4D10-BBBF-F593CFC3B034}
+database: master
+path: /sitecore/content/Home/Story
+parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
+name: Story
+master: {00000000-0000-0000-0000-000000000000}
+template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
+templatekey: Sample Item
+
