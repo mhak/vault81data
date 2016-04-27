@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{6EFAE591-7F11-4893-B545-6416C8A354BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.4408144Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FilterValue",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultRecentActivity/RecentActivity-Parameters/Data/FilterValue",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
