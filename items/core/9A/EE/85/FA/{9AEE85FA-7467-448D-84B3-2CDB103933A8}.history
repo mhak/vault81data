@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{9AEE85FA-7467-448D-84B3-2CDB103933A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.5470963Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PageText",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots/PageSettings/Data/SnapshotsDataSource/SnapshotsDataSource Parameters/Appearance/PageText",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
