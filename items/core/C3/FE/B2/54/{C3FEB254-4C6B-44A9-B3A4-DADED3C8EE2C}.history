@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{C3FEB254-4C6B-44A9-B3A4-DADED3C8EE2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.6438673Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Versions",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Strips/Vault/Versions",
+    "commandType": "Label",
+    "template": "Reference",
+    "sourceControlRevisionId": null
+  }
+]
