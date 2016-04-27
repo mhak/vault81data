@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{CEBCDEF4-A6C3-4BD2-AAB8-536EEAB0E7B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.5956246Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Select ActionControl Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Select Accordian/Select ActionControl Parameters",
+    "commandType": "Label",
+    "template": "ActionControl Parameters",
+    "sourceControlRevisionId": null
+  }
+]
