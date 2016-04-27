@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{53E1A37A-8F7E-4837-BF7F-C4727EFF8903}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.4252247Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DeployItemsOut",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultDeploymentItems/DeploymentItems-Parameters/Data/DeployItemsOut",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
