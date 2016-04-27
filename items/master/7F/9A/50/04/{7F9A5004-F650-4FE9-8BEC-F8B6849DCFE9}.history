@@ -86,13 +86,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-27T03:21:59.2932646Z",
-    "label": "Deleted",
+    "label": null,
     "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
     "activeUser": "sitecore\\admin",
     "itemName": "Store",
     "itemPath": "/sitecore/content/Home/Store",
     "commandType": "Item",
     "template": "Sample Item",
-    "sourceControlRevisionId": "4427b7e0b28a43b021a7314e47ba2141720985fd"
+    "sourceControlRevisionId": "4c2d71dc596da062fbf19db37d639af7336404eb"
+  },
+  {
+    "eventType": "VaultRestored",
+    "database": null,
+    "itemId": null,
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T04:07:19.3977606Z",
+    "label": null,
+    "workflowState": null,
+    "activeUser": "sitecore\\admin",
+    "itemName": null,
+    "itemPath": null,
+    "commandType": null,
+    "template": null,
+    "sourceControlRevisionId": "4c2d71dc596da062fbf19db37d639af7336404eb"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7F9A5004-F650-4FE9-8BEC-F8B6849DCFE9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T04:07:52.0190080Z",
+    "label": "Snapshot - Home snapshot",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Store",
+    "itemPath": "/sitecore/content/Home/Store",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
   }
 ]
