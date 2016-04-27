@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{AC84E27C-E73F-4E88-8BEC-16A71F0C4B42}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.4769022Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Date",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Timeline/PageSettings/ListControl/Date",
+    "commandType": "Label",
+    "template": "ColumnField",
+    "sourceControlRevisionId": null
+  }
+]
