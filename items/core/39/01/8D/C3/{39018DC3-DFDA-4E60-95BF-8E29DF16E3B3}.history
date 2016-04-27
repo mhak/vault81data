@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{39018DC3-DFDA-4E60-95BF-8E29DF16E3B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.5659647Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
