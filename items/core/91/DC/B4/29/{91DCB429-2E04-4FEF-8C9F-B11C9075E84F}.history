@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{91DCB429-2E04-4FEF-8C9F-B11C9075E84F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.4566063Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ItemVersionsList",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Item Versions/PageSettings/ItemVersionsList",
+    "commandType": "Label",
+    "template": "ListControl Parameters",
+    "sourceControlRevisionId": null
+  }
+]
