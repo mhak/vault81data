@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{467D9FB5-DD7C-4795-A010-EF4261BC1976}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-27T03:19:52.4566063Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ItemTreeView-parametre",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters",
+    "commandType": "Label",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]
