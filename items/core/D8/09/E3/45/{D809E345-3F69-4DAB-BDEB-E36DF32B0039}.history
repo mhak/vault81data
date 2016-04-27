@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{D809E345-3F69-4DAB-BDEB-E36DF32B0039}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.6438673Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PageSettings",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Recycle Bin/PageSettings",
+    "commandType": "Label",
+    "template": "PageSettings",
+    "sourceControlRevisionId": null
+  }
+]
