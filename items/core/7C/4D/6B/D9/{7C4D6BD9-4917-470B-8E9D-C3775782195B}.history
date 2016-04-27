@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{7C4D6BD9-4917-470B-8E9D-C3775782195B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.5560916Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vault QuickDeployment",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots/PageSettings/Vault QuickDeployment",
+    "commandType": "Label",
+    "template": "Page-Stylesheet-File",
+    "sourceControlRevisionId": null
+  }
+]
