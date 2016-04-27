@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{FDE544A6-21B0-44FB-8BA9-59E4FB3E1572}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-27T03:19:52.5023546Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fase",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/RecoveredItemsDataSource/DeletedItemsDataSource Parameters/State",
+    "commandType": "Label",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]
