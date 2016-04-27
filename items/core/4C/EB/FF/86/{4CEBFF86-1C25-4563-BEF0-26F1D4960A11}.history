@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{4CEBFF86-1C25-4563-BEF0-26F1D4960A11}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.5318100Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Snapshots",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots",
+    "commandType": "Label",
+    "template": "Speak-DashboardPage",
+    "sourceControlRevisionId": null
+  }
+]
