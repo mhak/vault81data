@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{1F8DD9B1-BE79-4051-A880-5C3E4FDD7FA4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.4721832Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "labelInput",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Renderings/VaultLabelContent/VaultLabelContent-Parameters/Data/labelInput",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
