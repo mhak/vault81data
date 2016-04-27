@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{A36398FF-8E16-4DB9-9D16-E2B1AAB85846}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.6037510Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RollbackComplete Accordian",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback/PageSettings/RollbackComplete Accordian",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
