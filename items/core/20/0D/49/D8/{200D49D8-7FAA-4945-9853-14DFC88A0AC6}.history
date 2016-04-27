@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{200D49D8-7FAA-4945-9853-14DFC88A0AC6}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-27T03:19:52.4974453Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SearchDataSource-parametre",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/RecoveredItemsDataSource/DeletedItemsDataSource Parameters",
+    "commandType": "Label",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]
