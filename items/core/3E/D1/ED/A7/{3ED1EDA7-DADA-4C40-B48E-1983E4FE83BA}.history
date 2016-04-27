@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{3ED1EDA7-DADA-4C40-B48E-1983E4FE83BA}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-27T03:19:52.5266166Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Facet/Data",
+    "commandType": "Label",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]
