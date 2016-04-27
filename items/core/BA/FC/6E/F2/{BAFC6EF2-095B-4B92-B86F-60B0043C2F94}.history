@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{BAFC6EF2-095B-4B92-B86F-60B0043C2F94}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.4721832Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data Recovery",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Data Recovery",
+    "commandType": "Label",
+    "template": "HyperlinkButton Parameters",
+    "sourceControlRevisionId": null
+  }
+]
