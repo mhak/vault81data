@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{B2E38CF7-7C9F-4A70-983E-031EEC62CCAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.4153131Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Appearance",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Appearance",
+    "commandType": "Label",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]
