@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{81276B04-AD20-4AB0-AB53-BB09D7851FCF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.6255197Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vault StyleSheet",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Infrastructure/PageSettings/Vault StyleSheet",
+    "commandType": "Label",
+    "template": "Page-Stylesheet-File",
+    "sourceControlRevisionId": null
+  }
+]
