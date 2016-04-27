@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{75D7B867-4495-4F11-85A7-88E7466B531A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.4408144Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaultQuerystringCheck",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultQuerystringCheck",
+    "commandType": "Label",
+    "template": "View rendering",
+    "sourceControlRevisionId": null
+  }
+]
