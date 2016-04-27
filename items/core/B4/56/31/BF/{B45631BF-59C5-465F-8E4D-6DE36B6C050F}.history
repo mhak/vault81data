@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{B45631BF-59C5-465F-8E4D-6DE36B6C050F}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-27T03:19:52.5877850Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Segmenterings-ActionColumn",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion/Rules ActionControl Parameters/Rules ActionColumn",
+    "commandType": "Label",
+    "template": "ActionColumn",
+    "sourceControlRevisionId": null
+  }
+]
