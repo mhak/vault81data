@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{C4026E17-C6F8-463B-82A3-7BD798580501}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.4252247Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaultDeploymentItems",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultDeploymentItems",
+    "commandType": "Label",
+    "template": "View rendering",
+    "sourceControlRevisionId": null
+  }
+]
