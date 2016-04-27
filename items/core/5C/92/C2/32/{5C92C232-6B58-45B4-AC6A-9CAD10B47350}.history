@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{5C92C232-6B58-45B4-AC6A-9CAD10B47350}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.5998491Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item selection",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Item selection",
+    "commandType": "Label",
+    "template": "Tab",
+    "sourceControlRevisionId": null
+  }
+]
