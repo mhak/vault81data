@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{A25C6F37-7242-4A86-9EC6-F75A60B42636}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.5318100Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DatabaseNames",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Facets/DatabaseNames",
+    "commandType": "Label",
+    "template": "Facet",
+    "sourceControlRevisionId": null
+  }
+]
