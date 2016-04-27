@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{C2944508-067D-44D1-91DB-03C5FA043013}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-27T03:19:52.5236788Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HasMoreItems",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/DeletedItemsDataSource Parameters/State/HasMoreItems",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
