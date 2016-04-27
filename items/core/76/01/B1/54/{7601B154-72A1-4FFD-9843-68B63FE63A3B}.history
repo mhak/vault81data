@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{7601B154-72A1-4FFD-9843-68B63FE63A3B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.4252247Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultDeploymentItems/DeploymentItems-Parameters/Data",
+    "commandType": "Label",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]
