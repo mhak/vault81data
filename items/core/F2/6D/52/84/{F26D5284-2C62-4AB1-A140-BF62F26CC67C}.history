@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{F26D5284-2C62-4AB1-A140-BF62F26CC67C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.4721832Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dashboard",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Dashboard/Dashboard",
+    "commandType": "Label",
+    "template": "HyperlinkButton Parameters",
+    "sourceControlRevisionId": null
+  }
+]
