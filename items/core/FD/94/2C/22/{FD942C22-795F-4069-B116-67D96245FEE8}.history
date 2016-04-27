@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{FD942C22-795F-4069-B116-67D96245FEE8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.5990027Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Exclude",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Filter based selection/PageSettings/ListControl Parameters/ColumnActionField/Exclude",
+    "commandType": "Label",
+    "template": "Action",
+    "sourceControlRevisionId": null
+  }
+]
