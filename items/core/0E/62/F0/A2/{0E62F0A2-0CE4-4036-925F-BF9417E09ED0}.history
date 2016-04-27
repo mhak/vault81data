@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{0E62F0A2-0CE4-4036-925F-BF9417E09ED0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.4252247Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SystemList",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Messaging/XSpeak/XSpeak-Parameters/EcoSystem/SystemList",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
