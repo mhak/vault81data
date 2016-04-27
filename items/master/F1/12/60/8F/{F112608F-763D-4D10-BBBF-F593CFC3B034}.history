@@ -70,13 +70,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-27T03:22:18.6633103Z",
-    "label": "Saved",
+    "label": null,
     "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
     "activeUser": "sitecore\\admin",
     "itemName": "Story",
     "itemPath": "/sitecore/content/Home/Story",
     "commandType": "Item",
     "template": "Sample Item",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "36a2f80920325651a18f82b4b4d5395b6f46b6b1"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{F112608F-763D-4D10-BBBF-F593CFC3B034}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:22:25.6828477Z",
+    "label": "Deleted",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Story",
+    "itemPath": "/sitecore/content/Home/Story",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": "36a2f80920325651a18f82b4b4d5395b6f46b6b1"
   }
 ]
