@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{F80EA83F-1086-450F-A6CD-9059A98932AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T03:19:52.6284287Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Day",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/BarChart Parameters/Day",
+    "commandType": "Label",
+    "template": "ChartField",
+    "sourceControlRevisionId": null
+  }
+]
