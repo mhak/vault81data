@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {937FF002-5708-4DD0-B08E-7E4797C2B4BC}
+database: master
+path: /sitecore/content/Home/Tert Section/More carts for the people/New items Friday
+parent: {02C83DAC-1C32-497B-A153-E80680816801}
+name: New items Friday
+master: {00000000-0000-0000-0000-000000000000}
+template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
+templatekey: Sample Item
+
