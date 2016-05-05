@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{27BD3028-9923-4B31-BB05-56F1A043B868}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-05T21:15:55.5006390Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Tertiary Section",
+    "itemPath": "/sitecore/content/Home/Tert Section/Tertiary Section",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
