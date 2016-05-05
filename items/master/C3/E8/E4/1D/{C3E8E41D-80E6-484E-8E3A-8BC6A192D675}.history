@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{C3E8E41D-80E6-484E-8E3A-8BC6A192D675}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-05T21:15:56.1451452Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Receipt",
+    "itemPath": "/sitecore/content/Home/Tert Section/More carts for the people/New items Friday/Receipt",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
+  }
+]
