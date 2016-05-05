@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{8DAAF4A0-3025-4F88-A60E-D18140A81F42}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-05T21:15:59.0588130Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Tests",
+    "itemPath": "/sitecore/content/Home/Tert Section/More carts for the people/New items Friday/Receipt/Checkout/Sample Item/Shopping/Checkout/skod/Tests",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
