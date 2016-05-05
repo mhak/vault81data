@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {909001BA-CF03-41AC-A688-47FD2D44D8DF}
+database: master
+path: /sitecore/content/Home/Tert Section/More carts for the people/New items Friday/Receipt/Sample Item
+parent: {C3E8E41D-80E6-484E-8E3A-8BC6A192D675}
+name: Sample Item
+master: {00000000-0000-0000-0000-000000000000}
+template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
+templatekey: Sample Item
+
