@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {5BB87214-69D5-4496-8251-863CF22CACD8}
+database: master
+path: /sitecore/content/Home/Tert Section/More carts for the people/New items Friday/Receipt/Checkout/Sample Item/Shopping/Checkout/skod
+parent: {94486348-21FA-4810-BC9F-6FF50F7AF661}
+name: skod
+master: {00000000-0000-0000-0000-000000000000}
+template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
+templatekey: Sample Item
+
