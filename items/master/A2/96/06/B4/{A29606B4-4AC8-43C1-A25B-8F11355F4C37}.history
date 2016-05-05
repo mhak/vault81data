@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{A29606B4-4AC8-43C1-A25B-8F11355F4C37}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-05T21:15:55.9087898Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Sample Item",
+    "itemPath": "/sitecore/content/Home/Tert Section/More carts for the people/Sample Item",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
+  }
+]
