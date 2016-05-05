@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{152A5092-AA88-4898-BC3A-92D6CBE3859A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-05T21:15:54.0338749Z",
+    "label": "Installed from package - Vux",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Julia",
+    "itemPath": "/sitecore/content/Home/Julia",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
