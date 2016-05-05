@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F563A32D-3CF2-4178-869B-DAAED42E1F56}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-05T21:15:54.2183084Z",
+    "label": "Installed from package - Vux",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Copy of Copy of Copy of Copy of Tests",
+    "itemPath": "/sitecore/content/Home/Main Section/Copy of Copy of Copy of Copy of Tests",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
