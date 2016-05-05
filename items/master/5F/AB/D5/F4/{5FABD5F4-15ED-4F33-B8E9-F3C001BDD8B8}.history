@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{5FABD5F4-15ED-4F33-B8E9-F3C001BDD8B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-05T21:15:54.3573504Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Secondary Section",
+    "itemPath": "/sitecore/content/Home/Secondary Section",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
