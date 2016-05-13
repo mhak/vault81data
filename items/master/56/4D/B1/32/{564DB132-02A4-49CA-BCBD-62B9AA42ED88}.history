@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home/Disclosure1",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "05049d68af3e4774751f58c38842cde1e9a47528"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{564DB132-02A4-49CA-BCBD-62B9AA42ED88}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:33:01.5707172Z",
+    "label": "Installed from package - Matt Kloss Deploy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Disclosure1",
+    "itemPath": "/sitecore/content/Home/Disclosure1",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
