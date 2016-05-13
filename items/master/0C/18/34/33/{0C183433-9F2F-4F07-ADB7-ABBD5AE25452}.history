@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/templates/Demo/Promotion/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "5e9d160eb980dd0bc258cacbeb126daf5370538d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{0C183433-9F2F-4F07-ADB7-ABBD5AE25452}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:00.0674441Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/Demo/Promotion/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]
