@@ -9,10 +9,58 @@ master: {00000000-0000-0000-0000-000000000000}
 template: {99595FA3-1836-4333-9B99-B650273820B9}
 templatekey: HealthWealthPage
 
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 22
+
+Network/16x16/home.png
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 1255
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{39029125-28C0-4FDD-83CF-965ECB4C21BB}"><p:d /></r><r uid="{1317256E-C6FB-40A9-BD06-5E10F4351BDA}"><p:d /></r><r uid="{86609FCA-1040-43D0-8088-972E9C4C38C1}" p:before="r[@uid='{A5F86069-2D1E-4C5A-A723-7349CC68DC93}']" s:ds="{EFB5AD90-D005-4BFC-BEE6-0A0B178BB3D9}" s:id="{F8478A12-F095-4EB0-A529-1615251F7EAE}" s:par="" s:ph="header" /><r uid="{A5F86069-2D1E-4C5A-A723-7349CC68DC93}" p:before="r[@uid='{A68646DF-B586-4F2E-9BBD-A742F8925FF4}']" s:ds="{54B6C191-3EBB-4559-BBEF-44AA04451BDB}" s:id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" s:par="" s:ph="" /><r uid="{A68646DF-B586-4F2E-9BBD-A742F8925FF4}" p:before="r[@uid='{487CD04A-95B7-4403-9CE2-7917A26C8981}']" s:ds="{CA877142-81CB-4C2A-AEA2-DF5737F25C48}" s:id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" s:par="" s:ph="" /><r uid="{487CD04A-95B7-4403-9CE2-7917A26C8981}" p:before="r[@uid='{A3526BA1-D046-4390-B71D-88155A243B9E}']" s:ds="{2779C422-2F5D-42FA-B2B8-769391A7EB16}" s:id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" s:par="" s:ph="" /><r uid="{A3526BA1-D046-4390-B71D-88155A243B9E}" s:ds="{8E624FEC-6A2C-46A4-AE8B-F267D2713FBA}" s:id="{D283C5F1-ADBC-4D58-9CFA-66AC5B51EAAF}" s:par="" s:ph="footer" /></d></r>
 ----version----
 language: en
 version: 1
-revision: 994c4d8c-be6a-431b-82f0-d1182fc667f4
+revision: 3979e6c1-1e9d-4314-806c-f28550255cc9
+
+----field----
+field: {AF561690-7884-4B53-98C4-0BC5DC293E7B}
+name: Header
+key: header
+content-length: 2218
+
+<div class="el__leafmedia el__leafmedia--sourced-paragraph" style="box-sizing: border-box; color: #262626; font-family: CNN, 'Helvetica Neue', Helvetica, Arial, Utkal, sans-serif; font-size: 15px; line-height: 24px; background-color: #fefefe;">
+<p class="zn-body__paragraph" style="box-sizing: border-box; margin-right: 0px; margin-bottom: 15px; margin-left: 0px; -webkit-font-smoothing: antialiased; font-size: 1.2rem; line-height: 1.66667;"><cite class="el-editorial-source" style="box-sizing: border-box; font-family: CNN, 'Helvetica Neue', Verdana, Geneva, sans-serif; font-style: normal; font-weight: 700;">(CNN)</cite>U.S. military officials are closely watching social media and news reports that say ISIS believes it may soon come under siege in Raqqa, Syria, its self-declared capital.</p>
+</div>
+<p class="zn-body__paragraph" style="box-sizing: border-box; margin-bottom: 15px; font-family: CNN, 'Helvetica Neue', Helvetica, Arial, Utkal, sans-serif; -webkit-font-smoothing: antialiased; font-size: 1.2rem; line-height: 1.66667; margin-right: 0px; color: #262626; background-color: #fefefe;"><span style="font-size: 1.2rem; line-height: 1.66667; font-weight: lighter;">"We have seen this declaration of emergency in Raqqa, whatever that means," Col. Steve Warren, the spokesman for the U.S.-led anti-ISIS coalition, told reporters Friday. "We know this enemy feels threatened, as they should."<br>
+<span style="font-size: 1.2rem; font-weight: lighter; line-height: 1.66667;">Media reports have indicated that ISIS is moving personnel around the city and trying to put up covers in certain areas to shield potential targets from airstrikes and ground attacks.</span><br>
+</span></p>
+<div class="zn-body__paragraph" style="box-sizing: border-box; margin-bottom: 15px; font-family: CNN, 'Helvetica Neue', Helvetica, Arial, Utkal, sans-serif; -webkit-font-smoothing: antialiased; font-size: 1.2rem; line-height: 1.66667; margin-right: 0px; color: #262626; background-color: #fefefe;"><a href="http://www.cnn.com/2016/05/05/middleeast/syria-palmyra-russia-concert/index.html" target="_blank" style="box-sizing: border-box; color: #006598; transition: color 0.2s;">Concert in the city recovered from ISIS</a></div>
+----field----
+field: {CC45B3FB-4DDB-4C7D-8FD0-9CAC3BD67156}
+name: Title
+key: title
+content-length: 8
+
+New Page
+----field----
+field: {83DC9BCD-62D5-4EA9-BC01-AB3E8EE9F24F}
+name: Body
+key: body
+content-length: 26
+
+<p>update at 4:30 4-19</p>
+----field----
+field: {6ACE2616-03A1-47F6-9700-179B07C5AFA3}
+name: Footer
+key: footer
+content-length: 0
+
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -20,7 +68,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20160513T203301Z
+20160328T014330Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -34,7 +82,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-994c4d8c-be6a-431b-82f0-d1182fc667f4
+3979e6c1-1e9d-4314-806c-f28550255cc9
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
@@ -49,3 +97,10 @@ key: __updated by
 content-length: 18
 
 extranet\Anonymous
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
