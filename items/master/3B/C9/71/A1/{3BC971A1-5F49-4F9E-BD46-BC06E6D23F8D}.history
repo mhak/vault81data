@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Demo/Site Header/__Standard Values",
     "commandType": "Item",
     "template": "Site Header",
+    "sourceControlRevisionId": "6fe268c4803b3db942f38ce306117e2816231959"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{3BC971A1-5F49-4F9E-BD46-BC06E6D23F8D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:31:56.1271980Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Demo/Site Header/__Standard Values",
+    "commandType": "Item",
+    "template": "Site Header",
     "sourceControlRevisionId": null
   }
 ]
