@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/templates/Demo/Site Footer/Footer Section/FooterLogo2x",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0daf121d769eb207cb12f1bd62fc2c4007c12450"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{A195C6FE-DF4A-4374-BECE-3F794D5D2A93}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:31:58.3711464Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "FooterLogo2x",
+    "itemPath": "/sitecore/templates/Demo/Site Footer/Footer Section/FooterLogo2x",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
