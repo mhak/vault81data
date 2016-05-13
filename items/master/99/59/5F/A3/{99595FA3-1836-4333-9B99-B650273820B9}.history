@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{99595FA3-1836-4333-9B99-B650273820B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:07.6143764Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "HealthWealthPage",
+    "itemPath": "/sitecore/templates/Demo/HealthWealthPage",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]
