@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/Site Footer/Footer Section/Copyright",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "412e8f16c575a84d784006bd3482575612e0fb0a"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F0EB5F89-1D04-45E7-9D11-F46AEEE71B85}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:31:58.1316102Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Copyright",
+    "itemPath": "/sitecore/templates/Demo/Site Footer/Footer Section/Copyright",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
