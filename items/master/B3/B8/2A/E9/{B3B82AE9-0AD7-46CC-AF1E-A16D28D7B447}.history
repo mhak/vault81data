@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosures Parameters Template/Disclosures/Disclosures Header",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "db0ccb0603ba8779a88706c3f29eabaa88563f34"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{B3B82AE9-0AD7-46CC-AF1E-A16D28D7B447}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:15.1306199Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Disclosures Header",
+    "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosures Parameters Template/Disclosures/Disclosures Header",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
