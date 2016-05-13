@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/templates/Demo/Disclosures/Dislcosures Folder",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "51b11aa6818b9e9f54af3fa1d226aa7c38a921da"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{17D4C1BA-0260-4658-BCB0-822B33233B38}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:13.6766546Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Dislcosures Folder",
+    "itemPath": "/sitecore/templates/Demo/Disclosures/Dislcosures Folder",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]
