@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/templates/Demo/Navigation/Navigation Folder/__Standard Values",
     "commandType": "Item",
     "template": "Navigation Folder",
+    "sourceControlRevisionId": "2f270f76acc814fe5c347f624d76584c468a463f"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{AFE93274-50B9-4C38-83DD-51719C613D1B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:05.3595125Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Demo/Navigation/Navigation Folder/__Standard Values",
+    "commandType": "Item",
+    "template": "Navigation Folder",
     "sourceControlRevisionId": null
   }
 ]
