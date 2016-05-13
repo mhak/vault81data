@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {0D7D42E9-17BE-421D-9536-B5352E369976}
+database: master
+path: /sitecore/templates/Demo/FirstRepublicBankNavigation/FRB Navigation Folder
+parent: {868008F8-CC6B-4624-9380-5BC35B15CDF8}
+name: FRB Navigation Folder
+master: {00000000-0000-0000-0000-000000000000}
+template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
+templatekey: Template
+
