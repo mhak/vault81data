@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking-Landing",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "30d3e955c85d863b7807d31fee7aa03b77394ac6"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{1CA5D071-33B6-4F1F-9C48-59D4E0FF4BD9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:33:02.7325679Z",
+    "label": "Installed from package - Matt Kloss Deploy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Free-Checking-Landing",
+    "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking-Landing",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
