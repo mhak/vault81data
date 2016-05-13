@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/templates/Demo/Site Header/Header Section/Logo",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "16c6e6b7eb333e6bb3f7a6f5a1a0e6a9dc5827f5"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{810DEBE4-DD83-46B3-9B6B-3174478BB46E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:31:57.0335147Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Logo",
+    "itemPath": "/sitecore/templates/Demo/Site Header/Header Section/Logo",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
