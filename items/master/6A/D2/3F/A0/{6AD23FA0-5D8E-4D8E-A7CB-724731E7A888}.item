@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {6AD23FA0-5D8E-4D8E-A7CB-724731E7A888}
+database: master
+path: /sitecore/templates/Demo/Navigation/Navigation Item/Link Section/Link
+parent: {AF7B142D-AD2D-45C8-B75C-C6EF6DBB34BC}
+name: Link
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+
