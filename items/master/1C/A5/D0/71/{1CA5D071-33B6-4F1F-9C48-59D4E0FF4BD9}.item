@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {1CA5D071-33B6-4F1F-9C48-59D4E0FF4BD9}
+database: master
+path: /sitecore/content/Home/My-Banking/Free-Checking-Landing
+parent: {17F2D96F-6A6B-42CF-AC1E-46E1362BD9C3}
+name: Free-Checking-Landing
+master: {00000000-0000-0000-0000-000000000000}
+template: {99595FA3-1836-4333-9B99-B650273820B9}
+templatekey: HealthWealthPage
+
