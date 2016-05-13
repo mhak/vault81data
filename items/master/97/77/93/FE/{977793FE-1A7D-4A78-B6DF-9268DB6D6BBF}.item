@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {977793FE-1A7D-4A78-B6DF-9268DB6D6BBF}
+database: master
+path: /sitecore/templates/Demo/FirstRepublicBankNavigation/FRB Navigation Item/__Standard Values
+parent: {2E6740C1-D326-42DA-9527-B3FCF6AE36E4}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {2E6740C1-D326-42DA-9527-B3FCF6AE36E4}
+templatekey: FRB Navigation Item
+
