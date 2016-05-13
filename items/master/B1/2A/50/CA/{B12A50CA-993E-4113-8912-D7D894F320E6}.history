@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/Disclosures/Dislcosures Folder/__Standard Values",
     "commandType": "Item",
     "template": "Dislcosures Folder",
+    "sourceControlRevisionId": "86eed97e79cf39ab1fd898622be708e5110f1d68"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{B12A50CA-993E-4113-8912-D7D894F320E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:13.9658339Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Demo/Disclosures/Dislcosures Folder/__Standard Values",
+    "commandType": "Item",
+    "template": "Dislcosures Folder",
     "sourceControlRevisionId": null
   }
 ]
