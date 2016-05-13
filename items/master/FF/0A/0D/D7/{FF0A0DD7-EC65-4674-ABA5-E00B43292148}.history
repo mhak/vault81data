@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/Disclosures",
     "commandType": "Item",
     "template": "Template Folder",
+    "sourceControlRevisionId": "0b34ab848a6c350405d5eca6819ca7c9d26b61f6"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{FF0A0DD7-EC65-4674-ABA5-E00B43292148}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:13.4217033Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Disclosures",
+    "itemPath": "/sitecore/templates/Demo/Disclosures",
+    "commandType": "Item",
+    "template": "Template Folder",
     "sourceControlRevisionId": null
   }
 ]
