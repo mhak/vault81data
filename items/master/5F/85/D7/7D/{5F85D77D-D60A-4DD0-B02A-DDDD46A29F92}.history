@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking/Savings",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "f27ffbaeb53b736e09208b453d46588edcc48ceb"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{5F85D77D-D60A-4DD0-B02A-DDDD46A29F92}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:33:03.2588539Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Savings",
+    "itemPath": "/sitecore/content/Home/My-Banking/Savings",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
