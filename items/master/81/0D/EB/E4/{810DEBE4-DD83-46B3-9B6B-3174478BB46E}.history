@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/Site Header/Header Section/Logo",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "7e2efd1cac15dafd1a4ebc6af7803974c6697b95"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{810DEBE4-DD83-46B3-9B6B-3174478BB46E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:31:57.1201646Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Logo",
+    "itemPath": "/sitecore/templates/Demo/Site Header/Header Section/Logo",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
