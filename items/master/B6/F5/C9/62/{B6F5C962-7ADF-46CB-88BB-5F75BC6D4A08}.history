@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosures Parameters Template/Disclosures",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "1e1884f49a5bfbdd367d3784305757e7c5d3ea2a"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{B6F5C962-7ADF-46CB-88BB-5F75BC6D4A08}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:14.5043052Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Disclosures",
+    "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosures Parameters Template/Disclosures",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]
