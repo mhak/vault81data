@@ -9,32 +9,95 @@ master: {00000000-0000-0000-0000-000000000000}
 template: {99595FA3-1836-4333-9B99-B650273820B9}
 templatekey: HealthWealthPage
 
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 1
+
+0
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 6439
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{0F7EC932-57A0-487F-979B-3E5F7A68E8BC}" p:before="r[@uid='{0509303B-97A1-4A55-932D-FEB699300510}']" s:ds="{B2C188D1-E2D5-4C72-9E58-6155199D026D}" s:id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" s:par="" s:ph=""><rls><ruleset><rule uid="{FC97D936-8D7E-443E-ABE6-9D29D97A782F}" s:name="Investor Title"><conditions><condition uid="CB16777B8CAA456DBEDCA747BA783D64" s:id="{9B73002F-8D6C-41FF-A10F-492B332FFF23}" s:CookieName="customer_type" s:operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}" s:CookieValue="investor" /></conditions><actions><action uid="D5F0B4D1CA8F44B798A1C5E8956FEF8D" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{BCC1E0B3-8E41-4AE2-BE45-0B27EAF17F31}" /></actions></rule><rule uid="{9D3A5774-AACE-4C34-9DBC-3A79DFC2206B}" s:name="Business Title"><actions><action uid="2ADC328C70DF4C588D4BB97FE7991ED1" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{1EBB1D8C-5696-47E3-BA62-A0E4C692A4D6}" /></actions><conditions><condition uid="5AA0F5DE3DEF480C9451FF6EA7FF16B4" s:id="{9B73002F-8D6C-41FF-A10F-492B332FFF23}" s:CookieName="customer_type" s:operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}" s:CookieValue="business" /></conditions></rule><rule uid="{00000000-0000-0000-0000-000000000000}" s:name="Default"><conditions><condition uid="EEED223A4C014E34A18ABF1721157EB2" s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" /></conditions><actions /></rule></ruleset></rls></r><r uid="{0509303B-97A1-4A55-932D-FEB699300510}" p:before="r[@uid='{9ED1507B-B360-4E95-A399-649B6AF6ADDF}']" s:ds="{A5461C58-0C5D-4CA4-BEF7-5D0445FF00C3}" s:id="{235239EB-895C-46F9-8EC9-2422D725CF5E}" s:par="" s:ph="content"><rls><ruleset><rule uid="{772ACE97-127C-4843-AE2C-AE2681CDA27C}" s:name="Business"><conditions><condition uid="5CC4B16B3085406D91F254EAA64F7AEE" s:id="{9B73002F-8D6C-41FF-A10F-492B332FFF23}" s:CookieName="customer_type" s:operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}" s:CookieValue="business" /></conditions><actions><action uid="714686F6385743969725E807735D1974" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{7447001A-956F-4477-AEAC-FC35D3C6649A}" /></actions></rule><rule uid="{00000000-0000-0000-0000-000000000000}" s:name="Default"><conditions><condition uid="4ADE62F86201401F92B4CF2BFD4A022D" s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" /></conditions><actions /></rule></ruleset></rls></r><r uid="{9ED1507B-B360-4E95-A399-649B6AF6ADDF}" p:before="r[@uid='{7CB6FE70-70BB-4B97-A043-242D21DD839D}']" s:ds="{7A4B5604-7717-4E0C-8759-46958B66473E}" s:id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" s:par="" s:ph=""><rls><ruleset><rule uid="{6C710BC0-7696-43F7-A07C-28C52813E4E1}" s:name="Condition Name"><actions><action uid="619E747AF9AE41C09F9F66E040705344" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{2ADB595F-3035-4354-AE72-E735CF47EB26}" /></actions><conditions><or uid="10B8E2DFBF4A4087A0808C84199C458C"><condition uid="C90E8A0991BF4B108CBB2F0E07A6DD49" s:id="{9B73002F-8D6C-41FF-A10F-492B332FFF23}" s:CookieName="customer_type" s:operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}" s:CookieValue="business" /><condition uid="990130B26DA2457D923FF37C79FCC21D" s:id="{9B73002F-8D6C-41FF-A10F-492B332FFF23}" s:CookieName="customer_type" s:operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}" s:CookieValue="investor" /></or></conditions></rule><rule uid="{00000000-0000-0000-0000-000000000000}" s:name="Default"><conditions><condition uid="03EB9939FCC742DE8459593D7D7B9B5A" s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" /></conditions><actions /></rule></ruleset></rls></r><r uid="{7CB6FE70-70BB-4B97-A043-242D21DD839D}" p:before="r[@uid='{8AE17380-C432-4C3E-98FF-5A284D3846D1}']" s:ds="{FC71A69D-C09B-4BC0-96CF-D8A10D7ADE7C}" s:id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" s:par="" s:ph="content"><rls><ruleset><rule uid="{ECCA5315-9867-4A24-BE3D-B18614BE01D9}" s:name="Logged In"><conditions><condition uid="9FDBE7BD579C486B82CCF77C48DE37FC" s:id="{EA0642FA-500B-4B2F-B264-765E771C516F}" s:except="true" /></conditions><actions><action uid="12468326D7C34FA5B95C6B638776154C" s:id="{25F351A1-712D-45F8-857D-8AD95BB2ACE9}" /></actions></rule><rule uid="{979EFBC5-9115-45B9-8BCD-178B78BC75DC}" s:name="Business"><conditions><or uid="432DAF4E56D4421392161D25D33736F0"><condition uid="DC73985FC062400B894162CF041EDB96" s:id="{9B73002F-8D6C-41FF-A10F-492B332FFF23}" s:CookieName="customer_type" s:operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}" s:CookieValue="business" /><condition uid="C84D8D0146D14530973EAA8EB15759EF" s:id="{9B73002F-8D6C-41FF-A10F-492B332FFF23}" s:CookieName="customer_type" s:operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}" s:CookieValue="investor" /></or></conditions><actions><action uid="B364841F2B0046A58CA173B81319AA17" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{7AC83948-4D88-4473-A894-D37C4FCC8CC5}" /></actions></rule><rule uid="{00000000-0000-0000-0000-000000000000}" s:name="Default"><conditions><condition uid="C416BC5A2A8144A3A0AB841D1BC26BF4" s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" /></conditions><actions /></rule></ruleset></rls></r><r uid="{8AE17380-C432-4C3E-98FF-5A284D3846D1}" p:before="r[@uid='{1317256E-C6FB-40A9-BD06-5E10F4351BDA}']" s:ds="{EEBD76BB-42D0-4F16-BB06-6FC323FF91AB}" s:id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" s:par="" s:ph="content"><rls><ruleset><rule uid="{AFD23DB9-ABCF-40CC-B9E1-AF380D641081}" s:name="Business"><conditions><or uid="42DAD8BC1C1243D687618C65BA7732F9"><condition uid="EA8FBCE466314B4A90F396D686BCC411" s:id="{9B73002F-8D6C-41FF-A10F-492B332FFF23}" s:CookieName="customer_type" s:operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}" s:CookieValue="business" /><condition uid="046BAD2E3B1647AF9F4720E990D4A04D" s:id="{9B73002F-8D6C-41FF-A10F-492B332FFF23}" s:CookieName="customer_type" s:operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}" s:CookieValue="investor" /></or></conditions><actions><action uid="CA248BA113C84334BD8F74614C567A01" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{46A961C0-4F3D-4737-86CD-8912D2474F04}" /></actions></rule><rule uid="{00000000-0000-0000-0000-000000000000}" s:name="Default"><conditions><condition uid="5AED28558AC24724A050948D81161481" s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" /></conditions><actions /></rule></ruleset></rls></r><r uid="{1317256E-C6FB-40A9-BD06-5E10F4351BDA}" p:before="*[1=2]" /></d></r>
 ----version----
 language: en
 version: 1
-revision: 5f7950a3-5d50-4083-b48f-754dfb864ff5
+revision: 7b1a2c52-c9bd-445a-a1fb-ee4e31029a12
 
+----field----
+field: {CC45B3FB-4DDB-4C7D-8FD0-9CAC3BD67156}
+name: Title
+key: title
+content-length: 0
+
+
+----field----
+field: {2C136CFE-5BD0-4729-9B89-6EBD18B3E6D6}
+name: End Body
+key: end body
+content-length: 1030
+
+<script>
+(function (window, $, xcentium, undefined) {
+$('.multi-item-carousel').carousel({
+  interval: false
+});
+
+// for every slide in carousel, copy the next slide's item in the slide.
+// Do the same for the next, next item.
+$('.multi-item-carousel .item').each(function(){
+
+  var next = $(this).next();
+
+  if (!next.length) {
+    next = $(this).siblings(':first');
+  }
+  next.children(':first-child').clone().appendTo($(this));
+  
+  if (next.next().length>0) {
+    next.next().children(':first-child').clone().appendTo($(this));
+
+	if (next.next().next().length>0) {
+		next.next().next().children(':first-child').clone().appendTo($(this));
+	} else {
+		$(this).siblings(':first').children(':first-child').clone().appendTo($(this));
+	}
+	
+  } else {
+  	$(this).siblings(':first').children(':first-child').clone().appendTo($(this));
+	$(this).siblings(':first').children(':nth-child(2)').clone().appendTo($(this));
+  }
+
+  
+});
+
+})(window, jQuery, window.xcentium = window.xcentium || {});
+</script>
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
 content-length: 16
 
-20160513T203301Z
+20160407T225505Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
 key: __created by
-content-length: 18
+content-length: 14
 
-extranet\Anonymous
+sitecore\admin
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-5f7950a3-5d50-4083-b48f-754dfb864ff5
+7b1a2c52-c9bd-445a-a1fb-ee4e31029a12
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
