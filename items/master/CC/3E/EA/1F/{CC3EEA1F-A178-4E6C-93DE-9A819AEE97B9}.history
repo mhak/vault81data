@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/Navigation/Navigation Folder/Navigation Folder Section/Name",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "2e9939c7342a6d3213f7d0ab7b348693c42fa1c1"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{CC3EEA1F-A178-4E6C-93DE-9A819AEE97B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:06.0074929Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Name",
+    "itemPath": "/sitecore/templates/Demo/Navigation/Navigation Folder/Navigation Folder Section/Name",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
