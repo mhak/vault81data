@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {AFE93274-50B9-4C38-83DD-51719C613D1B}
+database: master
+path: /sitecore/templates/Demo/Navigation/Navigation Folder/__Standard Values
+parent: {556B48C4-42E0-43E3-96DD-01690986246E}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {556B48C4-42E0-43E3-96DD-01690986246E}
+templatekey: Navigation Folder
+
