@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {FF3936E3-A6A8-41F5-9AB7-1D417DC05086}
+database: master
+path: /sitecore/templates/Demo/Page/Metadata/Html TItle
+parent: {FF1B1BE0-9041-48FD-AB9F-9575374D748C}
+name: Html TItle
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+
