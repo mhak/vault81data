@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {9835CF86-A632-48F0-AB79-1774BBFE5617}
+database: master
+path: /sitecore/templates/Demo/FirstRepublicBankNavigation/FRB Navigation Item/Data/Name
+parent: {3BBB74FF-E841-489E-95A2-B4421ACCC4DC}
+name: Name
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+

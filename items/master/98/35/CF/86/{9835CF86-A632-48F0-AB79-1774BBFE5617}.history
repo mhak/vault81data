@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{9835CF86-A632-48F0-AB79-1774BBFE5617}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:12.5115057Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Name",
+    "itemPath": "/sitecore/templates/Demo/FirstRepublicBankNavigation/FRB Navigation Item/Data/Name",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
