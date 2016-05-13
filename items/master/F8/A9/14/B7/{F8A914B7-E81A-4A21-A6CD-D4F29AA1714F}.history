@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F8A914B7-E81A-4A21-A6CD-D4F29AA1714F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:06.6823128Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Demo/Lists/Banking Menu List/__Standard Values",
+    "commandType": "Item",
+    "template": "Banking Menu List",
+    "sourceControlRevisionId": null
+  }
+]

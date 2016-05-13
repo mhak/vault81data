@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {F8A914B7-E81A-4A21-A6CD-D4F29AA1714F}
+database: master
+path: /sitecore/templates/Demo/Lists/Banking Menu List/__Standard Values
+parent: {FA9907A9-2216-4F53-A015-7D3BE16DA885}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {FA9907A9-2216-4F53-A015-7D3BE16DA885}
+templatekey: Banking Menu List
+
