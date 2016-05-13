@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/templates/Demo/Promotion/Data/Css Class",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "c345fd0c5fa849ad9e132067bc44fd535678c6b7"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{FB8B8297-38B7-4385-A0EB-2771D58DC63C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:00.1827889Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Css Class",
+    "itemPath": "/sitecore/templates/Demo/Promotion/Data/Css Class",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
