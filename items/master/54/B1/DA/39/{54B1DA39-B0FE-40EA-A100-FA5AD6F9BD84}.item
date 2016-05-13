@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {54B1DA39-B0FE-40EA-A100-FA5AD6F9BD84}
+database: master
+path: /sitecore/templates/Demo/Disclosures/Disclosure Item/Data
+parent: {C3C4093A-3E69-498D-BDE1-519E49A71F13}
+name: Data
+master: {00000000-0000-0000-0000-000000000000}
+template: {E269FBB5-3750-427A-9149-7AA950B49301}
+templatekey: Template section
+
