@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {30F053C4-4168-4FF9-BFE5-B9743B9DAB08}
+database: master
+path: /sitecore/templates/Demo/Page/Content/Bottom
+parent: {7FF4ACAB-58FF-4946-A266-39248AD92F18}
+name: Bottom
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+
