@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking/Sign-Up",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "c23e138889ece69365eb2b74f5ea38ab9ea470c2"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{476EDB7F-AC85-48A7-A591-04494B3BAF6F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:33:03.7029005Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Sign-Up",
+    "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking/Sign-Up",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
