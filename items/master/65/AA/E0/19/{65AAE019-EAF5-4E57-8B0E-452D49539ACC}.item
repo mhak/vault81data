@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {65AAE019-EAF5-4E57-8B0E-452D49539ACC}
+database: master
+path: /sitecore/templates/Demo/Page/__Standard Values
+parent: {F6282399-0A44-405B-B3DB-C2B882A328CA}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {F6282399-0A44-405B-B3DB-C2B882A328CA}
+templatekey: Page
+
