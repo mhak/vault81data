@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Demo/FirstRepublicBankNavigation/FRB Navigation Item/__Standard Values",
     "commandType": "Item",
     "template": "FRB Navigation Item",
+    "sourceControlRevisionId": "f2afe5ea05530b69113ae48a6a17d2bf24492ffc"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{977793FE-1A7D-4A78-B6DF-9268DB6D6BBF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:11.2870488Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Demo/FirstRepublicBankNavigation/FRB Navigation Item/__Standard Values",
+    "commandType": "Item",
+    "template": "FRB Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
