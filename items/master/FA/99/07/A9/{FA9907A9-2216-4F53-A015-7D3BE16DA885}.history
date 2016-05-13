@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/templates/Demo/Lists/Banking Menu List",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "2a0ac71d35a5080e7020cbc5b172ba6543fad77d"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{FA9907A9-2216-4F53-A015-7D3BE16DA885}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:06.5099092Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Banking Menu List",
+    "itemPath": "/sitecore/templates/Demo/Lists/Banking Menu List",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]
