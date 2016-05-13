@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/templates/Demo/Site Footer/__Standard Values",
     "commandType": "Item",
     "template": "Site Footer",
+    "sourceControlRevisionId": "82abed882c69afbbea8cc6e7224985c0368ca636"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{61C963D3-000E-48CB-9E51-5AB4C85A4015}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:31:57.6723013Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Demo/Site Footer/__Standard Values",
+    "commandType": "Item",
+    "template": "Site Footer",
     "sourceControlRevisionId": null
   }
 ]
