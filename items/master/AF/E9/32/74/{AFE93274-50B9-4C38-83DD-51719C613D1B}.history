@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Demo/Navigation/Navigation Folder/__Standard Values",
     "commandType": "Item",
     "template": "Navigation Folder",
+    "sourceControlRevisionId": "ea69bf09ac1ac67e5557a13b6bd71649f04435ad"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{AFE93274-50B9-4C38-83DD-51719C613D1B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:05.3425537Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Demo/Navigation/Navigation Folder/__Standard Values",
+    "commandType": "Item",
+    "template": "Navigation Folder",
     "sourceControlRevisionId": null
   }
 ]
