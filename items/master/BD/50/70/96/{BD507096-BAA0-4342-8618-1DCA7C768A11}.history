@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/Folders/Banking Menu/__Standard Values",
     "commandType": "Item",
     "template": "Banking Menu",
+    "sourceControlRevisionId": "c5906f7fd4cbb633a6b390720f8f08e59b629549"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{BD507096-BAA0-4342-8618-1DCA7C768A11}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:10.5552798Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Demo/Folders/Banking Menu/__Standard Values",
+    "commandType": "Item",
+    "template": "Banking Menu",
     "sourceControlRevisionId": null
   }
 ]
