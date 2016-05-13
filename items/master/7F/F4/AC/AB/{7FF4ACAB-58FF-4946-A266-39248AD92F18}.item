@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {7FF4ACAB-58FF-4946-A266-39248AD92F18}
+database: master
+path: /sitecore/templates/Demo/Page/Content
+parent: {F6282399-0A44-405B-B3DB-C2B882A328CA}
+name: Content
+master: {00000000-0000-0000-0000-000000000000}
+template: {E269FBB5-3750-427A-9149-7AA950B49301}
+templatekey: Template section
+
