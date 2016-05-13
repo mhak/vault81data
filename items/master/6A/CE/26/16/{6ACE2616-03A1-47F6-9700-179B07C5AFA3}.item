@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {6ACE2616-03A1-47F6-9700-179B07C5AFA3}
+database: master
+path: /sitecore/templates/Demo/Page/Content/Footer
+parent: {7FF4ACAB-58FF-4946-A266-39248AD92F18}
+name: Footer
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+
