@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/templates/Demo/Page/Content/Bottom",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "13763ee080d1bb2db9316e76f648d32786274199"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{30F053C4-4168-4FF9-BFE5-B9743B9DAB08}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:01.8769852Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Bottom",
+    "itemPath": "/sitecore/templates/Demo/Page/Content/Bottom",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
