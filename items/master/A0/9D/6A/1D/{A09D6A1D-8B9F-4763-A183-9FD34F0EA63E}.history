@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/templates/Demo/Folders/Footer",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "d0f455b2750881b82ac61c1e28b84286b88c04be"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{A09D6A1D-8B9F-4763-A183-9FD34F0EA63E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:09.5655214Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Footer",
+    "itemPath": "/sitecore/templates/Demo/Folders/Footer",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]
