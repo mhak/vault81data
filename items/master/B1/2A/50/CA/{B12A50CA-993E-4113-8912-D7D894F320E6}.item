@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {B12A50CA-993E-4113-8912-D7D894F320E6}
+database: master
+path: /sitecore/templates/Demo/Disclosures/Dislcosures Folder/__Standard Values
+parent: {17D4C1BA-0260-4658-BCB0-822B33233B38}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {17D4C1BA-0260-4658-BCB0-822B33233B38}
+templatekey: Dislcosures Folder
+
