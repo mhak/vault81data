@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {D70E97C1-65F9-4C4A-AB0D-AF4F14125680}
+database: master
+path: /sitecore/templates/Demo/Lists/Banking Menu List/Banking Menu Section/Name
+parent: {89AD24C4-3310-4EEF-9C65-9202E1CC9B88}
+name: Name
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+
