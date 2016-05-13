@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosure Item/Data/Specific Pages",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "db4136a1139f28208e64b9248a7937562920785d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{758BA01C-DA3C-4991-8795-D1675602B4E5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:16.0862520Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Specific Pages",
+    "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosure Item/Data/Specific Pages",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
