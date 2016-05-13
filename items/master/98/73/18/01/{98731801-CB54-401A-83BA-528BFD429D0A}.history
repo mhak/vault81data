@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "52b4b3f8d2c765d3a457dd83a33e0c2ba5e2aa17"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{98731801-CB54-401A-83BA-528BFD429D0A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:33:02.1465409Z",
+    "label": "Installed from package - Matt Kloss Deploy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Free-Checking",
+    "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
