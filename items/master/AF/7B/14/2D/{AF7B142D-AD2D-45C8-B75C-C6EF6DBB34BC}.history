@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/templates/Demo/Navigation/Navigation Item/Link Section",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "c8e85a09d833403000f2cb85db76d4e5ef6d05f8"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{AF7B142D-AD2D-45C8-B75C-C6EF6DBB34BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:04.3542111Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Link Section",
+    "itemPath": "/sitecore/templates/Demo/Navigation/Navigation Item/Link Section",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]
