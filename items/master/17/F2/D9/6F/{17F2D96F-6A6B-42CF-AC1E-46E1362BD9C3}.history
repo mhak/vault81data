@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "ad17b22c5045d468a05582d94e6ff89a14b0f62b"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{17F2D96F-6A6B-42CF-AC1E-46E1362BD9C3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:33:01.8459726Z",
+    "label": "Installed from package - Matt Kloss Deploy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "My-Banking",
+    "itemPath": "/sitecore/content/Home/My-Banking",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
