@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{FB8B8297-38B7-4385-A0EB-2771D58DC63C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:00.1135479Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Css Class",
+    "itemPath": "/sitecore/templates/Demo/Promotion/Data/Css Class",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
