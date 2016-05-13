@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{B64BEEC6-0D5B-47A2-B972-7A0A3C4F3D39}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:04.6251138Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Name",
+    "itemPath": "/sitecore/templates/Demo/Navigation/Navigation Item/Link Section/Name",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
