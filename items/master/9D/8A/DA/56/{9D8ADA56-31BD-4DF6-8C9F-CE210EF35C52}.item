@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {9D8ADA56-31BD-4DF6-8C9F-CE210EF35C52}
+database: master
+path: /sitecore/templates/Demo/Folders/Banking Menu
+parent: {EBBFCAFB-038C-4CFF-A10F-C56AD7F6B34E}
+name: Banking Menu
+master: {00000000-0000-0000-0000-000000000000}
+template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
+templatekey: Template
+
