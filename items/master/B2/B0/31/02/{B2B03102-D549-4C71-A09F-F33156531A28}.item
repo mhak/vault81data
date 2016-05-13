@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {B2B03102-D549-4C71-A09F-F33156531A28}
+database: master
+path: /sitecore/templates/Demo/Navigation/Navigation Folder/Navigation Folder Section
+parent: {556B48C4-42E0-43E3-96DD-01690986246E}
+name: Navigation Folder Section
+master: {00000000-0000-0000-0000-000000000000}
+template: {E269FBB5-3750-427A-9149-7AA950B49301}
+templatekey: Template section
+
