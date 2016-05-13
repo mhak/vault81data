@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Demo/Folders/Header",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "ce71d07abaf4c7ced7fc48da24ec9b2f4ae25fbb"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{3C0EE05B-3B18-4DA2-91E7-8DD0B64D77F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:08.9598341Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Header",
+    "itemPath": "/sitecore/templates/Demo/Folders/Header",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]
