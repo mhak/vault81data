@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {0C183433-9F2F-4F07-ADB7-ABBD5AE25452}
+database: master
+path: /sitecore/templates/Demo/Promotion/Data
+parent: {CFB6BB46-C6A8-44F9-977D-63C0A765B698}
+name: Data
+master: {00000000-0000-0000-0000-000000000000}
+template: {E269FBB5-3750-427A-9149-7AA950B49301}
+templatekey: Template section
+
