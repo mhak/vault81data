@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Demo/FirstRepublicBankNavigation/FRB Navigation Folder/__Standard Values",
     "commandType": "Item",
     "template": "FRB Navigation Folder",
+    "sourceControlRevisionId": "7b22bdac3bf1394b43e2f4633ed39af08ebd8e6a"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{E41BB1BC-432A-46C3-B705-0386CA5A0582}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:13.0839573Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Demo/FirstRepublicBankNavigation/FRB Navigation Folder/__Standard Values",
+    "commandType": "Item",
+    "template": "FRB Navigation Folder",
     "sourceControlRevisionId": null
   }
 ]
