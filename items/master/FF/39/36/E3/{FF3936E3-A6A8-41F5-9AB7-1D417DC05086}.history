@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/Page/Metadata/Html TItle",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "a94e3ff18ab49a56a39356ab15ff2345d30ced5f"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{FF3936E3-A6A8-41F5-9AB7-1D417DC05086}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:03.2676163Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Html TItle",
+    "itemPath": "/sitecore/templates/Demo/Page/Metadata/Html TItle",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
