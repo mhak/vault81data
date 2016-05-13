@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{C3C4093A-3E69-498D-BDE1-519E49A71F13}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:15.2938358Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Disclosure Item",
+    "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosure Item",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]
