@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Demo/Lists/Banking Menu List/Banking Menu Section/Banking Navigation List",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "26582a38a526f18a3614afa2050eca7d21595dc8"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{96843B17-9B81-4A90-AEB1-47F756542F53}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:07.1203213Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Banking Navigation List",
+    "itemPath": "/sitecore/templates/Demo/Lists/Banking Menu List/Banking Menu Section/Banking Navigation List",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
