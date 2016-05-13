@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {810DEBE4-DD83-46B3-9B6B-3174478BB46E}
+database: master
+path: /sitecore/templates/Demo/Site Header/Header Section/Logo
+parent: {E21116F3-B868-40F9-B040-54C243623924}
+name: Logo
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+
