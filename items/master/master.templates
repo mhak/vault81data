@@ -6682,6 +6682,11 @@
       ]
     },
     {
+      "name": "Dislcosures Folder",
+      "id": "{17D4C1BA-0260-4658-BCB0-822B33233B38}",
+      "sections": []
+    },
+    {
       "name": "Alias",
       "id": "{54BCFFB7-8F46-4948-AE74-DA5B6B5AFA86}",
       "sections": [
@@ -19708,6 +19713,11 @@
       ]
     },
     {
+      "name": "FRB Navigation Folder",
+      "id": "{0D7D42E9-17BE-421D-9536-B5352E369976}",
+      "sections": []
+    },
+    {
       "name": "Role",
       "id": "{A7DF04B4-4C4B-44B7-BE1E-AD901BD53DAD}",
       "sections": [
@@ -28596,6 +28606,214 @@
       ]
     },
     {
+      "name": "Disclosures Parameters Template",
+      "id": "{CDA6AAA6-FAAF-40A5-B14C-152847AD2EA0}",
+      "sections": [
+        {
+          "name": "Disclosures",
+          "id": "{B6F5C962-7ADF-46CB-88BB-5F75BC6D4A08}",
+          "sortOrder": 100,
+          "icon": "Applications/16x16/form_blue.png",
+          "fields": [
+            {
+              "name": "Disclosures Source",
+              "id": "{E24D8ACB-0028-4B1F-9104-CE4310214199}",
+              "defaultValue": "",
+              "type": "Treelist",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 100,
+              "source": "{B3BCC217-FC4B-4677-8093-4D61D52C05B0}",
+              "style": "",
+              "title": "",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            }
+          ]
+        },
+        {
+          "name": "General",
+          "id": "{426DE32D-EEDB-4938-A0D7-12D0D2107A2C}",
+          "sortOrder": 100,
+          "icon": "Applications/16x16/form_blue.png",
+          "fields": [
+            {
+              "name": "Placeholder",
+              "id": "{E42027F4-766D-45A7-8CF4-29E5C94326F7}",
+              "defaultValue": "",
+              "type": "Single-Line Text",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": true,
+              "sortorder": 100,
+              "source": "",
+              "style": "",
+              "title": "Placeholder",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            },
+            {
+              "name": "Data Source",
+              "id": "{0793DCFF-0EE7-48AD-B9D4-EF1DD24EB59B}",
+              "defaultValue": "",
+              "type": "Query Datasource",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": true,
+              "sortorder": 200,
+              "source": "",
+              "style": "",
+              "title": "Data Source",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            }
+          ]
+        },
+        {
+          "name": "Parameters",
+          "id": "{1CF87A5E-50A8-497E-8443-4AB81EE8A205}",
+          "sortOrder": 100,
+          "icon": "Applications/16x16/form_blue.png",
+          "fields": [
+            {
+              "name": "Additional Parameters",
+              "id": "{485E33D4-79F1-428F-8258-2CB29BB7CC6B}",
+              "defaultValue": "",
+              "type": "Name Value List",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": true,
+              "sortorder": 300,
+              "source": "",
+              "style": "",
+              "title": "Additional Parameters",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            }
+          ]
+        },
+        {
+          "name": "Caching",
+          "id": "{78D21349-8E72-4825-91DB-1B8C3A9A1042}",
+          "sortOrder": 200,
+          "icon": "Applications/16x16/form_blue.png",
+          "fields": [
+            {
+              "name": "Caching",
+              "id": "{3094D236-5985-4C4F-AE6A-E30740885532}",
+              "defaultValue": "",
+              "type": "Custom",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": true,
+              "sortorder": 100,
+              "source": "type=Sitecore.Shell.Applications.Layouts.DeviceEditor.CachingField,Sitecore.Client",
+              "style": "",
+              "title": "Caching",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            }
+          ]
+        },
+        {
+          "name": "Personalization",
+          "id": "{E877764C-456E-4288-887B-A8913CBCD99A}",
+          "sortOrder": 300,
+          "icon": "Applications/16x16/form_blue.png",
+          "fields": [
+            {
+              "name": "Personalization",
+              "id": "{C502BDEB-F5DA-4AD0-8095-D7CC1D0E1EEC}",
+              "defaultValue": "",
+              "type": "Custom",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": true,
+              "sortorder": 100,
+              "source": "type=Sitecore.Shell.Applications.Layouts.DeviceEditor.ExperienceTunerField,Sitecore.Client",
+              "style": "",
+              "title": "Personalization",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            }
+          ]
+        },
+        {
+          "name": "Test Lab",
+          "id": "{F72972F5-AB54-4552-AC46-CB493308D08A}",
+          "sortOrder": 400,
+          "icon": "Applications/16x16/form_blue.png",
+          "fields": [
+            {
+              "name": "Tests",
+              "id": "{0FA4635B-8BF4-46DF-994D-621B76F0A7AD}",
+              "defaultValue": "",
+              "type": "Internal Link",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": true,
+              "sortorder": 100,
+              "source": "{BA1B87AC-0853-45F0-AE13-41F969540134}",
+              "style": "",
+              "title": "Tests",
+              "toolTip": "Points to a test variable",
+              "validation": "",
+              "validationText": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Validation Rule",
       "id": "{8F8E2549-C77F-4860-B83B-54FA31E2BEFA}",
       "sections": [
@@ -28889,6 +29107,11 @@
     {
       "name": "Rendering Folder",
       "id": "{7EE0975B-0698-493E-B3A2-0B2EF33D0522}",
+      "sections": []
+    },
+    {
+      "name": "Banking Menu",
+      "id": "{9D8ADA56-31BD-4DF6-8C9F-CE210EF35C52}",
       "sections": []
     },
     {
@@ -44816,6 +45039,64 @@
               "style": "",
               "title": "Group Filter",
               "toolTip": "Applies to all definitions underneath",
+              "validation": "",
+              "validationText": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FRB Navigation Item",
+      "id": "{2E6740C1-D326-42DA-9527-B3FCF6AE36E4}",
+      "sections": [
+        {
+          "name": "Data",
+          "id": "{3BBB74FF-E841-489E-95A2-B4421ACCC4DC}",
+          "sortOrder": 100,
+          "icon": "Applications/16x16/form_blue.png",
+          "fields": [
+            {
+              "name": "Name",
+              "id": "{9835CF86-A632-48F0-AB79-1774BBFE5617}",
+              "defaultValue": "",
+              "type": "Single-Line Text",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 100,
+              "source": "",
+              "style": "",
+              "title": "",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            },
+            {
+              "name": "Link",
+              "id": "{42159F75-A278-4AA0-A32F-3FE3AAB2013B}",
+              "defaultValue": "",
+              "type": "General Link",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 200,
+              "source": "",
+              "style": "",
+              "title": "",
+              "toolTip": "",
               "validation": "",
               "validationText": ""
             }
