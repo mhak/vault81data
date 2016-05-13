@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {BC70D541-7655-4227-B8CD-862D773EB5EE}
+database: master
+path: /sitecore/templates/Demo/Disclosures/Disclosure Item/Data/Text
+parent: {54B1DA39-B0FE-40EA-A100-FA5AD6F9BD84}
+name: Text
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+
