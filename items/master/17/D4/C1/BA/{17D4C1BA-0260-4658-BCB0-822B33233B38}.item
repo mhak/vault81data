@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {17D4C1BA-0260-4658-BCB0-822B33233B38}
+database: master
+path: /sitecore/templates/Demo/Disclosures/Dislcosures Folder
+parent: {FF0A0DD7-EC65-4674-ABA5-E00B43292148}
+name: Dislcosures Folder
+master: {00000000-0000-0000-0000-000000000000}
+template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
+templatekey: Template
+
