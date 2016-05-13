@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/templates/Demo/Settings",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "3f793bc479db0c51024e94018466141657e3680a"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{4C6DFE8E-0C18-4AD3-93ED-FFBCC25D5D12}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:31:58.8118765Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Settings",
+    "itemPath": "/sitecore/templates/Demo/Settings",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]
