@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/Folders/Header",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "2ab43adbf8e650f19b63b1b7e1d89d7b5946d8d5"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{3C0EE05B-3B18-4DA2-91E7-8DD0B64D77F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:09.0998814Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Header",
+    "itemPath": "/sitecore/templates/Demo/Folders/Header",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]
