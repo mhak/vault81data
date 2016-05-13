@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {E21116F3-B868-40F9-B040-54C243623924}
+database: master
+path: /sitecore/templates/Demo/Site Header/Header Section
+parent: {7AE8D13E-24BE-43AA-8C13-10602B91BEDC}
+name: Header Section
+master: {00000000-0000-0000-0000-000000000000}
+template: {E269FBB5-3750-427A-9149-7AA950B49301}
+templatekey: Template section
+
