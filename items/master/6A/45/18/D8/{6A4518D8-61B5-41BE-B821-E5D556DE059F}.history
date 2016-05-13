@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/Site Footer/Footer Section/FooterLogo",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "fe043e4fdc0ae7123f8224a4a39819aa7e45528c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{6A4518D8-61B5-41BE-B821-E5D556DE059F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:31:58.6464463Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "FooterLogo",
+    "itemPath": "/sitecore/templates/Demo/Site Footer/Footer Section/FooterLogo",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
