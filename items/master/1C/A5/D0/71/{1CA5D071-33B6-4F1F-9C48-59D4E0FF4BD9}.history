@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking-Landing",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "28d6a011f5ce4106e7562379259860f0278a4236"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{1CA5D071-33B6-4F1F-9C48-59D4E0FF4BD9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:33:02.5545618Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Free-Checking-Landing",
+    "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking-Landing",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
