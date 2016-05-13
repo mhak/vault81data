@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/Page/Content/Bottom",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "1b26c6eda70f8bcec4593825437126040f613343"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{30F053C4-4168-4FF9-BFE5-B9743B9DAB08}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:01.8917885Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Bottom",
+    "itemPath": "/sitecore/templates/Demo/Page/Content/Bottom",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
