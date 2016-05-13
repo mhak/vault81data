@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/templates/Demo/Promotion Folder/__Standard Values",
     "commandType": "Item",
     "template": "Promotion Folder",
+    "sourceControlRevisionId": "7b38850f4fbacad0daa74449bcbfe37b7018fe3a"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{142F9015-9883-4DF2-B6A4-A3D00F847099}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:31:59.4298478Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Demo/Promotion Folder/__Standard Values",
+    "commandType": "Item",
+    "template": "Promotion Folder",
     "sourceControlRevisionId": null
   }
 ]
