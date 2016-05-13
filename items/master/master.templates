@@ -4892,6 +4892,86 @@
       ]
     },
     {
+      "name": "Promotion",
+      "id": "{CFB6BB46-C6A8-44F9-977D-63C0A765B698}",
+      "sections": [
+        {
+          "name": "Data",
+          "id": "{0C183433-9F2F-4F07-ADB7-ABBD5AE25452}",
+          "sortOrder": 100,
+          "icon": "Applications/16x16/form_blue.png",
+          "fields": [
+            {
+              "name": "Promotion Text",
+              "id": "{58AD30CD-F302-46E5-A3B8-94D02A7C9B57}",
+              "defaultValue": null,
+              "type": "Rich Text",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 100,
+              "source": "",
+              "style": "",
+              "title": "",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            },
+            {
+              "name": "Component Title",
+              "id": "{D1FD4061-7CF4-4C2E-B37B-C667FE829CF8}",
+              "defaultValue": null,
+              "type": "Single-Line Text",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 200,
+              "source": "",
+              "style": "",
+              "title": "",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            },
+            {
+              "name": "Css Class",
+              "id": "{FB8B8297-38B7-4385-A0EB-2771D58DC63C}",
+              "defaultValue": null,
+              "type": "Single-Line Text",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 300,
+              "source": "",
+              "style": "",
+              "title": "",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Search Control Type",
       "id": "{73452E69-1DA0-4738-B0F6-7C078EA4EF1B}",
       "sections": [
@@ -11796,6 +11876,86 @@
       "sections": []
     },
     {
+      "name": "Site Footer",
+      "id": "{38D6F0FC-5B0B-406D-B2D4-EBF7A15B47E6}",
+      "sections": [
+        {
+          "name": "Footer Section",
+          "id": "{155E3D17-5863-4BB7-BC3E-C82EF92E1D55}",
+          "sortOrder": 100,
+          "icon": "Applications/16x16/form_blue.png",
+          "fields": [
+            {
+              "name": "FooterLogo",
+              "id": "{6A4518D8-61B5-41BE-B821-E5D556DE059F}",
+              "defaultValue": "",
+              "type": "Image",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 100,
+              "source": "",
+              "style": "",
+              "title": "",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            },
+            {
+              "name": "FooterLogo2x",
+              "id": "{A195C6FE-DF4A-4374-BECE-3F794D5D2A93}",
+              "defaultValue": "",
+              "type": "Image",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 200,
+              "source": "",
+              "style": "",
+              "title": "",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            },
+            {
+              "name": "Copyright",
+              "id": "{F0EB5F89-1D04-45E7-9D11-F46AEEE71B85}",
+              "defaultValue": "",
+              "type": "Single-Line Text",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 300,
+              "source": "",
+              "style": "",
+              "title": "",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Country",
       "id": "{A08790DA-FAE8-4DDA-A4F8-CFE38EACE722}",
       "sections": [
@@ -15319,6 +15479,204 @@
               "source": "",
               "style": "",
               "title": "Reference name",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Page",
+      "id": "{F6282399-0A44-405B-B3DB-C2B882A328CA}",
+      "sections": [
+        {
+          "name": "Metadata",
+          "id": "{FF1B1BE0-9041-48FD-AB9F-9575374D748C}",
+          "sortOrder": 50,
+          "icon": "Applications/16x16/form_blue.png",
+          "fields": [
+            {
+              "name": "Head",
+              "id": "{991A82A6-0C6A-41BC-AD0C-81153B04EDC6}",
+              "defaultValue": "",
+              "type": "Multi-Line Text",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 50,
+              "source": "",
+              "style": "",
+              "title": "",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            },
+            {
+              "name": "Html TItle",
+              "id": "{FF3936E3-A6A8-41F5-9AB7-1D417DC05086}",
+              "defaultValue": "",
+              "type": "Single-Line Text",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 100,
+              "source": "",
+              "style": "",
+              "title": "",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            },
+            {
+              "name": "End Body",
+              "id": "{2C136CFE-5BD0-4729-9B89-6EBD18B3E6D6}",
+              "defaultValue": "",
+              "type": "Multi-Line Text",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 200,
+              "source": "",
+              "style": "",
+              "title": "",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            }
+          ]
+        },
+        {
+          "name": "Content",
+          "id": "{7FF4ACAB-58FF-4946-A266-39248AD92F18}",
+          "sortOrder": 100,
+          "icon": "Applications/16x16/form_blue.png",
+          "fields": [
+            {
+              "name": "Header",
+              "id": "{AF561690-7884-4B53-98C4-0BC5DC293E7B}",
+              "defaultValue": "",
+              "type": "Rich Text",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 100,
+              "source": "",
+              "style": "",
+              "title": "",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            },
+            {
+              "name": "Title",
+              "id": "{CC45B3FB-4DDB-4C7D-8FD0-9CAC3BD67156}",
+              "defaultValue": "",
+              "type": "Single-Line Text",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 150,
+              "source": "",
+              "style": "",
+              "title": "",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            },
+            {
+              "name": "Body",
+              "id": "{83DC9BCD-62D5-4EA9-BC01-AB3E8EE9F24F}",
+              "defaultValue": "",
+              "type": "Rich Text",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 200,
+              "source": "",
+              "style": "",
+              "title": "",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            },
+            {
+              "name": "Bottom",
+              "id": "{30F053C4-4168-4FF9-BFE5-B9743B9DAB08}",
+              "defaultValue": "",
+              "type": "Rich Text",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 300,
+              "source": "",
+              "style": "",
+              "title": "",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            },
+            {
+              "name": "Footer",
+              "id": "{6ACE2616-03A1-47F6-9700-179B07C5AFA3}",
+              "defaultValue": "",
+              "type": "Rich Text",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 400,
+              "source": "",
+              "style": "",
+              "title": "",
               "toolTip": "",
               "validation": "",
               "validationText": ""
@@ -19732,6 +20090,64 @@
               "source": "",
               "style": "",
               "title": "Accordion Name",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Navigation Item",
+      "id": "{92FAD5BB-57AF-4991-826D-2C140B29CF1B}",
+      "sections": [
+        {
+          "name": "Link Section",
+          "id": "{AF7B142D-AD2D-45C8-B75C-C6EF6DBB34BC}",
+          "sortOrder": 100,
+          "icon": "Applications/16x16/form_blue.png",
+          "fields": [
+            {
+              "name": "Name",
+              "id": "{B64BEEC6-0D5B-47A2-B972-7A0A3C4F3D39}",
+              "defaultValue": "",
+              "type": "Single-Line Text",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 100,
+              "source": "",
+              "style": "",
+              "title": "",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            },
+            {
+              "name": "Link",
+              "id": "{6AD23FA0-5D8E-4D8E-A7CB-724731E7A888}",
+              "defaultValue": "",
+              "type": "General Link",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 200,
+              "source": "/sitecore/content/Home",
+              "style": "",
+              "title": "",
               "toolTip": "",
               "validation": "",
               "validationText": ""
@@ -25255,6 +25671,16 @@
       "sections": []
     },
     {
+      "name": "Promotion Folder",
+      "id": "{A2D5C3EF-F775-4023-8417-D64EDC0274A2}",
+      "sections": []
+    },
+    {
+      "name": "Settings",
+      "id": "{4C6DFE8E-0C18-4AD3-93ED-FFBCC25D5D12}",
+      "sections": []
+    },
+    {
       "name": "Validation Rule",
       "id": "{0512BDE9-5696-42C4-8C7D-B349EDA9CEF9}",
       "sections": [
@@ -27772,6 +28198,19 @@
       "name": "Bucket",
       "id": "{ADB6CA4F-03EF-4F47-B9AC-9CE2BA53FF97}",
       "sections": []
+    },
+    {
+      "name": "Navigation Folder",
+      "id": "{556B48C4-42E0-43E3-96DD-01690986246E}",
+      "sections": [
+        {
+          "name": "Navigation Folder Section",
+          "id": "{B2B03102-D549-4C71-A09F-F33156531A28}",
+          "sortOrder": 100,
+          "icon": "Applications/16x16/form_blue.png",
+          "fields": []
+        }
+      ]
     },
     {
       "name": "Flash",
@@ -35916,6 +36355,86 @@
               "source": "",
               "style": "",
               "title": "ID",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Site Header",
+      "id": "{7AE8D13E-24BE-43AA-8C13-10602B91BEDC}",
+      "sections": [
+        {
+          "name": "Header Section",
+          "id": "{E21116F3-B868-40F9-B040-54C243623924}",
+          "sortOrder": 100,
+          "icon": "Applications/16x16/form_blue.png",
+          "fields": [
+            {
+              "name": "Title",
+              "id": "{E73797A1-4C29-45EF-9E52-92B4940FED1A}",
+              "defaultValue": "",
+              "type": "Single-Line Text",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 100,
+              "source": "",
+              "style": "",
+              "title": "",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            },
+            {
+              "name": "Logo",
+              "id": "{810DEBE4-DD83-46B3-9B6B-3174478BB46E}",
+              "defaultValue": "",
+              "type": "Image",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 200,
+              "source": "",
+              "style": "",
+              "title": "",
+              "toolTip": "",
+              "validation": "",
+              "validationText": ""
+            },
+            {
+              "name": "Logo 2x",
+              "id": "{CBD3FD73-2569-4F77-9948-8D8696DC24CC}",
+              "defaultValue": "",
+              "type": "Image",
+              "unversioned": false,
+              "description": "",
+              "excludeFromTextSearch": false,
+              "helpLink": "",
+              "icon": "/sitecore/shell/themes/Standard/Applications/32x32/Document.png",
+              "ignoreDictionaryTranslations": false,
+              "isBlob": false,
+              "resetBlank": false,
+              "shared": false,
+              "sortorder": 300,
+              "source": "",
+              "style": "",
+              "title": "",
               "toolTip": "",
               "validation": "",
               "validationText": ""
