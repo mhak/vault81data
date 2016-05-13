@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {BD507096-BAA0-4342-8618-1DCA7C768A11}
+database: master
+path: /sitecore/templates/Demo/Folders/Banking Menu/__Standard Values
+parent: {9D8ADA56-31BD-4DF6-8C9F-CE210EF35C52}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {9D8ADA56-31BD-4DF6-8C9F-CE210EF35C52}
+templatekey: Banking Menu
+
