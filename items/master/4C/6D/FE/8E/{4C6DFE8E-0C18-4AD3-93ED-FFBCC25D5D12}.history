@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/Settings",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "e4af724e1ee689d9d3b14c267c1bf382e8e3e2c5"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{4C6DFE8E-0C18-4AD3-93ED-FFBCC25D5D12}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:31:58.8916359Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Settings",
+    "itemPath": "/sitecore/templates/Demo/Settings",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]
