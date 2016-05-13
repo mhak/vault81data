@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {83524AE9-AA24-49B3-B868-B053F25482C2}
+database: master
+path: /sitecore/content/Home/My-Banking/Free-Checking/Offer
+parent: {98731801-CB54-401A-83BA-528BFD429D0A}
+name: Offer
+master: {00000000-0000-0000-0000-000000000000}
+template: {99595FA3-1836-4333-9B99-B650273820B9}
+templatekey: HealthWealthPage
+
