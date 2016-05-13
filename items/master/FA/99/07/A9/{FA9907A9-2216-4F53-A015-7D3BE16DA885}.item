@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {FA9907A9-2216-4F53-A015-7D3BE16DA885}
+database: master
+path: /sitecore/templates/Demo/Lists/Banking Menu List
+parent: {4916944A-E8DA-4F5A-A8E6-DC7F1691C128}
+name: Banking Menu List
+master: {00000000-0000-0000-0000-000000000000}
+template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
+templatekey: Template
+
