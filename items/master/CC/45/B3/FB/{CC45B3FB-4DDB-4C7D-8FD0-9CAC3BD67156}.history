@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/templates/Demo/Page/Content/Title",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "92a59c8958e38b6d4614bf6d7aa4a2c9b378c554"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{CC45B3FB-4DDB-4C7D-8FD0-9CAC3BD67156}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:02.2428686Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Title",
+    "itemPath": "/sitecore/templates/Demo/Page/Content/Title",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
