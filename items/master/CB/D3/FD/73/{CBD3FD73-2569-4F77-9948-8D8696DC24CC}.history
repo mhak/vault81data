@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/templates/Demo/Site Header/Header Section/Logo 2x",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "45e4242b38bbe6d548c3c2ed5b1e13d64ad6f269"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{CBD3FD73-2569-4F77-9948-8D8696DC24CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:31:56.6545237Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Logo 2x",
+    "itemPath": "/sitecore/templates/Demo/Site Header/Header Section/Logo 2x",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
