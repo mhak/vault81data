@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "13b0bd061073c9b47aaeaebdaef221c8091b3191"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{9AC2DEEB-F849-49E4-96A9-ADD3FB6E88DC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:33:01.3167542Z",
+    "label": "Installed from package - Matt Kloss Deploy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Home",
+    "itemPath": "/sitecore/content/Home",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
