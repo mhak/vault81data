@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking/Checking",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "7c61ac5f286f27fe5127afbaca7aec9ca13bda7a"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{1C9A1085-CF49-46A0-A1FD-1C62381FE967}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:33:02.3931097Z",
+    "label": "Installed from package - Matt Kloss Deploy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Checking",
+    "itemPath": "/sitecore/content/Home/My-Banking/Checking",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
