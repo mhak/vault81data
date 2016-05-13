@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{3C0EE05B-3B18-4DA2-91E7-8DD0B64D77F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:08.8898204Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Header",
+    "itemPath": "/sitecore/templates/Demo/Folders/Header",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

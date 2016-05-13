@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {3C0EE05B-3B18-4DA2-91E7-8DD0B64D77F5}
+database: master
+path: /sitecore/templates/Demo/Folders/Header
+parent: {EBBFCAFB-038C-4CFF-A10F-C56AD7F6B34E}
+name: Header
+master: {00000000-0000-0000-0000-000000000000}
+template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
+templatekey: Template
+
