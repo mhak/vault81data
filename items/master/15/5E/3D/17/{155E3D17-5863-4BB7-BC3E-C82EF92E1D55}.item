@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {155E3D17-5863-4BB7-BC3E-C82EF92E1D55}
+database: master
+path: /sitecore/templates/Demo/Site Footer/Footer Section
+parent: {38D6F0FC-5B0B-406D-B2D4-EBF7A15B47E6}
+name: Footer Section
+master: {00000000-0000-0000-0000-000000000000}
+template: {E269FBB5-3750-427A-9149-7AA950B49301}
+templatekey: Template section
+
