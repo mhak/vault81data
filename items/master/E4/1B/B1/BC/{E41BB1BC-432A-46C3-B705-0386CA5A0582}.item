@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {E41BB1BC-432A-46C3-B705-0386CA5A0582}
+database: master
+path: /sitecore/templates/Demo/FirstRepublicBankNavigation/FRB Navigation Folder/__Standard Values
+parent: {0D7D42E9-17BE-421D-9536-B5352E369976}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {0D7D42E9-17BE-421D-9536-B5352E369976}
+templatekey: FRB Navigation Folder
+
