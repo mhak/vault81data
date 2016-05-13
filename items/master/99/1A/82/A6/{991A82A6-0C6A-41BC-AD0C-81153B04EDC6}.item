@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {991A82A6-0C6A-41BC-AD0C-81153B04EDC6}
+database: master
+path: /sitecore/templates/Demo/Page/Metadata/Head
+parent: {FF1B1BE0-9041-48FD-AB9F-9575374D748C}
+name: Head
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+
