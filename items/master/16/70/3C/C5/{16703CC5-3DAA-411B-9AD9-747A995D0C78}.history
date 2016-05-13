@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosures Parameters Template/__Standard Values",
     "commandType": "Item",
     "template": "Disclosures Parameters Template",
+    "sourceControlRevisionId": "1329561a72b22f7e29bc208679db0f6d76aade6a"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{16703CC5-3DAA-411B-9AD9-747A995D0C78}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:14.3773077Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosures Parameters Template/__Standard Values",
+    "commandType": "Item",
+    "template": "Disclosures Parameters Template",
     "sourceControlRevisionId": null
   }
 ]
