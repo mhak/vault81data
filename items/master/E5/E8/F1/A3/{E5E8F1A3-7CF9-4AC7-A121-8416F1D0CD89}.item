@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {E5E8F1A3-7CF9-4AC7-A121-8416F1D0CD89}
+database: master
+path: /sitecore/templates/Demo/Folders/Header/__Standard Values
+parent: {3C0EE05B-3B18-4DA2-91E7-8DD0B64D77F5}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {3C0EE05B-3B18-4DA2-91E7-8DD0B64D77F5}
+templatekey: Header
+
