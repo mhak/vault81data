@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{5F85D77D-D60A-4DD0-B02A-DDDD46A29F92}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:33:03.0677349Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Savings",
+    "itemPath": "/sitecore/content/Home/My-Banking/Savings",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
+    "sourceControlRevisionId": null
+  }
+]
