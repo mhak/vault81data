@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Demo/Site Footer/Footer Section/FooterLogo",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "bdb9e7faa7d55b0d43163b87f09569aa0f2be83d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{6A4518D8-61B5-41BE-B821-E5D556DE059F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:31:58.5470174Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "FooterLogo",
+    "itemPath": "/sitecore/templates/Demo/Site Footer/Footer Section/FooterLogo",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
