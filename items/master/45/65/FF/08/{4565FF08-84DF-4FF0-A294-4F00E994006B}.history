@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/HealthWealthPage/__Standard Values",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "8c1075488a5bd20ad7f462377713db93c1289d94"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{4565FF08-84DF-4FF0-A294-4F00E994006B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:08.4711665Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Demo/HealthWealthPage/__Standard Values",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
