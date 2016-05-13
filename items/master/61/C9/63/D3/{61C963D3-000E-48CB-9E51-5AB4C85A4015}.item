@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {61C963D3-000E-48CB-9E51-5AB4C85A4015}
+database: master
+path: /sitecore/templates/Demo/Site Footer/__Standard Values
+parent: {38D6F0FC-5B0B-406D-B2D4-EBF7A15B47E6}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {38D6F0FC-5B0B-406D-B2D4-EBF7A15B47E6}
+templatekey: Site Footer
+
