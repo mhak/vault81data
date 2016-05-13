@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/templates/Demo/Site Footer/Footer Section/Copyright",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "49366f2c5da058335b6acc4086a2dbba658372a4"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{F0EB5F89-1D04-45E7-9D11-F46AEEE71B85}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:31:58.0549072Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Copyright",
+    "itemPath": "/sitecore/templates/Demo/Site Footer/Footer Section/Copyright",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
