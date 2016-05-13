@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Demo/Page/Metadata",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "374ae9a5545969c23b1bdd2fd30d3a52ccee76fe"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{FF1B1BE0-9041-48FD-AB9F-9575374D748C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:02.7314787Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Metadata",
+    "itemPath": "/sitecore/templates/Demo/Page/Metadata",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]
