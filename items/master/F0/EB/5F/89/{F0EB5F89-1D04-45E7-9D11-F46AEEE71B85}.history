@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F0EB5F89-1D04-45E7-9D11-F46AEEE71B85}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:31:57.9542444Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Copyright",
+    "itemPath": "/sitecore/templates/Demo/Site Footer/Footer Section/Copyright",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
