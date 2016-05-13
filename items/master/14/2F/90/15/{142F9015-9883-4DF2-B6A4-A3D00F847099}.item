@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {142F9015-9883-4DF2-B6A4-A3D00F847099}
+database: master
+path: /sitecore/templates/Demo/Promotion Folder/__Standard Values
+parent: {A2D5C3EF-F775-4023-8417-D64EDC0274A2}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {A2D5C3EF-F775-4023-8417-D64EDC0274A2}
+templatekey: Promotion Folder
+
