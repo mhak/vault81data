@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking/Sign-Up",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "7a74576313cb5ac6b4926b44924e0712ff818976"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{476EDB7F-AC85-48A7-A591-04494B3BAF6F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:33:03.8798249Z",
+    "label": "Installed from package - Matt Kloss Deploy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Sign-Up",
+    "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking/Sign-Up",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
