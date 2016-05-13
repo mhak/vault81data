@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/Lists/Banking Menu List",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "420c96718250616c28a4c30dbbef457e9640908f"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{FA9907A9-2216-4F53-A015-7D3BE16DA885}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:06.6404362Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Banking Menu List",
+    "itemPath": "/sitecore/templates/Demo/Lists/Banking Menu List",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]
