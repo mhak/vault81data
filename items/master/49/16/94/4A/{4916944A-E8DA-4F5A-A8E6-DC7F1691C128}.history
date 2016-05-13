@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/Lists",
     "commandType": "Item",
     "template": "Template Folder",
+    "sourceControlRevisionId": "60e9a71c9f4ed5dfe1bc0f247541afaed90a0586"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{4916944A-E8DA-4F5A-A8E6-DC7F1691C128}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:06.3765847Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Lists",
+    "itemPath": "/sitecore/templates/Demo/Lists",
+    "commandType": "Item",
+    "template": "Template Folder",
     "sourceControlRevisionId": null
   }
 ]
