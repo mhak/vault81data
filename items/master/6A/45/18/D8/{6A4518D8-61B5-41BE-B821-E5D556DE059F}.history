@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{6A4518D8-61B5-41BE-B821-E5D556DE059F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:31:58.4912997Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "FooterLogo",
+    "itemPath": "/sitecore/templates/Demo/Site Footer/Footer Section/FooterLogo",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
