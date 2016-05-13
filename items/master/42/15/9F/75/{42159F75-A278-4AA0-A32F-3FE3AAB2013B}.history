@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/FirstRepublicBankNavigation/FRB Navigation Item/Data/Link",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "fd2e519b550582aba780bebae1c70fc57607123a"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{42159F75-A278-4AA0-A32F-3FE3AAB2013B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:12.3407331Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Link",
+    "itemPath": "/sitecore/templates/Demo/FirstRepublicBankNavigation/FRB Navigation Item/Data/Link",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
