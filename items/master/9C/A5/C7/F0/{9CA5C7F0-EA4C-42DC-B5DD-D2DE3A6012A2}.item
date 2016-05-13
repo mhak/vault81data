@@ -9,39 +9,117 @@ master: {00000000-0000-0000-0000-000000000000}
 template: {99595FA3-1836-4333-9B99-B650273820B9}
 templatekey: HealthWealthPage
 
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 329
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{58125333-11B6-4FC9-9586-9D82340A04E2}" p:before="r[@uid='{1317256E-C6FB-40A9-BD06-5E10F4351BDA}']" s:id="{6E7A56D4-3C34-468A-B56B-396D25E66A44}" s:ph="content" /><r uid="{1317256E-C6FB-40A9-BD06-5E10F4351BDA}" p:before="*[1=2]" /></d></r>
 ----version----
 language: en
 version: 1
-revision: 2d8696bb-93ca-4162-b644-e003147efee1
+revision: ba3e1e63-3adc-4fda-988c-b6e5c98c8c8e
 
+----field----
+field: {CC45B3FB-4DDB-4C7D-8FD0-9CAC3BD67156}
+name: Title
+key: title
+content-length: 0
+
+
+----field----
+field: {83DC9BCD-62D5-4EA9-BC01-AB3E8EE9F24F}
+name: Body
+key: body
+content-length: 2189
+
+<style>
+    .page-titles--healthy {
+    background: url("/Assets/images/confirm/Top_IMG.png") center top no-repeat;
+    background-color: white;
+    background-size:cover;
+    }
+    .splBtn{
+    height:40px;
+    width:240px;
+    display:inline-block;
+    border-radius:20px;
+    border: 1px solid #484848;
+    line-height:20px;
+    font-size:16px;
+    line-height:36px;
+    margin:10px;
+    text-align:center;
+    vertical-align:middle;
+    }
+    a.splBtn{
+    color:#484848;
+    }
+    .page-titles{padding:20px 0;}
+</style>
+<section class="page-titles page-titles--healthy component" style="height: 300px;">
+<div class="component__inner">
+</div>
+</section>
+<section style="text-align: center; margin-bottom: 50px;">
+<div class="component__inner">
+<h1 class="page-titles__main">Thank you for signing up!</h1>
+<h2 class="page-titles__sub">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</h2>
+<a class="splBtn" href="~/link.aspx?_id=17F2D96F6A6B42CFAC1E46E1362BD9C3&amp;_z=z">GO TO ACCOUNTS</a>
+</div>
+</section>
+<style>
+    .disclosures{
+    background: white;
+    }
+    .disclosures .line{
+    padding: 2px 0;
+    }
+    .quote-component__quote:before {
+    color: #FAFAFA;
+    }
+</style>
+<section class="component">
+<div class="component__inner" style="color: #fafafa; padding: 0px; background-image: url(/assets/images/personal/testimonial_img.png);">
+<div style="padding: 30px 0px 30px 36px; height: 100%; width: 70%; background: linear-gradient(to right, #000000, rgba(0, 0, 0, 0));">
+<h2 style="font-size: 40px; line-height: 40px;">HOMEBUYER <br>
+SUCCESS STORIES</h2>
+<h4 style="max-width: 350px; margin-top: 40px; color: #fafafa; font-size: 22px; line-height: 24px;" class="quote-component__quote"><em>Healthy + Wealthy helped us with the purchase of our first home!</em></h4>
+<p style="margin-left: 239px; max-width: 190px; font-size: 14px; line-height: 17px;">Joshua &amp; Melanie Davis
+Healthy + Wealthy since 2014</p>
+<a style="line-height: 24px; display: inline-block; margin-top: 10px; border-radius: 30px; font-size: 20px; color: #242424; padding: 7px 22px 9px 23px; height: 40px; width: 200px; background-color: #da5a6a;">Watch the Video</a>
+</div>
+</div>
+</section>
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
 content-length: 16
 
-20160513T203303Z
+20160420T181249Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
 key: __created by
-content-length: 18
+content-length: 14
 
-extranet\Anonymous
+sitecore\admin
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-2d8696bb-93ca-4162-b644-e003147efee1
+ba3e1e63-3adc-4fda-988c-b6e5c98c8c8e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160513T203303Z
+20160513T203304Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
