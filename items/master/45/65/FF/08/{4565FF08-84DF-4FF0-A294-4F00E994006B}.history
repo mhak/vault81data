@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Demo/HealthWealthPage/__Standard Values",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "e6a9c1b4aeaf12e59e0d109fbf2122015b0440b4"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{4565FF08-84DF-4FF0-A294-4F00E994006B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:08.2456949Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Demo/HealthWealthPage/__Standard Values",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
