@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {556B48C4-42E0-43E3-96DD-01690986246E}
+database: master
+path: /sitecore/templates/Demo/Navigation/Navigation Folder
+parent: {F2C8AB0A-3AD8-4651-9A4D-7538A6F55FDB}
+name: Navigation Folder
+master: {00000000-0000-0000-0000-000000000000}
+template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
+templatekey: Template
+

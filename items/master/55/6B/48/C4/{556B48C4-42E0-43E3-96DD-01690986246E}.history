@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{556B48C4-42E0-43E3-96DD-01690986246E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:04.9120306Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Navigation Folder",
+    "itemPath": "/sitecore/templates/Demo/Navigation/Navigation Folder",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]
