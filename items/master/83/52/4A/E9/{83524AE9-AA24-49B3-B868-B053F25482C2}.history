@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking/Offer",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "3fed1ff0ee290b166a9bd7781347412a92f44c8b"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{83524AE9-AA24-49B3-B868-B053F25482C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:33:03.5712684Z",
+    "label": "Installed from package - Matt Kloss Deploy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Offer",
+    "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking/Offer",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
