@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Demo/Site Footer/__Standard Values",
     "commandType": "Item",
     "template": "Site Footer",
+    "sourceControlRevisionId": "915bcc57ad12d042c4f0b1cc2614e71c5eddea93"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{61C963D3-000E-48CB-9E51-5AB4C85A4015}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:31:57.6544192Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Demo/Site Footer/__Standard Values",
+    "commandType": "Item",
+    "template": "Site Footer",
     "sourceControlRevisionId": null
   }
 ]
