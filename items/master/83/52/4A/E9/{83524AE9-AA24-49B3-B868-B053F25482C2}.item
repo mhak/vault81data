@@ -9,32 +9,153 @@ master: {00000000-0000-0000-0000-000000000000}
 template: {99595FA3-1836-4333-9B99-B650273820B9}
 templatekey: HealthWealthPage
 
+----field----
+field: {B0A67B2A-8B07-4E0B-8809-69F751709806}
+name: __Tracking
+key: __tracking
+content-length: 112
+
+<tracking><campaign title="Free Checking with Savings" id="{645013BD-1A00-4BA8-949F-4CB99A9CA9C3}" /></tracking>
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 329
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{9A125DC8-11DA-4646-B4BD-F6B3C358D219}" p:before="r[@uid='{1317256E-C6FB-40A9-BD06-5E10F4351BDA}']" s:id="{6E7A56D4-3C34-468A-B56B-396D25E66A44}" s:ph="content" /><r uid="{1317256E-C6FB-40A9-BD06-5E10F4351BDA}" p:before="*[1=2]" /></d></r>
 ----version----
 language: en
 version: 1
-revision: 5bc9b85d-55fc-4d78-9995-27683d267472
+revision: bbfea310-088c-4443-a8ca-2b35552ef0f4
 
+----field----
+field: {CC45B3FB-4DDB-4C7D-8FD0-9CAC3BD67156}
+name: Title
+key: title
+content-length: 0
+
+
+----field----
+field: {83DC9BCD-62D5-4EA9-BC01-AB3E8EE9F24F}
+name: Body
+key: body
+content-length: 3164
+
+<style>
+    .page-titles--healthy {
+    background: url("/Assets/images/promo-landing/Top_IMG.png") center top no-repeat;
+    background-color: white;
+    background-size:cover;
+    }
+    .splBtn{
+    height:40px;
+    width:240px;
+    display:inline-block;
+    border-radius:20px;
+    border: 1px solid #484848;
+    line-height:20px;
+    font-size:16px;
+    line-height:36px;
+    margin:10px;
+    text-align:center;
+    vertical-align:middle;
+    }
+    a.splBtn{
+    color:#484848;
+    }
+    .page-titles{padding:20px 0;}
+</style>
+<section class="page-titles page-titles--healthy component" style="height: 300px;">
+<div class="component__inner">
+</div>
+</section>
+<section style="text-align: center; margin-bottom: 50px;">
+<div class="component__inner">
+<h1 class="page-titles__main">Open a new savings account, get free checking</h1>
+<h2 class="page-titles__sub">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</h2>
+<a class="splBtn" href="~/link.aspx?_id=476EDB7FAC8548A7A59104494B3BAF6F&amp;_z=z">GET STARTED</a>
+</div>
+</section>
+<style>
+    .news-insights h4 {
+    color:#484848;padding-top:20px;
+    }
+    .quote-component__quote:before {
+    color: #FAFAFA;
+    }
+</style>
+<section class="component performance news-insights">
+<div class="component__inner performance__inner" style="padding-top: 18px;">
+<div class="columns columns--50-50">
+<div class=" col-xs-4">
+<img alt="" src="/assets/images/promo-landing/post1.png">
+<h4>Tips for online banking</h4>
+<p>
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.
+</p>
+</div>
+<div class=" col-xs-4">
+<img alt="" src="/assets/images/promo-landing/post2.png">
+<h4>Consolidating your school loans</h4>
+<p>
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.
+</p>
+</div>
+<div class=" col-xs-4">
+<img alt="" src="/assets/images/promo-landing/post3.png">
+<h4>Big Business: How you can keep up</h4>
+<p>
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.
+</p>
+</div>
+</div>
+</div>
+<footer class="component-footer collapsable js-collapsable">
+<div class="component__inner component-footer__inner">
+<a href="#" class="btn btn--blue btn--squared collapsable--trigger collapsable-arrow--light text-uppercase js-collapsable--trigger">MORE NEWS &amp; INSIGHTS</a>
+<div class="component-footer__collapsable collapsable--target js-collapsable--target">
+<div class="line">
+This should always show
+</div>
+<div class="line">
+This should show if the page has the text 'My' in the name.
+</div>
+<div class="line">
+Performance specific disclosure
+</div>
+</div>
+</div>
+</footer>
+</section>
+<style>
+    .disclosures{
+    background: white;
+    }
+    .disclosures .line{
+    padding: 2px 0;
+    }
+</style>
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
 content-length: 16
 
-20160513T203303Z
+20160420T181236Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
 key: __created by
-content-length: 18
+content-length: 14
 
-extranet\Anonymous
+sitecore\admin
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-5bc9b85d-55fc-4d78-9995-27683d267472
+bbfea310-088c-4443-a8ca-2b35552ef0f4
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
