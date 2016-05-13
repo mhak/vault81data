@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosure Item/Data/Text",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "d9595ac996493ddcb6915f5fc11f44e386f03417"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{BC70D541-7655-4227-B8CD-862D773EB5EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:15.8544026Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Text",
+    "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosure Item/Data/Text",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
