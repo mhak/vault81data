@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/templates/Demo/Promotion",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "35e323ba2a222ee58ffab70f06de45f7f041797e"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{CFB6BB46-C6A8-44F9-977D-63C0A765B698}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:31:59.8171961Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Promotion",
+    "itemPath": "/sitecore/templates/Demo/Promotion",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]
