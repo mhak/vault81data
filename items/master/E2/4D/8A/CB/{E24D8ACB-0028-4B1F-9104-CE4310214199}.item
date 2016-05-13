@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {E24D8ACB-0028-4B1F-9104-CE4310214199}
+database: master
+path: /sitecore/templates/Demo/Disclosures/Disclosures Parameters Template/Disclosures/Disclosures Source
+parent: {B6F5C962-7ADF-46CB-88BB-5F75BC6D4A08}
+name: Disclosures Source
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+
