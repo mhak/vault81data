@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosure Item/Data/Rules",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "c70889c6a8163483ff23a7e0b1ae9d7053511627"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{CE42EB5E-D639-42E5-955D-AC23926A08DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:16.4415873Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosure Item/Data/Rules",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
