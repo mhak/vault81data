@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/Promotion/Data/Promotion Text",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "1dc5ae8dd8afdb219a5e10ebc390cd9711cdb8d5"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{58AD30CD-F302-46E5-A3B8-94D02A7C9B57}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:00.7403062Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Promotion Text",
+    "itemPath": "/sitecore/templates/Demo/Promotion/Data/Promotion Text",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
