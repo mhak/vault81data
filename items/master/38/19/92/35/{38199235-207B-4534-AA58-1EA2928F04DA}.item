@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {38199235-207B-4534-AA58-1EA2928F04DA}
+database: master
+path: /sitecore/templates/Demo/Navigation/Navigation Item/__Standard Values
+parent: {92FAD5BB-57AF-4991-826D-2C140B29CF1B}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {92FAD5BB-57AF-4991-826D-2C140B29CF1B}
+templatekey: Navigation Item
+

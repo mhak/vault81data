@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{38199235-207B-4534-AA58-1EA2928F04DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:04.1384570Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Demo/Navigation/Navigation Item/__Standard Values",
+    "commandType": "Item",
+    "template": "Navigation Item",
+    "sourceControlRevisionId": null
+  }
+]
