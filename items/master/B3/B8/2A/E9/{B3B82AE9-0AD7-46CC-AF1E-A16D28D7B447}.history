@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosures Parameters Template/Disclosures/Disclosures Header",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "14cb123f65688997b9c94d500d5be844ed797b60"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{B3B82AE9-0AD7-46CC-AF1E-A16D28D7B447}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:15.1104331Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Disclosures Header",
+    "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosures Parameters Template/Disclosures/Disclosures Header",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
