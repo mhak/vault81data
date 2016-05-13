@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosure Item/Data/Rules",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "b29dc49937d3f6adce3c83b53fdb933909a4174f"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{CE42EB5E-D639-42E5-955D-AC23926A08DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:16.4333020Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosure Item/Data/Rules",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
