@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/templates/Demo/Navigation/Navigation Folder",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "1abb54fadfd3282b532d38bc3b84a27775ad6d0c"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{556B48C4-42E0-43E3-96DD-01690986246E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:04.9843273Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Navigation Folder",
+    "itemPath": "/sitecore/templates/Demo/Navigation/Navigation Folder",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]
