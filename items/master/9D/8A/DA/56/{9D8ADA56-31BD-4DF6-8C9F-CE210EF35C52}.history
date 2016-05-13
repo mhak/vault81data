@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Demo/Folders/Banking Menu",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "e5b3ccfc4ab9497779eee493935b499e5e2f9950"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{9D8ADA56-31BD-4DF6-8C9F-CE210EF35C52}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:10.1712128Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Banking Menu",
+    "itemPath": "/sitecore/templates/Demo/Folders/Banking Menu",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]
