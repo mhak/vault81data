@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/Navigation/Navigation Item/Link Section",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "6e9f9691da71db5b308551620eabd7222088f9d2"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{AF7B142D-AD2D-45C8-B75C-C6EF6DBB34BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:04.3848968Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Link Section",
+    "itemPath": "/sitecore/templates/Demo/Navigation/Navigation Item/Link Section",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]
