@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking/Online-and-Mobile-Banking",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "d5fc88def57a2454dd5b6ca33c7b3e1d2c217f50"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{B2FE1A6E-9190-4347-8A54-A2A020C4C123}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:33:02.9991023Z",
+    "label": "Installed from package - Matt Kloss Deploy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Online-and-Mobile-Banking",
+    "itemPath": "/sitecore/content/Home/My-Banking/Online-and-Mobile-Banking",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
