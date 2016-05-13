@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {FF1B1BE0-9041-48FD-AB9F-9575374D748C}
+database: master
+path: /sitecore/templates/Demo/Page/Metadata
+parent: {F6282399-0A44-405B-B3DB-C2B882A328CA}
+name: Metadata
+master: {00000000-0000-0000-0000-000000000000}
+template: {E269FBB5-3750-427A-9149-7AA950B49301}
+templatekey: Template section
+
