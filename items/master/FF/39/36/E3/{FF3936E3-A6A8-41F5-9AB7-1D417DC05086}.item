@@ -9,10 +9,24 @@ master: {00000000-0000-0000-0000-000000000000}
 template: {455A3E98-A627-4B40-8035-E683A0331AC7}
 templatekey: Template field
 
+----field----
+field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
+name: Type
+key: type
+content-length: 16
+
+Single-Line Text
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+100
 ----version----
 language: en
 version: 1
-revision: 95cae6f3-10ca-41cc-82c5-49bad984421a
+revision: 06c4f644-0b63-4e90-9e14-9870097491be
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -20,7 +34,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20160513T203203Z
+20160204T221553Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -34,7 +48,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-95cae6f3-10ca-41cc-82c5-49bad984421a
+06c4f644-0b63-4e90-9e14-9870097491be
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
