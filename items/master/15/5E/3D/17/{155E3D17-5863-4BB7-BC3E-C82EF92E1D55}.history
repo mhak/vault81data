@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Demo/Site Footer/Footer Section",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "e58f4f275441d2cdd4637edd7eb54d66a0574d95"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{155E3D17-5863-4BB7-BC3E-C82EF92E1D55}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:31:57.8496705Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Footer Section",
+    "itemPath": "/sitecore/templates/Demo/Site Footer/Footer Section",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]
