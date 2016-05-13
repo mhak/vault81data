@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{CC45B3FB-4DDB-4C7D-8FD0-9CAC3BD67156}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:02.1674582Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Title",
+    "itemPath": "/sitecore/templates/Demo/Page/Content/Title",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
