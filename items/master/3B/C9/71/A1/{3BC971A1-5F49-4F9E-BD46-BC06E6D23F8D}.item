@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {3BC971A1-5F49-4F9E-BD46-BC06E6D23F8D}
+database: master
+path: /sitecore/templates/Demo/Site Header/__Standard Values
+parent: {7AE8D13E-24BE-43AA-8C13-10602B91BEDC}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {7AE8D13E-24BE-43AA-8C13-10602B91BEDC}
+templatekey: Site Header
+
