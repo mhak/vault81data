@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/templates/Demo/Folders",
     "commandType": "Item",
     "template": "Template Folder",
+    "sourceControlRevisionId": "1c7171c7abb90a693e130d1d77e92b9f3c1b81a3"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{EBBFCAFB-038C-4CFF-A10F-C56AD7F6B34E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:08.6855572Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Folders",
+    "itemPath": "/sitecore/templates/Demo/Folders",
+    "commandType": "Item",
+    "template": "Template Folder",
     "sourceControlRevisionId": null
   }
 ]
