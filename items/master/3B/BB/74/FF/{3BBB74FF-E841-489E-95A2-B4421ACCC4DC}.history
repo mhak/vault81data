@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/templates/Demo/FirstRepublicBankNavigation/FRB Navigation Item/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "5aab6e697d2c733f7cbdfa5da229c474c7af6f8b"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{3BBB74FF-E841-489E-95A2-B4421ACCC4DC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:11.5123204Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/Demo/FirstRepublicBankNavigation/FRB Navigation Item/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]
