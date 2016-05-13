@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/templates/Demo/Page/Metadata/End Body",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "d8d39254321b63c0f8bdf4f2782ee45f4dff653a"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{2C136CFE-5BD0-4729-9B89-6EBD18B3E6D6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:02.9646933Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "End Body",
+    "itemPath": "/sitecore/templates/Demo/Page/Metadata/End Body",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
