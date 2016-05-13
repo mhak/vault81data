@@ -9,10 +9,31 @@ master: {00000000-0000-0000-0000-000000000000}
 template: {455A3E98-A627-4B40-8035-E683A0331AC7}
 templatekey: Template field
 
+----field----
+field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
+name: Type
+key: type
+content-length: 8
+
+Treelist
+----field----
+field: {1EB8AE32-E190-44A6-968D-ED904C794EBF}
+name: Source
+key: source
+content-length: 38
+
+{B3BCC217-FC4B-4677-8093-4D61D52C05B0}
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+100
 ----version----
 language: en
 version: 1
-revision: fb1e34d8-b2b0-4eda-aa42-dea8b27a76a9
+revision: 2a81c9a1-d278-4535-8021-efedc6548375
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -20,21 +41,21 @@ name: __Created
 key: __created
 content-length: 16
 
-20160513T203214Z
+20160325T214932Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
 key: __created by
-content-length: 18
+content-length: 12
 
-extranet\Anonymous
+sitecore\jim
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-fb1e34d8-b2b0-4eda-aa42-dea8b27a76a9
+2a81c9a1-d278-4535-8021-efedc6548375
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
