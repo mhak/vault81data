@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/Page/Metadata/End Body",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "26eb267e2dc9369f116ba9e13e43859f56db97ba"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{2C136CFE-5BD0-4729-9B89-6EBD18B3E6D6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T20:32:03.0380808Z",
+    "label": "Installed from package - PreDeployment of Templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "End Body",
+    "itemPath": "/sitecore/templates/Demo/Page/Metadata/End Body",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
