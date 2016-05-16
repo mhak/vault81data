@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Home/Store",
     "commandType": "Item",
     "template": "Sample Item",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "0ae52c2d4017a2ab327dd17f79bd105890aa3c98"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{7F9A5004-F650-4FE9-8BEC-F8B6849DCFE9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:33:52.9936458Z",
+    "label": "Deleted",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Store",
+    "itemPath": "/sitecore/content/Home Test/Store",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": "0ae52c2d4017a2ab327dd17f79bd105890aa3c98"
   }
 ]
