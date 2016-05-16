@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {1ACC0CD2-F4E2-428E-8D2C-BEC12ED8430B}
+database: master
+path: /sitecore/content/Griffin 2/Personal
+parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
+name: Personal
+master: {00000000-0000-0000-0000-000000000000}
+template: {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+templatekey: Folder
+
