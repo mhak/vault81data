@@ -109,6 +109,22 @@
     "itemPath": "[orphan]/Home Test",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "53270f5d141fed7e90455936c7be4e6190e10be2"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-05-16T21:34:17.3560020Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Griffin 2",
+    "itemPath": "[orphan]/Home Test",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
