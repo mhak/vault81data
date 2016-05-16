@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Personal/Free Checking",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "527d1c09eb4ea44c21cde4b501f95b6f945a0bd5"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{9EDE7312-B1C3-472F-8E7C-3657DF5D2678}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:44:51.4110309Z",
+    "label": "Rollback package - Griffin Release",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Free Checking",
+    "itemPath": "/sitecore/content/Griffin 2/Personal/Free Checking",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
