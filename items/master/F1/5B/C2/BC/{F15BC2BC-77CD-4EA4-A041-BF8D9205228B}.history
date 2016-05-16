@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Griffin 2/test",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "8902fee0cc8fcfd2f2f862e7acc6d7a79b2a5524"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{F15BC2BC-77CD-4EA4-A041-BF8D9205228B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:30.8869077Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "test",
+    "itemPath": "/sitecore/content/Griffin 2/test",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
