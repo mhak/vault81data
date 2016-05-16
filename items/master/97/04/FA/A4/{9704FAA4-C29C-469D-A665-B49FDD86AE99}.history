@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{9704FAA4-C29C-469D-A665-B49FDD86AE99}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:30.1980905Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Review Rates",
+    "itemPath": "/sitecore/content/Griffin 2/Review Rates",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
+  }
+]
