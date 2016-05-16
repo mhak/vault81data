@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Find an Office",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "2928193774f1271c87ba81b630c6b6091f94b90c"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{45246BA7-8478-41A0-8756-9B3658D7823F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:45:35.0902160Z",
+    "label": "Rollback package - Griffin Release",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Find an Office",
+    "itemPath": "/sitecore/content/Griffin 2/Find an Office",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
