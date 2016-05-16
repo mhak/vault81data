@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Find an Office",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "2c2b1ec368fe390a653c05d1aa7fc5944230cc30"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{45246BA7-8478-41A0-8756-9B3658D7823F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:21.6184117Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Find an Office",
+    "itemPath": "/sitecore/content/Griffin 2/Find an Office",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
