@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Home/Tert Section/More carts for the people/New items Friday/Receipt/grineren",
     "commandType": "Item",
     "template": "Sample Item",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "990013f28c78f5a523401dd71229377d07349b44"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{4D27059D-F721-4E80-AE70-265FD75B4781}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:33:51.4638176Z",
+    "label": "Deleted",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "grineren",
+    "itemPath": "/sitecore/content/Home Test/Tert Section/More carts for the people/New items Friday/Receipt/grineren",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": "990013f28c78f5a523401dd71229377d07349b44"
   }
 ]
