@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Home/Tert Section",
     "commandType": "Item",
     "template": "Folder",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "f2ac02c9a89facadc5043a1387890ecc9a5224a2"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{B260BF38-B735-494D-9B3C-5406B4C5ABF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:33:53.0272740Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tert Section",
+    "itemPath": "/sitecore/content/Home Test/Tert Section",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": "f2ac02c9a89facadc5043a1387890ecc9a5224a2"
   }
 ]
