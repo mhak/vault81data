@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{1F9C10F0-9F75-42CA-841E-672EE9C6AAE2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:31.5181411Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "About Us",
+    "itemPath": "/sitecore/content/Griffin 2/About Us/About Us",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
+  }
+]

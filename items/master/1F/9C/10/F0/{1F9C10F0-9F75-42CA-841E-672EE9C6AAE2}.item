@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {1F9C10F0-9F75-42CA-841E-672EE9C6AAE2}
+database: master
+path: /sitecore/content/Griffin 2/About Us/About Us
+parent: {BCA475B8-0588-4158-8B61-6466385FE0AB}
+name: About Us
+master: {00000000-0000-0000-0000-000000000000}
+template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
+templatekey: Sample Item
+
