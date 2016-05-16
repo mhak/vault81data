@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Have Us Contact You",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "0f66758ce1a719b65ab42b86f6ca9dea34927030"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{4ECAEDAC-1610-4949-B6FD-D15AF9738622}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:24.5227103Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Have Us Contact You",
+    "itemPath": "/sitecore/content/Griffin 2/Have Us Contact You",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
