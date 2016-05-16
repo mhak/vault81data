@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Griffin 2/register",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "f1391498179f755e4f10b5f199375284493df8b2"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{A80E2959-E58C-434F-8F5A-01174B8AF8EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:19.3197922Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "register",
+    "itemPath": "/sitecore/content/Griffin 2/register",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
