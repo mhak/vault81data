@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Griffin 2/About Us/About Us",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "e04d5dfcdf9c3bbc5e13902a527e625d7840f8c9"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{1F9C10F0-9F75-42CA-841E-672EE9C6AAE2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:45:02.9540974Z",
+    "label": "Rollback package - Griffin Release",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "About Us",
+    "itemPath": "/sitecore/content/Griffin 2/About Us/About Us",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
