@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Contact Us Reasons",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "f9d25273936e7e2331589b259b718866f402c07f"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{4CC3DEFC-F987-4999-9CF4-C2FC7E0FD286}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:21.3406607Z",
+    "label": "Installed from package - Griffin Release",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Contact Us Reasons",
+    "itemPath": "/sitecore/content/Griffin 2/Contact Us Reasons",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
