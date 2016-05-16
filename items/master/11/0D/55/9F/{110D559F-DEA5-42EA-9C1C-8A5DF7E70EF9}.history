@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Home Test",
     "commandType": "Item",
     "template": "Sample Item",
-    "sourceControlRevisionId": "46f417bd4275c8701071b9f3303fe5428e6a0632"
+    "sourceControlRevisionId": "961a362032093ad990b6621dc835550ce8b34124"
+  },
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:17.2464762Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Griffin 2",
+    "itemPath": "[orphan]/Home Test",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
   }
 ]
