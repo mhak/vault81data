@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {C4205F93-CBD4-402A-94C4-9D2385815D64}
+database: master
+path: /sitecore/content/Griffin 2/Aliastest
+parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
+name: Aliastest
+master: {00000000-0000-0000-0000-000000000000}
+template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
+templatekey: Sample Item
+
