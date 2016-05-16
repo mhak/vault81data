@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Have Us Contact You",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "166af2db138884a4ea0c95601a7d2898546c2d40"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{4ECAEDAC-1610-4949-B6FD-D15AF9738622}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:45:31.6946054Z",
+    "label": "Rollback package - Griffin Release",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Have Us Contact You",
+    "itemPath": "/sitecore/content/Griffin 2/Have Us Contact You",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
