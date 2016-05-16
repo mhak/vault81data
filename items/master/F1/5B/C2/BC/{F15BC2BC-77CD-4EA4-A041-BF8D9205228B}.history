@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F15BC2BC-77CD-4EA4-A041-BF8D9205228B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:30.8327997Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "test",
+    "itemPath": "/sitecore/content/Griffin 2/test",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
+  }
+]
