@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Home/Tert Section/Tertiary Section",
     "commandType": "Item",
     "template": "Folder",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "9f8e4b4b0dd8650028ca4d60a34cd4a474799ba2"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{27BD3028-9923-4B31-BB05-56F1A043B868}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:33:52.1475644Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tertiary Section",
+    "itemPath": "/sitecore/content/Home Test/Tert Section/Tertiary Section",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": "9f8e4b4b0dd8650028ca4d60a34cd4a474799ba2"
   }
 ]
