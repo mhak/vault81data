@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {9EDE7312-B1C3-472F-8E7C-3657DF5D2678}
+database: master
+path: /sitecore/content/Griffin 2/Personal/Free Checking
+parent: {1ACC0CD2-F4E2-428E-8D2C-BEC12ED8430B}
+name: Free Checking
+master: {00000000-0000-0000-0000-000000000000}
+template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
+templatekey: Sample Item
+

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{9EDE7312-B1C3-472F-8E7C-3657DF5D2678}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:32.2981075Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Free Checking",
+    "itemPath": "/sitecore/content/Griffin 2/Personal/Free Checking",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
+  }
+]
