@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Home/Julia",
     "commandType": "Item",
     "template": "Folder",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "6075569e9fe5ffefbda0e62e0a854fb58a84d552"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{152A5092-AA88-4898-BC3A-92D6CBE3859A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:33:52.8103777Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Julia",
+    "itemPath": "/sitecore/content/Home Test/Julia",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": "6075569e9fe5ffefbda0e62e0a854fb58a84d552"
   }
 ]
