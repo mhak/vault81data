@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Private Wealth",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "8224858ebd09a697406bfb5d277bfe6ef137b315"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{DC5A1DFB-AB76-499E-8E0A-6646AD531F41}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:30.1340607Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Private Wealth",
+    "itemPath": "/sitecore/content/Griffin 2/Private Wealth",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
