@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Smart Investing",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "dfe594b08331467546daa169b789f568b3442eaa"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{A88EA326-7E0F-48AF-95DD-6DF099A04B5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:30.7398773Z",
+    "label": "Saved",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Smart Investing",
+    "itemPath": "/sitecore/content/Griffin 2/Smart Investing",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
