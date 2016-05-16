@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Contact Us Reasons",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "ae55a8fba409ee9b1633ddff2af566c21158d6e3"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{4CC3DEFC-F987-4999-9CF4-C2FC7E0FD286}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:21.2264640Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Contact Us Reasons",
+    "itemPath": "/sitecore/content/Griffin 2/Contact Us Reasons",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
