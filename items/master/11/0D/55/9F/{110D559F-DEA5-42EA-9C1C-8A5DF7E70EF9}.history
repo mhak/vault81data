@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Home Test",
     "commandType": "Item",
     "template": "Sample Item",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "46f417bd4275c8701071b9f3303fe5428e6a0632"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:33:53.2436281Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home Test",
+    "itemPath": "/sitecore/content/Home Test",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": "46f417bd4275c8701071b9f3303fe5428e6a0632"
   }
 ]
