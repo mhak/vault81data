@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Griffin 2/AIO",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "27adb8f45298d855c05a15011a3b1f2118a3bfd7"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{923A8472-6EFB-4018-A09A-D696D076CB0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:19.9907005Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "AIO",
+    "itemPath": "/sitecore/content/Griffin 2/AIO",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
