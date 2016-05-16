@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Home/Tert Section/More carts for the people/New items Friday/Receipt/Review",
     "commandType": "Item",
     "template": "Sample Item",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "a941e4050d7ac61edc57e867301c1cacb7262379"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{C51FF085-F999-4B12-B874-F321440EE6EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:33:51.5203611Z",
+    "label": "Deleted",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Review",
+    "itemPath": "/sitecore/content/Home Test/Tert Section/More carts for the people/New items Friday/Receipt/Review",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": "a941e4050d7ac61edc57e867301c1cacb7262379"
   }
 ]
