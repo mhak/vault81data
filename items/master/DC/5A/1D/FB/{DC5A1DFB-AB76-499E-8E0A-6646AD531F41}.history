@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Private Wealth",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "93ac45c571620b5b81ec89cb638eeeb19be1e6ee"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{DC5A1DFB-AB76-499E-8E0A-6646AD531F41}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:30.1525102Z",
+    "label": "Installed from package - Griffin Release",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Private Wealth",
+    "itemPath": "/sitecore/content/Griffin 2/Private Wealth",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
