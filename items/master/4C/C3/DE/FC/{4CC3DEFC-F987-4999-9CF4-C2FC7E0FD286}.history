@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Contact Us Reasons",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "4b6350125dbf80866fa6a3ea033f7647afeb05f8"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{4CC3DEFC-F987-4999-9CF4-C2FC7E0FD286}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:45:39.2823013Z",
+    "label": "Rollback package - Griffin Release",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Contact Us Reasons",
+    "itemPath": "/sitecore/content/Griffin 2/Contact Us Reasons",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
