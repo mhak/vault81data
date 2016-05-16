@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {2115CCA7-B12B-4535-A100-A7A03436F7F9}
+database: master
+path: /sitecore/content/Griffin 2/newcampaigntest
+parent: {110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}
+name: newcampaigntest
+master: {00000000-0000-0000-0000-000000000000}
+template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
+templatekey: Sample Item
+

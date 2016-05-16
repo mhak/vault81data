@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{2115CCA7-B12B-4535-A100-A7A03436F7F9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:24.7374852Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "newcampaigntest",
+    "itemPath": "/sitecore/content/Griffin 2/newcampaigntest",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
+  }
+]
