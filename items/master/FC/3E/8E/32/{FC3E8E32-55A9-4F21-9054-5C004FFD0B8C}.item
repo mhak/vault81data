@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {FC3E8E32-55A9-4F21-9054-5C004FFD0B8C}
+database: master
+path: /sitecore/content/Griffin 2/Personal/College Savings
+parent: {1ACC0CD2-F4E2-428E-8D2C-BEC12ED8430B}
+name: College Savings
+master: {00000000-0000-0000-0000-000000000000}
+template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
+templatekey: Sample Item
+
