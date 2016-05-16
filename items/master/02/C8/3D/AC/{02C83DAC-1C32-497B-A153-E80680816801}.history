@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Home/Tert Section/More carts for the people",
     "commandType": "Item",
     "template": "Sample Item",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "0e3c28e6f4492ed6f7c4eae07147d2bd5a6c4a1c"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{02C83DAC-1C32-497B-A153-E80680816801}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:33:52.0982823Z",
+    "label": "Deleted",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "More carts for the people",
+    "itemPath": "/sitecore/content/Home Test/Tert Section/More carts for the people",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": "0e3c28e6f4492ed6f7c4eae07147d2bd5a6c4a1c"
   }
 ]
