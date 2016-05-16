@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Home/Secondary Section",
     "commandType": "Item",
     "template": "Folder",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "c72f87191abb308a845096ef63f1240ede193736"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{5FABD5F4-15ED-4F33-B8E9-F3C001BDD8B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:33:52.9507923Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Secondary Section",
+    "itemPath": "/sitecore/content/Home Test/Secondary Section",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": "c72f87191abb308a845096ef63f1240ede193736"
   }
 ]
