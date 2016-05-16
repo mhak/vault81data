@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Suspend Corrupted Tests",
     "commandType": "Item",
     "template": "Schedule",
+    "sourceControlRevisionId": "1a04d98f63a98bca76fc95d47fb5f85fe7daf9f1"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{9955F85F-9EE1-4469-BD70-5422AF976461}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T16:58:42.6625958Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "sitecore\\Anonymous",
+    "itemName": "Suspend Corrupted Tests",
+    "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Suspend Corrupted Tests",
+    "commandType": "Item",
+    "template": "Schedule",
     "sourceControlRevisionId": null
   }
 ]
