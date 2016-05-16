@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Banking With Your iWatch",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "99b64233dceb7e87e1f0a81c374609a71bd72a88"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{5728940B-0047-47A0-873E-7E44121C3646}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:20.7249651Z",
+    "label": "Saved",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Banking With Your iWatch",
+    "itemPath": "/sitecore/content/Griffin 2/Banking With Your iWatch",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
