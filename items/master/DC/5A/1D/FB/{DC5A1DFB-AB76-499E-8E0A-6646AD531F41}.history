@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Private Wealth",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "d349c45ef3e2e3737fc2243ba785bae2e2889429"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{DC5A1DFB-AB76-499E-8E0A-6646AD531F41}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:45:22.6752379Z",
+    "label": "Rollback package - Griffin Release",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Private Wealth",
+    "itemPath": "/sitecore/content/Griffin 2/Private Wealth",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
