@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Griffin 2/register",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "380d3629a338c79bed1f30808be3e979df1e409a"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{A80E2959-E58C-434F-8F5A-01174B8AF8EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:46:00.4885853Z",
+    "label": "Rollback package - Griffin Release",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "register",
+    "itemPath": "/sitecore/content/Griffin 2/register",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
