@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "052b250ca58f8683ce043b5e872230b2b55700ec"
+  },
+  {
+    "eventType": "Renamed",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:31:53.8556032Z",
+    "label": "Renamed Home to Home Test",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home Test",
+    "itemPath": "/sitecore/content/Home Test",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
