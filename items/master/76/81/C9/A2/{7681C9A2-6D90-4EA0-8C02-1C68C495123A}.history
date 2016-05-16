@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Home/Secondary Section/Copy of Copy of Tests",
     "commandType": "Item",
     "template": "Folder",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "8c6b253e60e6439b4aa92ad51c95d1d88408e8bf"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{7681C9A2-6D90-4EA0-8C02-1C68C495123A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:33:49.1865466Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Copy of Copy of Tests",
+    "itemPath": "/sitecore/content/Home Test/Secondary Section/Copy of Copy of Tests",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": "8c6b253e60e6439b4aa92ad51c95d1d88408e8bf"
   }
 ]
