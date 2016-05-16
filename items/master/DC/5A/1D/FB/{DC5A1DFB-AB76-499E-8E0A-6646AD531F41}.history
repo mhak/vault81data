@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{DC5A1DFB-AB76-499E-8E0A-6646AD531F41}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:29.9485122Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Private Wealth",
+    "itemPath": "/sitecore/content/Griffin 2/Private Wealth",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
