@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Home/Tert Section/More carts for the people/New items Friday",
     "commandType": "Item",
     "template": "Sample Item",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "89b31aa45ab1ac799bbaa44fe4b2f05159a9c440"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{937FF002-5708-4DD0-B08E-7E4797C2B4BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:33:51.8443252Z",
+    "label": "Deleted",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New items Friday",
+    "itemPath": "/sitecore/content/Home Test/Tert Section/More carts for the people/New items Friday",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": "89b31aa45ab1ac799bbaa44fe4b2f05159a9c440"
   }
 ]
