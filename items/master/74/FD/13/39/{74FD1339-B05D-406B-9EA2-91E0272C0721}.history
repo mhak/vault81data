@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{74FD1339-B05D-406B-9EA2-91E0272C0721}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:32.9387206Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Personal and Business Banking",
+    "itemPath": "/sitecore/content/Griffin 2/Personal/Personal and Business Banking",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
+  }
+]
