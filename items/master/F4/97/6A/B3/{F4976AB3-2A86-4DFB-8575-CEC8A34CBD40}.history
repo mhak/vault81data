@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F4976AB3-2A86-4DFB-8575-CEC8A34CBD40}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:20.7981392Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Choose Rates",
+    "itemPath": "/sitecore/content/Griffin 2/Choose Rates",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
+  }
+]
