@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Review Rates",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "e27da74d7b13a4e6918551c5a3e1777eab255317"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{9704FAA4-C29C-469D-A665-B49FDD86AE99}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:30.4854747Z",
+    "label": "Installed from package - Griffin Release",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Review Rates",
+    "itemPath": "/sitecore/content/Griffin 2/Review Rates",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
