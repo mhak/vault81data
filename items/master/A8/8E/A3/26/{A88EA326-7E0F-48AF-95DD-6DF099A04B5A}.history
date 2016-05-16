@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Smart Investing",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "a6a2d824d6db7febef56ad51bde4816e995b8b27"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{A88EA326-7E0F-48AF-95DD-6DF099A04B5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:45:14.7934962Z",
+    "label": "Rollback package - Griffin Release",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Smart Investing",
+    "itemPath": "/sitecore/content/Griffin 2/Smart Investing",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
