@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Aliastest",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "3a11d6d0b8f39973ba00d8e3351aa29bb115d859"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{C4205F93-CBD4-402A-94C4-9D2385815D64}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:20.4780390Z",
+    "label": "Installed from package - Griffin Release",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Aliastest",
+    "itemPath": "/sitecore/content/Griffin 2/Aliastest",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
