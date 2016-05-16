@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Griffin 2/About Us",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "ac412643a3cdb9cd5f1ac0f621598d641144c8e8"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{BCA475B8-0588-4158-8B61-6466385FE0AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:19.8010948Z",
+    "label": "Installed from package - Griffin Release",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "About Us",
+    "itemPath": "/sitecore/content/Griffin 2/About Us",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
