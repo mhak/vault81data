@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {3A24A899-B320-40ED-81C2-5F28D549B422}
+database: master
+path: /sitecore/content/Griffin 2/Contact Us Reasons/Open a business account
+parent: {4CC3DEFC-F987-4999-9CF4-C2FC7E0FD286}
+name: Open a business account
+master: {00000000-0000-0000-0000-000000000000}
+template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
+templatekey: Sample Item
+
