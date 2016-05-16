@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Personal",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "c314de5372c38ba99e89849517bee67b45448121"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{1ACC0CD2-F4E2-428E-8D2C-BEC12ED8430B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:29.8049941Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Personal",
+    "itemPath": "/sitecore/content/Griffin 2/Personal",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
