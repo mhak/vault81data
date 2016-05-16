@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Griffin 2/login",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "b3ca39c710dd184fd5b224793918738b14b0cd1b"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{89DD7DE1-ACF6-4242-B85E-9AE4187F7453}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:31.3165573Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "login",
+    "itemPath": "/sitecore/content/Griffin 2/login",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
