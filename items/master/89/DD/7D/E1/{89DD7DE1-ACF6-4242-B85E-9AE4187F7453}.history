@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Griffin 2/login",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "048412e091cfd75107886c2b2d7be6918dd56362"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{89DD7DE1-ACF6-4242-B85E-9AE4187F7453}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:31.4807250Z",
+    "label": "Installed from package - Griffin Release",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "login",
+    "itemPath": "/sitecore/content/Griffin 2/login",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
