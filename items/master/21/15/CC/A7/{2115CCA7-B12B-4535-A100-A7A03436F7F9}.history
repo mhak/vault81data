@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Griffin 2/newcampaigntest",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "f364f41b9aa515288c4d023b9691a2b5917ba18c"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{2115CCA7-B12B-4535-A100-A7A03436F7F9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:29.5314590Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "newcampaigntest",
+    "itemPath": "/sitecore/content/Griffin 2/newcampaigntest",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
