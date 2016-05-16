@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Smart Investing",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "1b83bcfe8227acb96bfc0f66b9383012e7d62f87"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{A88EA326-7E0F-48AF-95DD-6DF099A04B5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:30.7586280Z",
+    "label": "Installed from package - Griffin Release",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Smart Investing",
+    "itemPath": "/sitecore/content/Griffin 2/Smart Investing",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
