@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Home/Main Section",
     "commandType": "Item",
     "template": "Folder",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "80dd51efb5744bbf3a1d1752d874ce5fa2116e18"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{B5956365-63C7-4A86-87F2-D5BBCCEDAB9B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:33:52.8633451Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Main Section",
+    "itemPath": "/sitecore/content/Home Test/Main Section",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": "80dd51efb5744bbf3a1d1752d874ce5fa2116e18"
   }
 ]
