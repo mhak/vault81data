@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Choose Rates",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "9a654c4e39d6308c7f2f6152ec0ed99644ed7e0a"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{F4976AB3-2A86-4DFB-8575-CEC8A34CBD40}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:20.9117224Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Choose Rates",
+    "itemPath": "/sitecore/content/Griffin 2/Choose Rates",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
