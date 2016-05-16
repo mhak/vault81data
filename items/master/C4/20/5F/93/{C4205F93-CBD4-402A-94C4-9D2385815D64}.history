@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Aliastest",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "74b1a40fcf8f9f35bc4e438728991f826591c2e9"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{C4205F93-CBD4-402A-94C4-9D2385815D64}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:20.3129831Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Aliastest",
+    "itemPath": "/sitecore/content/Griffin 2/Aliastest",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
