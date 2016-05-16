@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{923A8472-6EFB-4018-A09A-D696D076CB0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:19.8630200Z",
+    "label": "Created",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "AIO",
+    "itemPath": "/sitecore/content/Griffin 2/AIO",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
+  }
+]
