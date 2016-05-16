@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Contact Us Reasons/Open a business account",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "be4531eb1c179f52a222871c1818f40e2d1eb1cd"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{3A24A899-B320-40ED-81C2-5F28D549B422}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:31.9082517Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Open a business account",
+    "itemPath": "/sitecore/content/Griffin 2/Contact Us Reasons/Open a business account",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
