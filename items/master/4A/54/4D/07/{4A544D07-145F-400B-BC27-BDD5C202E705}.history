@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Griffin 2/form",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "0352270d786934a017eccb6ed27f108330653a86"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{4A544D07-145F-400B-BC27-BDD5C202E705}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-16T21:34:18.4164013Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "form",
+    "itemPath": "/sitecore/content/Griffin 2/form",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
