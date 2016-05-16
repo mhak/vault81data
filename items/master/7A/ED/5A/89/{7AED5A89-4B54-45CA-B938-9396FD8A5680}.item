@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {7AED5A89-4B54-45CA-B938-9396FD8A5680}
+database: master
+path: /sitecore/content/Griffin 2/Private Wealth/Private Wealth
+parent: {DC5A1DFB-AB76-499E-8E0A-6646AD531F41}
+name: Private Wealth
+master: {00000000-0000-0000-0000-000000000000}
+template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
+templatekey: Sample Item
+
