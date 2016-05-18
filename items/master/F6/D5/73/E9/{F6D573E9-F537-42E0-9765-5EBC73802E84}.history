@@ -189,6 +189,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Updated Author",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "113884cc8b91f1f8e4eac78d941c28cb4c9638e7"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F6D573E9-F537-42E0-9765-5EBC73802E84}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T01:01:15.7774533Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Updated Author",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Updated Author",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]
