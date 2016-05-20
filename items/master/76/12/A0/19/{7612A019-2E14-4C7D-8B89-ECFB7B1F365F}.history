@@ -221,6 +221,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "4cf8a359c5d4c5760ba5b45db494227de1c3cdf5"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{7612A019-2E14-4C7D-8B89-ECFB7B1F365F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:33:23.5666340Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Update Date",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]
