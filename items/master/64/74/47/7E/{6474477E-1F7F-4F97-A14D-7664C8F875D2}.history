@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6474477E-1F7F-4F97-A14D-7664C8F875D2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:29.7843449Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tokelau",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tokelau",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

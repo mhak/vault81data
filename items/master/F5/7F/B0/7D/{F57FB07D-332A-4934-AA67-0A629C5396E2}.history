@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F57FB07D-332A-4934-AA67-0A629C5396E2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:51.1642153Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Docx",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Docx",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

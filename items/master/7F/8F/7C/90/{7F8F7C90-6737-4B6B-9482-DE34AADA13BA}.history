@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7F8F7C90-6737-4B6B-9482-DE34AADA13BA}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:53.2872982Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Artist",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Jpeg/Exif/Artist",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

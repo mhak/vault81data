@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{36F0FF1F-6E9F-46C4-A103-4FD7EE553592}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:01.5575577Z",
+    "label": "Snapshot - base",
+    "workflowState": "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "All visits by exit page",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Pages/By exit page/All visits by exit page",
+    "commandType": "Item",
+    "template": "Segment",
+    "sourceControlRevisionId": null
+  }
+]

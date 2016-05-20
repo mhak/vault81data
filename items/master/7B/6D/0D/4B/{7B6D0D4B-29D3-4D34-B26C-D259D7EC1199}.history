@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7B6D0D4B-29D3-4D34-B26C-D259D7EC1199}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:56.6857070Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/BaseMap/__Standard Values",
+    "commandType": "Item",
+    "template": "BaseMap",
+    "sourceControlRevisionId": null
+  }
+]

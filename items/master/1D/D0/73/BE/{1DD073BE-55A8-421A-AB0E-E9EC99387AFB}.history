@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1DD073BE-55A8-421A-AB0E-E9EC99387AFB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:32.0050537Z",
+    "label": "Snapshot - base",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "End transaction",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/End transaction",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null
+  }
+]

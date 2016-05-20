@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0CFBCE35-CCB8-48C5-A1DB-124DEFBF2E47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:40.4621112Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "iPad landscape",
+    "itemPath": "/sitecore/layout/Simulators/iPad/iPad landscape",
+    "commandType": "Item",
+    "template": "Simulator Rotated State",
+    "sourceControlRevisionId": null
+  }
+]

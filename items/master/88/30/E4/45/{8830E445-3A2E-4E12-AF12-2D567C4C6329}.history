@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8830E445-3A2E-4E12-AF12-2D567C4C6329}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:21.6995409Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ascending",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Order By Operators/ascending",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

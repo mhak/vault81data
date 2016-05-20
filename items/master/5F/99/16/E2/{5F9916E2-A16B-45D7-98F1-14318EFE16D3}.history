@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5F9916E2-A16B-45D7-98F1-14318EFE16D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:35.1037791Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "GUID",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/GUID",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null
+  }
+]

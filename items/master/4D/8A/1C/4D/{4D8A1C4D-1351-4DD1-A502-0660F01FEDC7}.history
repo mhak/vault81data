@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4D8A1C4D-1351-4DD1-A502-0660F01FEDC7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:40.8322407Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Default Website",
+    "itemPath": "/sitecore/media library/Default Website",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null
+  }
+]

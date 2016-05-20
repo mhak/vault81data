@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DDA66314-03F3-4C89-84A9-39DFFB235B06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:09.9243351Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Rules Context Folder",
+    "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Rules Context Folder",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

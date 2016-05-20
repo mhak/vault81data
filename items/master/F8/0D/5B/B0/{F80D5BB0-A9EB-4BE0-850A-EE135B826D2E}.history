@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F80D5BB0-A9EB-4BE0-850A-EE135B826D2E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:00.3382095Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Query String",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device Detection/Query String",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

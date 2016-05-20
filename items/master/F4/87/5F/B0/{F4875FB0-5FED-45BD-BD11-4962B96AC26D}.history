@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F4875FB0-5FED-45BD-BD11-4962B96AC26D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:53.7267273Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Social sponsored posts",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Social sponsored posts",
+    "commandType": "Item",
+    "template": "Channel group",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F6E14E6-C593-410B-A57E-21F6B5A413AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:31.1292131Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Item Buckets Settings",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Item Buckets Settings",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

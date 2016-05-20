@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DA43C533-CBAE-43D0-9019-65B1E346F984}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:26.1663865Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Title",
+    "itemPath": "/sitecore/templates/System/Validation/Validation Rule/Text/Title",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

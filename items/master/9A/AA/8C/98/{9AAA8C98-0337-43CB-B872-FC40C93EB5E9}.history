@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9AAA8C98-0337-43CB-B872-FC40C93EB5E9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:13.1827794Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Organization",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona/Data/Organization",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

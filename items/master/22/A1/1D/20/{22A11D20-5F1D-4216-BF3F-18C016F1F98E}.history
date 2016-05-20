@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22A11D20-5F1D-4216-BF3F-18C016F1F98E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:55.2805234Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Package registration",
+    "itemPath": "/sitecore/templates/System/Packages/Package registration",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

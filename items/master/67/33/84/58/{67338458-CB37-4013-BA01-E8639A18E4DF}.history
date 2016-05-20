@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{67338458-CB37-4013-BA01-E8639A18E4DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:23.6378545Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Name",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Map Provider/Data/Name",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

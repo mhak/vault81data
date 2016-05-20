@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C1B287B4-F6CF-4E4B-844E-88C3E28A1D57}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:16.7130781Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Indexing",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Indexing",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

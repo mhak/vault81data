@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78CF88BA-6957-4366-8368-12F3CED0184F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:49.7707206Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "New Template",
+    "itemPath": "/sitecore/templates/Branches/System/Templates/New Template",
+    "commandType": "Item",
+    "template": "Command Template",
+    "sourceControlRevisionId": null
+  }
+]

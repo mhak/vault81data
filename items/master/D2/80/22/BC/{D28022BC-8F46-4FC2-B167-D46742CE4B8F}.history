@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D28022BC-8F46-4FC2-B167-D46742CE4B8F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:13.1261434Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Message",
+    "itemPath": "/sitecore/templates/System/Social/Message",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
+  }
+]

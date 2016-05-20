@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AAC3D136-D7D7-4A86-8AB4-6ED48DFAABEB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:27.1603176Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "New Zealand",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/New Zealand",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

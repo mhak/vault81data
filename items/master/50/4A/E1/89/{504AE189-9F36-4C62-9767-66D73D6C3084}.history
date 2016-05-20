@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{504AE189-9F36-4C62-9767-66D73D6C3084}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:50.9533379Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Dictionary",
+    "itemPath": "/sitecore/system/Dictionary",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null
+  }
+]

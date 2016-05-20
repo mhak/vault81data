@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{23393541-6BAB-4D2C-8510-AE210EF4032F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:12.5187145Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Language",
+    "itemPath": "/sitecore/templates/System/Services/Item Service/Search/Search Definition/Data/Language",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

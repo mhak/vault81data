@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32566F0E-7686-45F1-A12F-D7260BD78BC3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:35.6847365Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Renderings",
+    "itemPath": "/sitecore/layout/Renderings",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null
+  }
+]

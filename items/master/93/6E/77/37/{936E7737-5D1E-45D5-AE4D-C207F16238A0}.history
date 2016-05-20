@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{936E7737-5D1E-45D5-AE4D-C207F16238A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:20.1780176Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ConfidenceLevel",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Definition/Data/ConfidenceLevel",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

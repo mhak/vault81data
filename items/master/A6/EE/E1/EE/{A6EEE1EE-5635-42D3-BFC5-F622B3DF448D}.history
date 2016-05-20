@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A6EEE1EE-5635-42D3-BFC5-F622B3DF448D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:48.4943131Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Social",
+    "itemPath": "/sitecore/templates/Branches/System/Path Analyzer/Site Map Group/$name/Channels/Social",
+    "commandType": "Item",
+    "template": "ChannelMap",
+    "sourceControlRevisionId": null
+  }
+]

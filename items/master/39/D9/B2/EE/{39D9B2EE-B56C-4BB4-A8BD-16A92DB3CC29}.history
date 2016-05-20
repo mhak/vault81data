@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39D9B2EE-B56C-4BB4-A8BD-16A92DB3CC29}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:44.7308200Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-sales",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-sales",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

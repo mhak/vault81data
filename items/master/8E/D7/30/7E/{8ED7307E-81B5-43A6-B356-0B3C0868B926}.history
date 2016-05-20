@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8ED7307E-81B5-43A6-B356-0B3C0868B926}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:58.0519826Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/MapGroup/__Standard Values",
+    "commandType": "Item",
+    "template": "MapGroup",
+    "sourceControlRevisionId": null
+  }
+]

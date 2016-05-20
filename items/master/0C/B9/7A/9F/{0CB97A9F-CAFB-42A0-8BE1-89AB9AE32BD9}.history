@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0CB97A9F-CAFB-42A0-8BE1-89AB9AE32BD9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:51.5607512Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Goals",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

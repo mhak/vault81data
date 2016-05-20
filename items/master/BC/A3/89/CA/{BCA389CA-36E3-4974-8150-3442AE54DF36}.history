@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BCA389CA-36E3-4974-8150-3442AE54DF36}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:27.8888769Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Puerto Rico",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Puerto Rico",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

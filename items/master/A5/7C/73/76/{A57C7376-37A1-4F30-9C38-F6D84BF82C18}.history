@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A57C7376-37A1-4F30-9C38-F6D84BF82C18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:33.8469261Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Is Percentage",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Common/Is Percentage",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4E028608-3407-4D52-9956-B3774784D347}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:20.0218058Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Conversion",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Definition/Data/Conversion",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{04382446-D18D-435F-A709-C756823CB764}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:57.9308932Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/Map Folder/__Standard Values",
+    "commandType": "Item",
+    "template": "Map Folder",
+    "sourceControlRevisionId": null
+  }
+]

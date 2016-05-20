@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{17A9F567-DC8A-4233-93E5-E3E6CE257535}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:15.3107859Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Application",
+    "itemPath": "/sitecore/templates/System/Social/Connector/Login with LinkedIn Button Parameters/Social/Application",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

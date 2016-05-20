@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B000D1BA-E065-481D-B550-2771C8216718}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:55.7218577Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Commands",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/Commands",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
+  }
+]

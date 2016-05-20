@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{391A8199-887B-4118-8CAF-2A49C38AE8EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:26.3302422Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Malta",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Malta",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

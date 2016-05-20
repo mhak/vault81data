@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5ECE3B5-0C94-4C32-B597-A4AE782321DD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:21.7768848Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Not Enough Versions Execute Command Action/__Standard Values",
+    "commandType": "Item",
+    "template": "Not Enough Versions Execute Command Action",
+    "sourceControlRevisionId": null
+  }
+]

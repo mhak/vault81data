@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CCBCD570-DD4A-4152-94CD-C42B4B6EE602}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:46.4503592Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Reset Fields",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Reset Fields",
+    "commandType": "Item",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null
+  }
+]

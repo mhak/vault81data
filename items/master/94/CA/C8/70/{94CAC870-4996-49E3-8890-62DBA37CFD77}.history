@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94CAC870-4996-49E3-8890-62DBA37CFD77}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:04.4493940Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ID",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Drop Down Box/Data/ID",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{202F2A2C-6274-467F-A9C8-3EC4585A3060}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:29.4572042Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Critical Error",
+    "itemPath": "/sitecore/templates/System/Workflow/Validation Action/Data/Critical Error",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69E6848C-AC9D-49A7-960A-7AE4E413EDEB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:36.4611175Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Multilist",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/Multilist",
+    "commandType": "Item",
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": null
+  }
+]

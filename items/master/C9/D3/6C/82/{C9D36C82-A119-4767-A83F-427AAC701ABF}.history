@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C9D36C82-A119-4767-A83F-427AAC701ABF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:00.7736285Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Federated Experience Manager",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
+  }
+]

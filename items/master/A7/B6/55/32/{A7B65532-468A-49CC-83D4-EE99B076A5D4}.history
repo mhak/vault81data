@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A7B65532-468A-49CC-83D4-EE99B076A5D4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:07.5285887Z",
+    "label": "Snapshot - base",
+    "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Login Goal Map (Reverse)",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default Maps/Site Maps/website/Goals/Login Goal Map Reverse",
+    "commandType": "Item",
+    "template": "GoalMap",
+    "sourceControlRevisionId": null
+  }
+]

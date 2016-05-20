@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{80285931-AB73-4CC8-8DA2-9A7DEC79F4CA}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:51.3556337Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Last Test Id For Rule",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Deprecated/Last Test Id For Rule",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

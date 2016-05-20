@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosures Parameters Template/Disclosures/Disclosures Source",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E24D8ACB-0028-4B1F-9104-CE4310214199}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:52.2174930Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Disclosures Source",
+    "itemPath": "/sitecore/templates/Demo/Disclosures/Disclosures Parameters Template/Disclosures/Disclosures Source",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

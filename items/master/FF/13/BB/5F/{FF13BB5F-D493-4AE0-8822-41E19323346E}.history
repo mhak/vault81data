@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF13BB5F-D493-4AE0-8822-41E19323346E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:00.4064709Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "User Agent",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device Detection/User Agent",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

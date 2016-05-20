@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B57186C2-1AE3-46D4-83A9-8947E0491F61}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:08.1056352Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Experience Map",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/MapTypes/Experience Map",
+    "commandType": "Item",
+    "template": "MapType",
+    "sourceControlRevisionId": null
+  }
+]

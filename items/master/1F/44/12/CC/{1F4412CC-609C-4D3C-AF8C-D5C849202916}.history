@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1F4412CC-609C-4D3C-AF8C-D5C849202916}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:15.6867155Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Parent ID",
+    "itemPath": "/sitecore/templates/System/Archiving/Archived item/Data/Parent ID",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

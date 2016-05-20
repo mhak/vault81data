@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0E54A8DC-72AD-4372-A7C7-BB4773FAD44D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:44.4249683Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "VaryByUser",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Caching/Caching/VaryByUser",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

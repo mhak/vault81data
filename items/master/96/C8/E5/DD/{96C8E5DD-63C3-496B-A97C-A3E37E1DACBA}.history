@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{96C8E5DD-63C3-496B-A97C-A3E37E1DACBA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:10.1282593Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tags Definitions Folder",
+    "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Tags Definitions Folder",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

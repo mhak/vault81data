@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DAEC87AC-3A74-4946-8A60-9B419388FB94}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:54.7081741Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Radiogroup",
+    "itemPath": "/sitecore/templates/System/Menus/Menu item/Data/Radiogroup",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

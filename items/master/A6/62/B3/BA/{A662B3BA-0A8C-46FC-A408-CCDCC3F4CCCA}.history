@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A662B3BA-0A8C-46FC-A408-CCDCC3F4CCCA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:20.2537169Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Antigua and Barbuda",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Antigua and Barbuda",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

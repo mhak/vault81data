@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9A8CD242-7BA0-46F4-A47E-6F92398A6C06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:24.2368083Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Heard Island and McDonald Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Heard Island and McDonald Islands",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

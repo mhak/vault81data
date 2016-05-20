@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D2D0D348-452D-472D-844D-31899BCD91FD}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:36.4552372Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "App Center Placeholder",
+    "itemPath": "/sitecore/layout/Layouts/System/App Center Sync/App Center Placeholder",
+    "commandType": "Item",
+    "template": "Layout Folder",
+    "sourceControlRevisionId": null
+  }
+]

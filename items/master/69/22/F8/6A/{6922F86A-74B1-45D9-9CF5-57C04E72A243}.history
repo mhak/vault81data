@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6922F86A-74B1-45D9-9CF5-57C04E72A243}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:27.6965810Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "HTML Size",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Size",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

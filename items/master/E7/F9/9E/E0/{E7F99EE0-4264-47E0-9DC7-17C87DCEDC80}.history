@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E7F99EE0-4264-47E0-9DC7-17C87DCEDC80}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:23.1280936Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Presets",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Presets",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

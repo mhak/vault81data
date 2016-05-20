@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Contact Us Reasons",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4CC3DEFC-F987-4999-9CF4-C2FC7E0FD286}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:31.3899300Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Contact Us Reasons",
+    "itemPath": "/sitecore/content/Griffin 2/Contact Us Reasons",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

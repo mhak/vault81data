@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FDD7C6B1-622A-4362-9CFF-DDE9866C68EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:22.1778977Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "starts with",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/starts with",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

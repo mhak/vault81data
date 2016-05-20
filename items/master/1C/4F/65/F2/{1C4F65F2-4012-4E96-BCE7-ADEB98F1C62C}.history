@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C4F65F2-4012-4E96-BCE7-ADEB98F1C62C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:28.8626244Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Comments",
+    "itemPath": "/sitecore/templates/System/Workflow/Standard Comment Template/Comment/Comments",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

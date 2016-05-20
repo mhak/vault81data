@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{405E5C11-D1A9-4C23-8BBB-5EC655E959D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:58.2120761Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Direct mail - print or collateral",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Direct marketing/Direct mail - print or collateral",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null
+  }
+]

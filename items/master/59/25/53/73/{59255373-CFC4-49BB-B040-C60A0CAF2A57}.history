@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{59255373-CFC4-49BB-B040-C60A0CAF2A57}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:23.1096145Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Faroe Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Faroe Islands",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

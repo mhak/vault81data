@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{611BA5DD-8D26-4C9B-A95D-900AC94CB32A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:53.1349367Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Height",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Image/Image/Height",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D4198DC5-F170-40AF-8D97-F74F360953C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:36.3010086Z",
+    "label": "Snapshot - base",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Referred - Other",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Referred - Other",
+    "commandType": "Item",
+    "template": "Traffic Type",
+    "sourceControlRevisionId": null
+  }
+]

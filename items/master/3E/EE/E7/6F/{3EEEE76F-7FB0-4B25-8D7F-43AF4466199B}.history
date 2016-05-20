@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3EEEE76F-7FB0-4B25-8D7F-43AF4466199B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:07.5323892Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "User Profile Numeric Field",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/User Profile Numeric Field",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

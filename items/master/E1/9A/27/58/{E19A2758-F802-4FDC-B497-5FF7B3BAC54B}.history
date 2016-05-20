@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E19A2758-F802-4FDC-B497-5FF7B3BAC54B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:50.9630520Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Audio",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Audio",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

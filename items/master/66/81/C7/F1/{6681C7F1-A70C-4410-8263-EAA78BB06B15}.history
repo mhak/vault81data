@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6681C7F1-A70C-4410-8263-EAA78BB06B15}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:06.9904044Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "website",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default Maps/Site Maps/website",
+    "commandType": "Item",
+    "template": "Site Map Group",
+    "sourceControlRevisionId": null
+  }
+]

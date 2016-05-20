@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BCF3B8FC-1FD2-4BBA-834F-188A39F98035}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:06.8976280Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "OrderBy",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Search Query Builder/OrderBy",
+    "commandType": "Item",
+    "template": "Action",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7AAA8FF7-E044-4153-BAE7-C3FB65A6E6F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:53.5480470Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "SMS campaigns",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/SMS campaigns",
+    "commandType": "Item",
+    "template": "Channel group",
+    "sourceControlRevisionId": null
+  }
+]

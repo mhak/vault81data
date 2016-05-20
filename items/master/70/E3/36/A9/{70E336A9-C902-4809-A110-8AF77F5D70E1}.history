@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{70E336A9-C902-4809-A110-8AF77F5D70E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:21.7384394Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Versions",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Not Enough Versions Execute Command Action/Versions",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

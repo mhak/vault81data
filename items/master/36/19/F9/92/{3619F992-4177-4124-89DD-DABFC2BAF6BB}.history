@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3619F992-4177-4124-89DD-DABFC2BAF6BB}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:00.3390191Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Panel",
+    "itemPath": "/sitecore/templates/System/Ribbon/Panel",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

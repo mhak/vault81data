@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{90DF61B3-3285-4D9D-8AE7-8253E954D5AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:47.2376981Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "$name",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings/__Url Rendering/$name",
+    "commandType": "Item",
+    "template": "Url Rendering",
+    "sourceControlRevisionId": null
+  }
+]

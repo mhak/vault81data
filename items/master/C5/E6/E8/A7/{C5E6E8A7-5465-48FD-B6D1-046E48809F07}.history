@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C5E6E8A7-5465-48FD-B6D1-046E48809F07}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:28.6955605Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Message",
+    "itemPath": "/sitecore/templates/System/Workflow/Email action/Data/Message",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

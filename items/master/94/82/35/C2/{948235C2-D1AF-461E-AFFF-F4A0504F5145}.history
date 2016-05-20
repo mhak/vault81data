@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{948235C2-D1AF-461E-AFFF-F4A0504F5145}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:52.5949932Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Item Deleted",
+    "itemPath": "/sitecore/system/Settings/Rules/Item Deleted",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
+    "sourceControlRevisionId": null
+  }
+]

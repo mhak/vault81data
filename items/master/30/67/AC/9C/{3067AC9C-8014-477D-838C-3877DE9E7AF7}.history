@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3067AC9C-8014-477D-838C-3877DE9E7AF7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:09.0538940Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Domain Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Domain Name",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DE305E7D-D74B-4ABB-BEA0-4A3A9D0137EF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:49.6154880Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "HD TV",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/HD TV",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null
+  }
+]

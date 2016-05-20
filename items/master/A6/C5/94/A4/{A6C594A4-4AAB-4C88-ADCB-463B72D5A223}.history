@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A6C594A4-4AAB-4C88-ADCB-463B72D5A223}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:21.7296584Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Layout",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Layout/Layout",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

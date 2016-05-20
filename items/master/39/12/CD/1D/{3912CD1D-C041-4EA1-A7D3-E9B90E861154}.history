@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3912CD1D-C041-4EA1-A7D3-E9B90E861154}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:27.3898124Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Norway",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Norway",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

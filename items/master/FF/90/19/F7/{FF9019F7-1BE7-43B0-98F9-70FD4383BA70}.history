@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF9019F7-1BE7-43B0-98F9-70FD4383BA70}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:03.3273911Z",
+    "label": "Snapshot - base",
+    "workflowState": "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "All visits by channel group",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By channel group/All visits by channel group",
+    "commandType": "Item",
+    "template": "Segment",
+    "sourceControlRevisionId": null
+  }
+]

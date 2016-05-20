@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{938943F9-6326-4F42-BA86-68F2D2FBA694}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:23.3548716Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Control",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Control/Control",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

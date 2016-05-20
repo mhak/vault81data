@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5481ADF8-53BD-4EE8-88C5-2A48AB162E63}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:10.9679496Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Name",
+    "itemPath": "/sitecore/templates/System/Rules/Validation Rule/Data/Name",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

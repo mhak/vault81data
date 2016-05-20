@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0957665D-86D7-4A92-910E-FC64309D6F74}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:27.5060573Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Pakistan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Pakistan",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

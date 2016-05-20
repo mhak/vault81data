@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{33711187-712E-48C1-B083-9433AF19B129}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:03.6603152Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Protected",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Attributes/Protected",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

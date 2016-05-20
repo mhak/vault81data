@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{35E75C72-4985-4E09-88C3-0EAC6CD1E64F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:15.7756494Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Branch",
+    "itemPath": "/sitecore/templates/System/Branches/Branch",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{456C87EF-DEF3-4024-8A04-4B2F79084221}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:16.2220310Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Comments",
+    "itemPath": "/sitecore/templates/System/Social/Message/Social Marketer Message/Data/Comments",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

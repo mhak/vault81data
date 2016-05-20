@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{62495B9A-5BBB-43EC-99A1-3BF08C8F5AC9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:12.8841654Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona/__Standard Values",
+    "commandType": "Item",
+    "template": "Profile Card - Persona",
+    "sourceControlRevisionId": null
+  }
+]

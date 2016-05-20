@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{843B2A3C-C798-4F07-88BD-6EE9479F1D1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:11.8547628Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "RegionalIsoCode",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/RegionalIsoCode",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

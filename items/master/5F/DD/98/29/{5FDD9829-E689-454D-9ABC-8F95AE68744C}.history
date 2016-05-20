@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5FDD9829-E689-454D-9ABC-8F95AE68744C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:09.1731728Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Practical",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Focus/Practical",
+    "commandType": "Item",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null
+  }
+]

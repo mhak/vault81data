@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7EE0975B-0698-493E-B3A2-0B2EF33D0522}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:38.1066325Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Rendering Folder",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Rendering Folder",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

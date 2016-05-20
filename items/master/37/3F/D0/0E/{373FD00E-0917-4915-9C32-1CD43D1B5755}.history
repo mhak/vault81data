@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{373FD00E-0917-4915-9C32-1CD43D1B5755}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:23.8595606Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Guam",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guam",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

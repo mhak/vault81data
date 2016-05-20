@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F58303EF-A54E-44B1-ADAF-9CD9DE6C3DAD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:53.2413695Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Inclusion Operators",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Inclusion Operators",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

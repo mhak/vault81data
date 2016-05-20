@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{76B92A23-6D99-4B3D-BE0B-37FE5F143202}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:44.6223073Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-productdisplay",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-productdisplay",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

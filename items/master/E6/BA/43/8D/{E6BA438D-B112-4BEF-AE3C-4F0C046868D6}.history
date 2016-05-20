@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6BA438D-B112-4BEF-AE3C-4F0C046868D6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:49.5314377Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Feature Phone",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Feature Phone",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null
+  }
+]

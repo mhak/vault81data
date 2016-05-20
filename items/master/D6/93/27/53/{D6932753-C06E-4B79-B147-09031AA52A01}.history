@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D6932753-C06E-4B79-B147-09031AA52A01}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:51.1057134Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Write Test Outcomes",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Write Test Outcomes",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

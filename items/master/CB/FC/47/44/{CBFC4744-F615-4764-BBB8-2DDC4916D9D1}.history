@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CBFC4744-F615-4764-BBB8-2DDC4916D9D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:15.1085551Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Report Query",
+    "itemPath": "/sitecore/templates/System/Analytics/ReportQuery/Report Query",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

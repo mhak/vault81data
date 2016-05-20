@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3CB8DBCA-1ABC-4C3E-802D-1B369E09A4F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:20.3908729Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "AsiaPacific Region",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/AsiaPacific Region",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4E0325B7-0CAA-4B9B-9125-0E01F05C8392}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:27.6818043Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Paraguay",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Paraguay",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

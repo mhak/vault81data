@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{12C1CEB4-F549-472A-97ED-99BFF70EB84E}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:05.4982147Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ID",
+    "itemPath": "/sitecore/templates/System/Ribbon/Strip/Data/ID",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

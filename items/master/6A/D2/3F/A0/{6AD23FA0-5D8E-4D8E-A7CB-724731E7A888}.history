@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/Demo/Navigation/Navigation Item/Link Section/Link",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6AD23FA0-5D8E-4D8E-A7CB-724731E7A888}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:54.7814141Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Link",
+    "itemPath": "/sitecore/templates/Demo/Navigation/Navigation Item/Link Section/Link",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

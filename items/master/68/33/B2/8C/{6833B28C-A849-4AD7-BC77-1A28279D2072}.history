@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6833B28C-A849-4AD7-BC77-1A28279D2072}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:48.9620779Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ID View",
+    "itemPath": "/sitecore/system/Settings/Buckets/Views/ID View",
+    "commandType": "Item",
+    "template": "View",
+    "sourceControlRevisionId": null
+  }
+]

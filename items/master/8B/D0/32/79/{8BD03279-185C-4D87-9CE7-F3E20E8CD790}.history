@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8BD03279-185C-4D87-9CE7-F3E20E8CD790}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:07.4075954Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "User Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/User Name",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

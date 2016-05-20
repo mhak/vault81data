@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7707156C-AA49-4E66-9CEE-58B6D53FED78}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:10.5919954Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Profile Cards",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Score/Profile Cards",
+    "commandType": "Item",
+    "template": "Profile Cards",
+    "sourceControlRevisionId": null
+  }
+]

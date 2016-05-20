@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E21B895B-9B71-4BA2-A28F-7D20D5512640}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:19.4866646Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Content Testing/Tasks/Try Finish Tests/Data",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

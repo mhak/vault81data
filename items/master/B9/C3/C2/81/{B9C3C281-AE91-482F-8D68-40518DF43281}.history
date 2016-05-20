@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B9C3C281-AE91-482F-8D68-40518DF43281}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:48.4152139Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Organic Search",
+    "itemPath": "/sitecore/templates/Branches/System/Path Analyzer/Site Map Group/$name/Channels/Organic Search",
+    "commandType": "Item",
+    "template": "ChannelMap",
+    "sourceControlRevisionId": null
+  }
+]

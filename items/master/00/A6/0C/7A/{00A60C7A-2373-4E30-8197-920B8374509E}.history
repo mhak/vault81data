@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{00A60C7A-2373-4E30-8197-920B8374509E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:22.9103772Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Accordion",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Accordion",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

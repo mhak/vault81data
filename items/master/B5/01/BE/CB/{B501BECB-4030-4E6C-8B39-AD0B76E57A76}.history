@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B501BECB-4030-4E6C-8B39-AD0B76E57A76}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:16.5138374Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Map Folder Insert Rule",
+    "itemPath": "/sitecore/system/Settings/Insert Rules/Path Analyzer/Map Folder Insert Rule",
+    "commandType": "Item",
+    "template": "Insert Rule",
+    "sourceControlRevisionId": null
+  }
+]

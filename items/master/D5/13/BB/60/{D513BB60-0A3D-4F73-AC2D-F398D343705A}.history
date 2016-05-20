@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D513BB60-0A3D-4F73-AC2D-F398D343705A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:59.2482972Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Browser Supports HTML5 audio",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Browser Supports HTML5 audio",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

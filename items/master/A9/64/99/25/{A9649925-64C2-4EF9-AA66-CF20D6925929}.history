@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A9649925-64C2-4EF9-AA66-CF20D6925929}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:43.4571936Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Bucket",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Bucket",
+    "commandType": "Item",
+    "template": "Facet",
+    "sourceControlRevisionId": null
+  }
+]

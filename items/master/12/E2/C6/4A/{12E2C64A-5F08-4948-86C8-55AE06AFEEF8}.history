@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{12E2C64A-5F08-4948-86C8-55AE06AFEEF8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:13.5900705Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "MaxValue",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Key/Data/MaxValue",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

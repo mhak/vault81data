@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{35BF41EF-6CE1-4293-A91E-431B75CA53A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:23.2343256Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "France",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/France",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

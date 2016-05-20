@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6EEB4DE0-D186-4990-AFC9-2E297CBD4C54}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:46.1946326Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Language",
+    "itemPath": "/sitecore/templates/Branches/System/Globalization/Language",
+    "commandType": "Item",
+    "template": "Command Template",
+    "sourceControlRevisionId": null
+  }
+]

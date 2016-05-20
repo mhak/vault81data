@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B55D2033-838B-493C-AFAB-EB1DECDF54B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:46.2228596Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Follow Hit",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Follow Hit",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

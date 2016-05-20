@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75DD7B82-3603-4607-AA10-A78DFF943B14}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:11.8371100Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Page Event Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Page Event Name",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

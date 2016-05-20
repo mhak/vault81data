@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E0A83E06-25AB-40D7-B736-6EDA68D9CC49}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:36.7932070Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__formbegin",
+    "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__formbegin",
+    "commandType": "Item",
+    "template": "Head Placeholder Setting",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6F6530CD-5820-400A-BF79-AA1D4381A009}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:17.4523136Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Content Testing/Historical Test Data/__Standard Values",
+    "commandType": "Item",
+    "template": "Historical Test Data",
+    "sourceControlRevisionId": null
+  }
+]

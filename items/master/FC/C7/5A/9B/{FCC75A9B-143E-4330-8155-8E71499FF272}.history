@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FCC75A9B-143E-4330-8155-8E71499FF272}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:26.1358944Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Script",
+    "itemPath": "/sitecore/templates/System/Validation/Validation Rule/Script",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

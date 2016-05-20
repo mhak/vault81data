@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{92FC298E-B921-4409-B400-2233754A46E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:22.9786789Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Ethiopia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Ethiopia",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

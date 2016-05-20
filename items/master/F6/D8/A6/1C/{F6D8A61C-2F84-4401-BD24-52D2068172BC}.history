@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F6D8A61C-2F84-4401-BD24-52D2068172BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:20.9270628Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Originator",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Appearance/Appearance/__Originator",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

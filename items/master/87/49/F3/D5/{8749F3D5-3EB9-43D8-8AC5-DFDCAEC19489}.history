@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8749F3D5-3EB9-43D8-8AC5-DFDCAEC19489}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:01.2767354Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Predefined Filter Value",
+    "itemPath": "/sitecore/templates/System/Analytics/Predefined Filter Value",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

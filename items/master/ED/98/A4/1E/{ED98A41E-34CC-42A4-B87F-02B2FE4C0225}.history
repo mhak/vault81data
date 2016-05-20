@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ED98A41E-34CC-42A4-B87F-02B2FE4C0225}",
+    "version": 3,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:06.1516441Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Click",
+    "itemPath": "/sitecore/templates/System/Ribbon/Tool Button/Data/Click",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

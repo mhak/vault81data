@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{62AAB6B2-69AB-4BE7-8AA0-F1E898CCC6F5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:26.6691331Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Parameters",
+    "itemPath": "/sitecore/templates/System/Feeds/Feed Rendering Parameters/Parameters",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6F5B9EB7-D444-4E28-BB7A-12D3B03A8F7C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:12.9651263Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Age",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona/Data/Age",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

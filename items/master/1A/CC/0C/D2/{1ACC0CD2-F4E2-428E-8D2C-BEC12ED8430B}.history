@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Griffin 2/Personal",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1ACC0CD2-F4E2-428E-8D2C-BEC12ED8430B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:32.4202121Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Personal",
+    "itemPath": "/sitecore/content/Griffin 2/Personal",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

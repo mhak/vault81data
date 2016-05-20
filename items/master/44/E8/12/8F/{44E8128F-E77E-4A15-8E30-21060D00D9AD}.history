@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{44E8128F-E77E-4A15-8E30-21060D00D9AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:17.3868793Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Workflow",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
+  }
+]

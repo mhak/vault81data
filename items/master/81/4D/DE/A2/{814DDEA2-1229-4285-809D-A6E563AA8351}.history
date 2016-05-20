@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{814DDEA2-1229-4285-809D-A6E563AA8351}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:36.9230810Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Media",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Media",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

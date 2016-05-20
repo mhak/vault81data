@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/templates/Demo/Disclosures/Dislcosures Folder/__Standard Values",
     "commandType": "Item",
     "template": "Dislcosures Folder",
+    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B12A50CA-993E-4113-8912-D7D894F320E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:52.3060819Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Demo/Disclosures/Dislcosures Folder/__Standard Values",
+    "commandType": "Item",
+    "template": "Dislcosures Folder",
     "sourceControlRevisionId": null
   }
 ]

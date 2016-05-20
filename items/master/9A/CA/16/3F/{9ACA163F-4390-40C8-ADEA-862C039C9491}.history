@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9ACA163F-4390-40C8-ADEA-862C039C9491}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:07.3097399Z",
+    "label": "Snapshot - base",
+    "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "All Site Experience",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default Maps/Site Maps/website/Visits/All Site Experience",
+    "commandType": "Item",
+    "template": "Map",
+    "sourceControlRevisionId": null
+  }
+]

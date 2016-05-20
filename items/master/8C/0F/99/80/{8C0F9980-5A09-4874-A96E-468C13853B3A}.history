@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8C0F9980-5A09-4874-A96E-468C13853B3A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:20.0656849Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "TrackWithEngagement",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Definition/Data/TrackWithEngagement",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

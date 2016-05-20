@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2B0DECB7-F2E3-4964-A635-B3C931EFEB8E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:26.2016639Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Interests",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset Persona/Data/Interests",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

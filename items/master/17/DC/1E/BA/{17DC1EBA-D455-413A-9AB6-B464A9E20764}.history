@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{17DC1EBA-D455-413A-9AB6-B464A9E20764}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:18.3605444Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Device",
+    "itemPath": "/sitecore/templates/System/Content Testing/Content Test Variable/Data/Device",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

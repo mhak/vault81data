@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking/Thank-You",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9CA5C7F0-EA4C-42DC-B5DD-D2DE3A6012A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:35.1808719Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Thank-You",
+    "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking/Thank-You",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D07286FA-67CE-4D66-8783-0140B8B91EF1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:52.9602639Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Online",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online",
+    "commandType": "Item",
+    "template": "Channel type",
+    "sourceControlRevisionId": null
+  }
+]

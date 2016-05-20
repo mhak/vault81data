@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CFD44297-445E-4311-BC9A-2589DD7512D1}",
+    "version": 4,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:51.3890430Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "MV Test Visits by Test Id And Test Values",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Deprecated/MV Test Visits by Test Id And Test Values",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

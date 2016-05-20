@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{71A2C881-FBB3-4A23-A187-7FD50A20F924}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:06.6788983Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Content Editor Warning Rule",
+    "itemPath": "/sitecore/templates/System/Rules/Content Editor Warning Rule",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

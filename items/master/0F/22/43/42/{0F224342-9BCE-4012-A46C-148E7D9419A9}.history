@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0F224342-9BCE-4012-A46C-148E7D9419A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:16.7287949Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Marketing Automation Evaluation",
+    "itemPath": "/sitecore/system/Settings/Analytics/Marketing Automation Evaluation",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

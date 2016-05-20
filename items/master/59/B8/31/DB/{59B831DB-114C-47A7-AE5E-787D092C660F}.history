@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{59B831DB-114C-47A7-AE5E-787D092C660F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:00.9777053Z",
+    "label": "Snapshot - base",
+    "workflowState": "{E39E0ADC-9487-4BA4-950D-1993D5614B8E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Visits",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits",
+    "commandType": "Item",
+    "template": "DimensionFolder",
+    "sourceControlRevisionId": null
+  }
+]

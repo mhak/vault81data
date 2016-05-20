@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0FC09EA4-8D87-4B0E-A5C9-8076AE863D9C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:01.3469332Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Profile Card",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

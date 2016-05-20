@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{33A4181C-6FF1-4A4E-9B42-8F7A54F70699}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:50.2345396Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Page Views By Item Id",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Page Views By Item Id",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

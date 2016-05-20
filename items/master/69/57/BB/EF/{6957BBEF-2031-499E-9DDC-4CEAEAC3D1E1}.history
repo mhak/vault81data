@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6957BBEF-2031-499E-9DDC-4CEAEAC3D1E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:35.6652580Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Unique Placeholder Key",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Unique Placeholder Key",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null
+  }
+]

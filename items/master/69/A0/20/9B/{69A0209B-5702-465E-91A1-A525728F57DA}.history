@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69A0209B-5702-465E-91A1-A525728F57DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:31.6555409Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Name",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Boosting Rule/Data/Name",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

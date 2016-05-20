@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F8AAE0EC-76D0-4147-BB9F-D8301B612D96}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:21.9903806Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Remove Tests Action/__Standard Values",
+    "commandType": "Item",
+    "template": "Remove Tests Action",
+    "sourceControlRevisionId": null
+  }
+]

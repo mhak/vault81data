@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0410BCD6-1C08-4BC6-A4F4-1E288C5483D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:20.1456713Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Guess",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Definition/Data/Guess",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

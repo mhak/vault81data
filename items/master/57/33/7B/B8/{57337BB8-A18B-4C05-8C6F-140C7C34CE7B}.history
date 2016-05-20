@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{57337BB8-A18B-4C05-8C6F-140C7C34CE7B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:30.8918594Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "United States Minor Outlying Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/United States Minor Outlying Islands",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1E8500FE-5D28-47E0-B91C-4614B22E949B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:40.3282881Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "No Silverlight Support Trait",
+    "itemPath": "/sitecore/layout/Simulators/Blackberry/No Silverlight Support Trait",
+    "commandType": "Item",
+    "template": "No Silverlight Support Trait",
+    "sourceControlRevisionId": null
+  }
+]

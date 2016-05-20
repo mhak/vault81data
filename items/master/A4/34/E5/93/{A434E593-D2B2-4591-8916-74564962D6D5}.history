@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A434E593-D2B2-4591-8916-74564962D6D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:32.5872378Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Icon",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Field Search Type/Search Type/Icon",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

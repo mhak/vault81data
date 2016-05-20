@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8409EEE1-861A-41BF-B2C4-7EF28651F09E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:14.5539372Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ConstructorParameters",
+    "itemPath": "/sitecore/templates/System/Analytics/Vendor Specific Filter/Configuration/ConstructorParameters",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

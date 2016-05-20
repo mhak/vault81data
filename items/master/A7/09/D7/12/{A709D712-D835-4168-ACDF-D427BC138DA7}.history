@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A709D712-D835-4168-ACDF-D427BC138DA7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:53.9474252Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Other 3rd party pay-per-lead",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/3rd party/Other 3rd party pay-per-lead",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null
+  }
+]

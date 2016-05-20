@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{969D575B-83E5-4CB3-9898-75EAD251471C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:48.0637698Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "First Visit Experience",
+    "itemPath": "/sitecore/templates/Branches/System/Path Analyzer/Site Map Group/$name/Visits/First Visit Experience",
+    "commandType": "Item",
+    "template": "Map",
+    "sourceControlRevisionId": null
+  }
+]

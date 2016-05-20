@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2B421E6F-E820-4A04-9A4A-E421A0262B61}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:29.4006140Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Html Editor List Item",
+    "itemPath": "/sitecore/templates/System/Html Editor Profiles/Html Editor List Item",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

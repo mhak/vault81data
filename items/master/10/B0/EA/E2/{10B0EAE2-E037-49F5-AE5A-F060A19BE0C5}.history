@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{10B0EAE2-E037-49F5-AE5A-F060A19BE0C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:46.3283509Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Play",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Play",
+    "commandType": "Item",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null
+  }
+]

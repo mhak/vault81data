@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A9475C23-C5E7-4D4A-A9FA-83EBFAB4BEEE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:33.6750743Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Text",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

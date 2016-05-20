@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/templates/Demo/Site Footer",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{38D6F0FC-5B0B-406D-B2D4-EBF7A15B47E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:51.1203413Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Site Footer",
+    "itemPath": "/sitecore/templates/Demo/Site Footer",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

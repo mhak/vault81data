@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{536BB534-7F7E-409C-B491-E147FCF6BC97}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:02.9659862Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Default",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Visibility/Default",
+    "commandType": "Item",
+    "template": "Rule Elements Visibility Rule",
+    "sourceControlRevisionId": null
+  }
+]

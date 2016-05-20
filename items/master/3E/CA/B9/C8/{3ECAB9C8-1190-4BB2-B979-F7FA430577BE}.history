@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3ECAB9C8-1190-4BB2-B979-F7FA430577BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:20.7540707Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Belize",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Belize",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

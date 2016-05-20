@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65321522-A323-485E-BF87-27F50222CFD0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:25.9445186Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Visit 5",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/History/Visit 5",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

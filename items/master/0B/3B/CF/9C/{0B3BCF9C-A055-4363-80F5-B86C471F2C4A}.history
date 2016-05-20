@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B3BCF9C-A055-4363-80F5-B86C471F2C4A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:39.4191404Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Suspend Corrupted Tests",
+    "itemPath": "/sitecore/system/Tasks/Commands/Content Testing/Suspend Corrupted Tests",
+    "commandType": "Item",
+    "template": "Command",
+    "sourceControlRevisionId": null
+  }
+]

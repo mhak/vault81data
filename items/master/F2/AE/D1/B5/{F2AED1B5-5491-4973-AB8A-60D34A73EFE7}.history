@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F2AED1B5-5491-4973-AB8A-60D34A73EFE7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:23.5109588Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Search Query Builder",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Search Query Builder",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null
+  }
+]

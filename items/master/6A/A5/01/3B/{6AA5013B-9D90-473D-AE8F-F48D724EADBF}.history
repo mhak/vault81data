@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6AA5013B-9D90-473D-AE8F-F48D724EADBF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:24.5236291Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Classify As",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/Visitor Information/Classify As",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

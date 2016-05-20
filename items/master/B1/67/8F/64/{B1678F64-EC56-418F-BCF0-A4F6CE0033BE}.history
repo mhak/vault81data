@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B1678F64-EC56-418F-BCF0-A4F6CE0033BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:27.9083870Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Reference class",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Class/Data/Reference class",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

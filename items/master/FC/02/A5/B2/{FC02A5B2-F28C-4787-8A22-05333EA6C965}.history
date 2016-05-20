@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FC02A5B2-F28C-4787-8A22-05333EA6C965}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:25.6984105Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Validate Button",
+    "itemPath": "/sitecore/templates/System/Validation/Global Validation Rules/Validation Rules/Validate Button",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

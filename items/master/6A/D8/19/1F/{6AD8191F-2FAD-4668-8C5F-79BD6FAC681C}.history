@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6AD8191F-2FAD-4668-8C5F-79BD6FAC681C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:40.5626791Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Suspended",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Suspended",
+    "commandType": "Item",
+    "template": "State",
+    "sourceControlRevisionId": null
+  }
+]

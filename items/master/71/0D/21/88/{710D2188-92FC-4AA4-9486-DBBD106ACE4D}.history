@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{710D2188-92FC-4AA4-9486-DBBD106ACE4D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:50.3802609Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "document",
+    "itemPath": "/sitecore/media library/System/Template Thumbnails/document",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

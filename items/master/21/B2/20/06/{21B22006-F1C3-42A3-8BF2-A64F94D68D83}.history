@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{21B22006-F1C3-42A3-8BF2-A64F94D68D83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:24.4983320Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "India",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/India",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

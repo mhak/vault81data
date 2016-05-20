@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FB8ABC73-7ACF-45A0-898C-D3CCB889C3EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:29.0753660Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Final",
+    "itemPath": "/sitecore/templates/System/Workflow/State/Data/Final",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

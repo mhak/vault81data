@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5F094FE4-CC4B-40FD-9377-9AB00E7F7CA5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:50.8781440Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Aliases",
+    "itemPath": "/sitecore/system/Aliases",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null
+  }
+]

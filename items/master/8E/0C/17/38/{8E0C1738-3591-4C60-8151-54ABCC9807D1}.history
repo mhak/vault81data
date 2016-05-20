@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8E0C1738-3591-4C60-8151-54ABCC9807D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:01.3157502Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Profile",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

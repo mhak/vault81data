@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6EDBD98D-A66F-4ED6-AFD3-0D6D669A107A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:19.7423851Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Scheduling",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Definition/Scheduling",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

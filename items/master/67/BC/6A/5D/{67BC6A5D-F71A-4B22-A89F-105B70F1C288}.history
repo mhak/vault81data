@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{67BC6A5D-F71A-4B22-A89F-105B70F1C288}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:40.5148403Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "No Flash Support",
+    "itemPath": "/sitecore/layout/Simulators/iPad/No Flash Support",
+    "commandType": "Item",
+    "template": "No Flash Support Trait",
+    "sourceControlRevisionId": null
+  }
+]

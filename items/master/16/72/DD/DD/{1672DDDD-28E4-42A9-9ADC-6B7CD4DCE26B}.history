@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1672DDDD-28E4-42A9-9ADC-6B7CD4DCE26B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:13.1164927Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "DayOfMyLive",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona/Data/DayOfMyLive",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

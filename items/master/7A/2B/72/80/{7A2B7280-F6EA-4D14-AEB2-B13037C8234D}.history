@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7A2B7280-F6EA-4D14-AEB2-B13037C8234D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:32.5910131Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "100",
+    "itemPath": "/sitecore/system/Settings/Simulators/Scale Values/100",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null
+  }
+]

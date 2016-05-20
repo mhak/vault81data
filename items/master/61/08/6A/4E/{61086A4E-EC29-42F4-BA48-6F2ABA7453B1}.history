@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61086A4E-EC29-42F4-BA48-6F2ABA7453B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:16.7589705Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Content Test Variable",
+    "itemPath": "/sitecore/templates/System/Content Testing/Content Test Variable",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

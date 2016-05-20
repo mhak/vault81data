@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7011B2FF-EE6C-44FF-BBEC-54C50B19ECC4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:40.7368808Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "No Flash Support Trait",
+    "itemPath": "/sitecore/layout/Simulators/Windows Phone/No Flash Support Trait",
+    "commandType": "Item",
+    "template": "No Flash Support Trait",
+    "sourceControlRevisionId": null
+  }
+]

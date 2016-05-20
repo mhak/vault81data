@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C5C8BBEF-D383-42A7-9BE3-AD73034E8E5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:15.3547638Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Social",
+    "itemPath": "/sitecore/templates/System/Social/Connector/Login with Twitter Button Parameters/Social",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

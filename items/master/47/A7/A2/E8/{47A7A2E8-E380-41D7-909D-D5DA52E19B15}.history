@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{47A7A2E8-E380-41D7-909D-D5DA52E19B15}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:31.8341806Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Dropdown List",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Dropdown List/Dropdown List",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

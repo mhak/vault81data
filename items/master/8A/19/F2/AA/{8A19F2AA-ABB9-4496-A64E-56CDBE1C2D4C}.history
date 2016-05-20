@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8A19F2AA-ABB9-4496-A64E-56CDBE1C2D4C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:58.2639752Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Wednesday",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Day of Week/Days of week/Wednesday",
+    "commandType": "Item",
+    "template": "Standard template",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E7675D11-C0A0-4817-BEBA-0E7B039699DB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:54.8517208Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Text",
+    "itemPath": "/sitecore/templates/System/Navigation/Notification/Data/Text",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

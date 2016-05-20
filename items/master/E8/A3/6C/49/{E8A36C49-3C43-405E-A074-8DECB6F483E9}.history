@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E8A36C49-3C43-405E-A074-8DECB6F483E9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:28.9533876Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Goals",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Goals",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null
+  }
+]

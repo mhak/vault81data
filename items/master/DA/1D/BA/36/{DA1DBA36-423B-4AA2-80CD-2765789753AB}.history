@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DA1DBA36-423B-4AA2-80CD-2765789753AB}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:51.2423506Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Write Testing Cluster Members",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Write Testing Cluster Members",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

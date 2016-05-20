@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0145335-8735-414B-9169-A1D4E4DC9641}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:49.9501140Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Software",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Jpeg/Exif/Software",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

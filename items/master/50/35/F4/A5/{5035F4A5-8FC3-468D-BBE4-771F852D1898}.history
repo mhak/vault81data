@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5035F4A5-8FC3-468D-BBE4-771F852D1898}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:50.8840939Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Test Statistics",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Test Statistics",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

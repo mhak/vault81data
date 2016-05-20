@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4D18B0A0-41D7-4EA2-89A2-192B1DC969FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:22.4591762Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Dominica",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Dominica",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

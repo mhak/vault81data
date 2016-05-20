@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0A67B2A-8B07-4E0B-8809-69F751709806}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:20.2472647Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Tracking",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Advanced/Advanced/__Tracking",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

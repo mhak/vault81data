@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B9BA5875-36C0-48D1-8B82-6DF152B7AAA6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:29.8391058Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Folder",
+    "itemPath": "/sitecore/templates/System/Experience Analytics/DimensionFolder",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

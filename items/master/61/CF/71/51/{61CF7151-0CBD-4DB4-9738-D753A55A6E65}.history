@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61CF7151-0CBD-4DB4-9738-D753A55A6E65}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:20.1534832Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Enforce version presence",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Advanced/Advanced/__Enforce version presence",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

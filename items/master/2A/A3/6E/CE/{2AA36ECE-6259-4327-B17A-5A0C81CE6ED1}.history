@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2AA36ECE-6259-4327-B17A-5A0C81CE6ED1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:53.9415702Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Device Detection",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device Detection",
+    "commandType": "Item",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null
+  }
+]

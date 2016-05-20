@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85B7F5D9-6F3A-4AD1-B218-D9FBE1DF8BB3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:34.3806417Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Layout group",
+    "itemPath": "/sitecore/templates/System/Layout/Layout group",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

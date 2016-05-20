@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F7F0FE7B-8A99-4881-AA35-DC5018ABF68A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:31.1624751Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Open Result Type",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Open Result Type",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BB7D0CAA-D546-4C1B-AB70-F415B72C4D6E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:59.6038281Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Hardware Display Width",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Hardware Display Width",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

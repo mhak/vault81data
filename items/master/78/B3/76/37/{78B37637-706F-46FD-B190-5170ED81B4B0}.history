@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78B37637-706F-46FD-B190-5170ED81B4B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:12.7072097Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Interaction Start Date",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Interaction Start Date",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

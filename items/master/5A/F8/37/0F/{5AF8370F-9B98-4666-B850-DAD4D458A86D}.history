@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5AF8370F-9B98-4666-B850-DAD4D458A86D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:28.9117304Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Facets",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Facets",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null
+  }
+]

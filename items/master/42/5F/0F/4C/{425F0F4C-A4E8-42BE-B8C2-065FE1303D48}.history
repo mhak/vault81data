@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{425F0F4C-A4E8-42BE-B8C2-065FE1303D48}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:13.0714518Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Interests",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona/Data/Interests",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

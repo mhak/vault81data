@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A3B9E0D1-7728-4423-BF7B-F18B4158DF99}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:08.8206484Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Persona",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Rules/Persona",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

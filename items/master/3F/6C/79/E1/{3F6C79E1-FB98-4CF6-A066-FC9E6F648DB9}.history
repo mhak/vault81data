@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3F6C79E1-FB98-4CF6-A066-FC9E6F648DB9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:07.2171201Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Channels",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default Maps/Site Maps/website/Channels",
+    "commandType": "Item",
+    "template": "MapGroup",
+    "sourceControlRevisionId": null
+  }
+]

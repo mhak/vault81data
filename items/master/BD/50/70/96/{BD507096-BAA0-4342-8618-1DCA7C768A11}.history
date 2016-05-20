@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/templates/Demo/Folders/Banking Menu/__Standard Values",
     "commandType": "Item",
     "template": "Banking Menu",
+    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BD507096-BAA0-4342-8618-1DCA7C768A11}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:53.3401564Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Demo/Folders/Banking Menu/__Standard Values",
+    "commandType": "Item",
+    "template": "Banking Menu",
     "sourceControlRevisionId": null
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{52BE0F65-878D-4570-A53D-5C5127B31BF7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:19.7728125Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Afghanistan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Afghanistan",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

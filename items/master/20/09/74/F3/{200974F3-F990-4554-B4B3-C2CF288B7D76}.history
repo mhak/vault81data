@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{200974F3-F990-4554-B4B3-C2CF288B7D76}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:56.3751734Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Reversable Map",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/ReversableMap",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

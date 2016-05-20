@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CD2DC446-FFB3-41FE-A078-00F34EA30678}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:12.8439028Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Snippet",
+    "itemPath": "/sitecore/templates/System/Snippet/Data/Snippet",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

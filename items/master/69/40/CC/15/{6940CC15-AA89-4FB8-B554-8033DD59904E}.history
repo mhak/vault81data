@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6940CC15-AA89-4FB8-B554-8033DD59904E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:13.2374721Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Goal",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona/Data/Goal",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

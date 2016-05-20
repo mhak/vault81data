@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{154DE801-C1E7-4F68-9F0A-26676C1CAAFB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:23.7970345Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Templates/Template/__Standard Values",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

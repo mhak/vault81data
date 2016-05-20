@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77C2A8F6-AB1C-40B7-BE7B-EBCB615B770A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:18.6036781Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Datasource",
+    "itemPath": "/sitecore/templates/System/Content Testing/Multivariate Test Value/Data/Datasource",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

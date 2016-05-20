@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7990FAD8-AC75-4D29-A48D-1ED6D29E8C63}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:21.5324353Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Personalization Test Workflow Command",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Deploy Associated Tests Action/Associated Tests/Personalization Test Workflow Command",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

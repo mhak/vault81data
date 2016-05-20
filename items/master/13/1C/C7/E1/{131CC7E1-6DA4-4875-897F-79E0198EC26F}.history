@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{131CC7E1-6DA4-4875-897F-79E0198EC26F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:00.6488431Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Is in Engagement Plan",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Engagement Automation/Is in Engagement Plan",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

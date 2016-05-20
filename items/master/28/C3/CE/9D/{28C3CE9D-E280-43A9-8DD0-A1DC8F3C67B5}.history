@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{28C3CE9D-E280-43A9-8DD0-A1DC8F3C67B5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:27.6486229Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Papua New Guinea",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Papua New Guinea",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

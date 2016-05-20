@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0D50E0A-FAFA-4F37-96A9-DF6124AA197B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:28.4064676Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Clean on button",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Clean on button",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

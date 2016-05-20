@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CE4ADCFB-7990-4980-83FB-A00C1E3673DB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:38.8038821Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Sample Inner Sublayout",
+    "itemPath": "/sitecore/layout/Sublayouts/Sample Inner Sublayout",
+    "commandType": "Item",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null
+  }
+]

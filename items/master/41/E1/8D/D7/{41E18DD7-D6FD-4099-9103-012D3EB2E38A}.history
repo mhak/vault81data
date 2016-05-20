@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{41E18DD7-D6FD-4099-9103-012D3EB2E38A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:11.9308337Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Page event with custom data was triggered during a past or current interaction",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Page event with custom data was triggered during a past or current interaction",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

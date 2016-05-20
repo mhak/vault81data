@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{601D19B6-49D2-4461-8961-A96B4EEA76CA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:52.9249773Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Purchase",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Outcome group/Purchase",
+    "commandType": "Item",
+    "template": "Outcome group",
+    "sourceControlRevisionId": null
+  }
+]

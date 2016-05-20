@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03379AF5-F1AE-4610-B15B-4C7F1032B464}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:09.1105182Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Background",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Focus/Background",
+    "commandType": "Item",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null
+  }
+]

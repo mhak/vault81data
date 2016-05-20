@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7851F00-E869-4F93-81F5-B5338EFF58A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:16.0628398Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Facebook Message",
+    "itemPath": "/sitecore/templates/System/Social/Message/Facebook Message",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

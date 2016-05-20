@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4429FFFA-4951-4084-8D86-159BDDF37EBA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:48.2993316Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Apply Campaigns to All Items",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Marketing/Apply Campaigns to All Items",
+    "commandType": "Item",
+    "template": "Dropdown List",
+    "sourceControlRevisionId": null
+  }
+]

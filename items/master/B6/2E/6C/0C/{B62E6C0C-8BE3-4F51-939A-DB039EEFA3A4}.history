@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B62E6C0C-8BE3-4F51-939A-DB039EEFA3A4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:39.8751917Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Item Reports",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

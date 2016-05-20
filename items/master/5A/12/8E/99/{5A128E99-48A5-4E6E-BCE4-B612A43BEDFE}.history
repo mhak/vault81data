@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5A128E99-48A5-4E6E-BCE4-B612A43BEDFE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:54.7443359Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Notification",
+    "itemPath": "/sitecore/templates/System/Navigation/Notification",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

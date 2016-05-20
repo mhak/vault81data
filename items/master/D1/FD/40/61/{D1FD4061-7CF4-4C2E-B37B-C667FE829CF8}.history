@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/templates/Demo/Promotion/Data/Component Title",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D1FD4061-7CF4-4C2E-B37B-C667FE829CF8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:56.1897951Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Component Title",
+    "itemPath": "/sitecore/templates/Demo/Promotion/Data/Component Title",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E7B5C821-A54C-4264-9C06-C6EBDBFCD6B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:05.4778241Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Goal facet 1",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Classification/Goal classification/Classification/Goal facet 1",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

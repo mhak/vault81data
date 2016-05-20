@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E1779438-9BE6-4FCE-93CF-5BAFC930176E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:44.4670691Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Rendering Options/__Standard Values",
+    "commandType": "Item",
+    "template": "Rendering Options",
+    "sourceControlRevisionId": null
+  }
+]

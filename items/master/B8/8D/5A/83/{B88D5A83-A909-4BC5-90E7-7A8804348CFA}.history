@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B88D5A83-A909-4BC5-90E7-7A8804348CFA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:07.5714536Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "User Role",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/User Role",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

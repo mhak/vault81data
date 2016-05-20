@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E77D7895-E8AF-4EEE-8873-E610208CE6D6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:57.2091964Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "TargetChannel",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/ChannelMap/Options/TargetChannel",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{645D548F-EEA0-46BE-BB35-543B29F60FC1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:39.3985962Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Rebuild Suggested Tests Index",
+    "itemPath": "/sitecore/system/Tasks/Commands/Content Testing/Rebuild Suggested Tests Index",
+    "commandType": "Item",
+    "template": "Rebuild Index Command",
+    "sourceControlRevisionId": null
+  }
+]

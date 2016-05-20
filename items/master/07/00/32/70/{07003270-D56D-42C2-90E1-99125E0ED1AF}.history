@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07003270-D56D-42C2-90E1-99125E0ED1AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:29.8741901Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Filter",
+    "itemPath": "/sitecore/templates/System/Experience Analytics/Filter",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

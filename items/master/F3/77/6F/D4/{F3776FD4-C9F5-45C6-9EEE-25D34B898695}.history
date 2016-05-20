@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F3776FD4-C9F5-45C6-9EEE-25D34B898695}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:35.6213678Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Organization Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Organization Visits",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

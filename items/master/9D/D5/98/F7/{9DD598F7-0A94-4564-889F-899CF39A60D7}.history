@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9DD598F7-0A94-4564-889F-899CF39A60D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:46.9542531Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Page Visited",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Page Visited",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C7C26117-DBB1-42B2-AB5E-F7223845CCA3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:20.8630259Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Thumbnail",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Appearance/Appearance/__Thumbnail",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

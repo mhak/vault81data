@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F222940D-920D-476A-BE82-CC950449DC3A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:52.2325896Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Definitions",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

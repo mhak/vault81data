@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E037642C-CE8E-437F-8A61-8D32D0CE54E1}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:00.6554375Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Small Input Box",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Input Box",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

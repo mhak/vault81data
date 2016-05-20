@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F83BBBC6-1470-4BE7-BA18-5E4CAFE4D0CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:04.5256179Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Non-branded organic search",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Filters/Non-branded organic search",
+    "commandType": "Item",
+    "template": "Filter",
+    "sourceControlRevisionId": null
+  }
+]

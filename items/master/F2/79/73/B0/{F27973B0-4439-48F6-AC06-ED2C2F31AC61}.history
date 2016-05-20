@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F27973B0-4439-48F6-AC06-ED2C2F31AC61}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:57.9503825Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Month of Year",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Month of Year",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

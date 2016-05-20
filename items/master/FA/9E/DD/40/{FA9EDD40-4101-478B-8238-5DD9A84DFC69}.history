@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FA9EDD40-4101-478B-8238-5DD9A84DFC69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:06.7415387Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Cost",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Cost/Cost",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/templates/Demo/Navigation/Navigation Folder/Navigation Folder Section",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B2B03102-D549-4C71-A09F-F33156531A28}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:54.2325851Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Navigation Folder Section",
+    "itemPath": "/sitecore/templates/Demo/Navigation/Navigation Folder/Navigation Folder Section",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

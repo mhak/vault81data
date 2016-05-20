@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1CC29119-82E2-449F-B208-33790D434B95}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:52.0382699Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Keywords",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/File/Information/Keywords",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

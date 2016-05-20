@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/templates/Demo/HealthWealthPage",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{99595FA3-1836-4333-9B99-B650273820B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:50.3058201Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "HealthWealthPage",
+    "itemPath": "/sitecore/templates/Demo/HealthWealthPage",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

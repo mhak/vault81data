@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5862787E-DD1B-4555-9C1C-4EFAD12AFD51}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:06.5196948Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Clear Rules Cache",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Script/Clear Rules Cache",
+    "commandType": "Item",
+    "template": "Script",
+    "sourceControlRevisionId": null
+  }
+]

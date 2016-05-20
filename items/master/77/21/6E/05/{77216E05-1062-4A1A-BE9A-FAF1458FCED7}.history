@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77216E05-1062-4A1A-BE9A-FAF1458FCED7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:42.4015812Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-appstore-activity",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-appstore-activity",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

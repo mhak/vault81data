@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B9985DD1-D81A-43BB-B7F7-C1294FEC09F4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:16.7883457Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Organic Branded Keywords",
+    "itemPath": "/sitecore/system/Settings/Analytics/Organic Branded Keywords",
+    "commandType": "Item",
+    "template": "Organic Branded Keywords",
+    "sourceControlRevisionId": null
+  }
+]

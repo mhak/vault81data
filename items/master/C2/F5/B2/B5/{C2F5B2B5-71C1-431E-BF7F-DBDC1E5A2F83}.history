@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C2F5B2B5-71C1-431E-BF7F-DBDC1E5A2F83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:23.3899741Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Quick Action Bar Validation Rules",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Validators/Validation Rules/__Quick Action Bar Validation Rules",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

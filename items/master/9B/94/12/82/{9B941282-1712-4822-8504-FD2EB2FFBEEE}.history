@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9B941282-1712-4822-8504-FD2EB2FFBEEE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:37.5296816Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Dns",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types/Dns",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

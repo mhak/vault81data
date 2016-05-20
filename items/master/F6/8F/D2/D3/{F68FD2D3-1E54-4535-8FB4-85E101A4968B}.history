@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F68FD2D3-1E54-4535-8FB4-85E101A4968B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:36.3743009Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Image",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/Image",
+    "commandType": "Item",
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": null
+  }
+]

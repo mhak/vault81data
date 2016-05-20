@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B750F26-520E-4B33-852A-9633C54706BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:43.2199059Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Views",
+    "itemPath": "/sitecore/system/Settings/Buckets/Views",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C167BE37-E450-42CA-99F3-ED82C1897D26}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:11.5158150Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Administrator",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/Administrator",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

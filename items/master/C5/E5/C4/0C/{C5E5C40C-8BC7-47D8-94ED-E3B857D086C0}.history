@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C5E5C40C-8BC7-47D8-94ED-E3B857D086C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:56.0948886Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Map Folder",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/Map Folder",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

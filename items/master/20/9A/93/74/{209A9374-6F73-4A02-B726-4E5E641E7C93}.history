@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{209A9374-6F73-4A02-B726-4E5E641E7C93}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:36.7101288Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Devices",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Devices",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

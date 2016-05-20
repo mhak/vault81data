@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{34334F2F-20E4-42A6-99BD-4F8A636680CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:09.3703689Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Info",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Log Message/Log Level/Info",
+    "commandType": "Item",
+    "template": "Standard template",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77E1E5CB-5DEB-4974-96DD-2B0C89699DB9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:19.5978103Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Content Testing/Tasks/Try Finish Tests/__Standard Values",
+    "commandType": "Item",
+    "template": "Try Finish Tests",
+    "sourceControlRevisionId": null
+  }
+]

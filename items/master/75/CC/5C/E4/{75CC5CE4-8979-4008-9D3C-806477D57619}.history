@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75CC5CE4-8979-4008-9D3C-806477D57619}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:35.4376570Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Layouts",
+    "itemPath": "/sitecore/layout/Layouts",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null
+  }
+]

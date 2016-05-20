@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A4D2B019-D375-40DC-AA5C-4AE355CFE974}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:57.3645595Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "IncludeAllPages",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/ExperienceMap/Options/IncludeAllPages",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

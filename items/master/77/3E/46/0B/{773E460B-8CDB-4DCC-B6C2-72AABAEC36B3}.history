@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{773E460B-8CDB-4DCC-B6C2-72AABAEC36B3}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:50.1045563Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Last Test Id By RuleSetId And RuleId",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Last Test Id By RuleSetId And RuleId",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

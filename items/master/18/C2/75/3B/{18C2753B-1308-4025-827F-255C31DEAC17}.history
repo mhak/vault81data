@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{18C2753B-1308-4025-827F-255C31DEAC17}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:44.5051357Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Markup Rendering",
+    "itemPath": "/sitecore/templates/App Center Sync/Markup Rendering",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E662452C-3433-41CB-8E32-68DE35DDC8AE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:03.3261574Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Asset/Asset group/__Standard Values",
+    "commandType": "Item",
+    "template": "Asset group",
+    "sourceControlRevisionId": null
+  }
+]

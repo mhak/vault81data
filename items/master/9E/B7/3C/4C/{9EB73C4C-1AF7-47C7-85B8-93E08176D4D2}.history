@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9EB73C4C-1AF7-47C7-85B8-93E08176D4D2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:38.7024708Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Sample Datasource Sublayout",
+    "itemPath": "/sitecore/layout/Sublayouts/Sample Datasource Sublayout",
+    "commandType": "Item",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null
+  }
+]

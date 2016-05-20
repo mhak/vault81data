@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BFBFFC27-6B53-46C9-BD5A-A929F6BBAC70}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:27.4210666Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Managing editor",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Additional Metadata/Managing editor",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

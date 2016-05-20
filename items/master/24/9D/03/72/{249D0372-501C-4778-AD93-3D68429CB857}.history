@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{249D0372-501C-4778-AD93-3D68429CB857}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:44.4485676Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-partner-marketing",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-partner-marketing",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

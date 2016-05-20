@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4E76168A-B56B-4590-B4F8-C4023C9C3D02}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:03.5363022Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Custom/Custom Taxon/__Standard Values",
+    "commandType": "Item",
+    "template": "Custom Taxon",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07C0CAB1-A744-42EB-BA83-AFD313D598D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:43.0522390Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Control name",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/XmlControl/Data/Control name",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

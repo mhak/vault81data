@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF670895-C767-423B-870B-ACC4D960EE83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:52.4123644Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Experience Analytics",
+    "itemPath": "/sitecore/system/Settings/Rules/Experience Analytics",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
+    "sourceControlRevisionId": null
+  }
+]

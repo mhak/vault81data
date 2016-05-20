@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB8A18EC-0AD5-4E3B-BF0B-C9098E3B9903}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:14.5812957Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "include lower value",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Inclusion Operators/include lower value",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4FBAAC96-0788-437D-96A7-83544358DA69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:43.4280066Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-facebook",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-facebook",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

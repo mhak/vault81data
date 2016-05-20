@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C158AB86-AAEE-420A-A40E-3B25DC92F218}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:39.5489985Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Android™ Phablet",
+    "itemPath": "/sitecore/layout/Simulators/Android Phablet",
+    "commandType": "Item",
+    "template": "Simulator",
+    "sourceControlRevisionId": null
+  }
+]

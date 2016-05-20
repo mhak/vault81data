@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{00D7261B-FFB4-4377-B917-373FADCA3295}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:28.0033381Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Reunion",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Reunion",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

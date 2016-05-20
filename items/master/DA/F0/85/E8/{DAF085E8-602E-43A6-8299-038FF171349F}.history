@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DAF085E8-602E-43A6-8299-038FF171349F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:46.2179699Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Jpeg",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Jpeg",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

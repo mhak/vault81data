@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AAD4C04A-EAA6-4824-87D2-E01F2325D422}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:11.1241859Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Security folder",
+    "itemPath": "/sitecore/templates/System/Security/Security folder",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

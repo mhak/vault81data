@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B2FAFB1E-3E71-4086-9526-7CAD4C2C56A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:49.2443104Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "End Test Behavior",
+    "itemPath": "/sitecore/system/Settings/Content Testing/End Test Behavior",
+    "commandType": "Item",
+    "template": "Behavior",
+    "sourceControlRevisionId": null
+  }
+]

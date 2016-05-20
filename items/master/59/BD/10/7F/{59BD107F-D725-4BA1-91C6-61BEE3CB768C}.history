@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{59BD107F-D725-4BA1-91C6-61BEE3CB768C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:54.2003716Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Other apps",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Apps/Other apps",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F32BE1E8-A933-43EA-9265-0540FD6BB916}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:51.3616591Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Toolbox",
+    "itemPath": "/sitecore/system/Toolbox",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null
+  }
+]

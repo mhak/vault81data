@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1B0C73B8-7702-4B3C-AD80-708995DCB97F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:08.0451105Z",
+    "label": "Snapshot - base",
+    "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Experience Map with Value Goals Only",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default Maps/Site Maps/website/Experience Maps/Experience Map with Value Goals Only",
+    "commandType": "Item",
+    "template": "ExperienceMap",
+    "sourceControlRevisionId": null
+  }
+]

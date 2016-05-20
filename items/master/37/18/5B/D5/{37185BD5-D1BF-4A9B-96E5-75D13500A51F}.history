@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{37185BD5-D1BF-4A9B-96E5-75D13500A51F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:01.2335744Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Patterns",
+    "itemPath": "/sitecore/templates/System/Analytics/Patterns",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
+  }
+]

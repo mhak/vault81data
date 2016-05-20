@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{437DB79E-17EA-49C8-9E50-CF52C63EEE12}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:34.8684855Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Broken Links",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Broken Links",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null
+  }
+]

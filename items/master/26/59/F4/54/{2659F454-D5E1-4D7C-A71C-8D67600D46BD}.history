@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2659F454-D5E1-4D7C-A71C-8D67600D46BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:11.9845346Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Item Service",
+    "itemPath": "/sitecore/templates/System/Services/Item Service",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

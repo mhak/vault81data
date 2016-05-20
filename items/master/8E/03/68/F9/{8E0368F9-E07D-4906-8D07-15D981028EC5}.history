@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8E0368F9-E07D-4906-8D07-15D981028EC5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:56.2615064Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Outcome Map",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/OutcomeMap",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

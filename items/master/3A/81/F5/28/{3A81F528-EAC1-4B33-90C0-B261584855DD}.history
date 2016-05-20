@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3A81F528-EAC1-4B33-90C0-B261584855DD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:16.5509759Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Dashboard Reports",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

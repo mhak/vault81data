@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B532DFA7-398E-412E-A4C1-153FFACD3847}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:08.6488995Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Is Member Of Network",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Social/Is Member Of Network",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

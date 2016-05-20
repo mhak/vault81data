@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{512C1C49-5AD2-4AE7-BEC6-0CE9F1A9932A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:41.5636423Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Common Mistakes",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Site Health/Common Mistakes",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F2C69C5E-4E98-4E7E-9DF5-0512967B295F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:52.5714620Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Properties",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Flash/Properties",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

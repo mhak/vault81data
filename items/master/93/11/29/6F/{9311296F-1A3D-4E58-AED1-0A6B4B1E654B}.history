@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9311296F-1A3D-4E58-AED1-0A6B4B1E654B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:09.0636930Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Score",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Score",
+    "commandType": "Item",
+    "template": "Profile",
+    "sourceControlRevisionId": null
+  }
+]

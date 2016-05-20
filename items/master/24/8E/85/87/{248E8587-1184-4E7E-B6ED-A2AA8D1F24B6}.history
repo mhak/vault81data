@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{248E8587-1184-4E7E-B6ED-A2AA8D1F24B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:46.4705215Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Logout",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Logout",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

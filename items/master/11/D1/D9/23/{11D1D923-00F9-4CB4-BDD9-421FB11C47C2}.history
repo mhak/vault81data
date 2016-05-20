@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{11D1D923-00F9-4CB4-BDD9-421FB11C47C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:33.4591491Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Enabled",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Tag Repository/Repository Details/Enabled",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

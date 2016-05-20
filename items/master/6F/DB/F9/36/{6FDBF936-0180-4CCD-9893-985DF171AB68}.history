@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6FDBF936-0180-4CCD-9893-985DF171AB68}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:17.5021996Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Experiences",
+    "itemPath": "/sitecore/templates/System/Content Testing/Historical Test Data/Data/Experiences",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

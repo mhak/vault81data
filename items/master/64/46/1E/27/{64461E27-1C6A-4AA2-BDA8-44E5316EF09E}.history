@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{64461E27-1C6A-4AA2-BDA8-44E5316EF09E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:23.4933577Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Method",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Control/Control/Method",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E344C026-8575-496D-8CDF-7741891D0786}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:43.6622674Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "File Size",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/File Size",
+    "commandType": "Item",
+    "template": "Facet",
+    "sourceControlRevisionId": null
+  }
+]

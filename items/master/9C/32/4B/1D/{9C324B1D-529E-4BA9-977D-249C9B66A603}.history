@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9C324B1D-529E-4BA9-977D-249C9B66A603}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:34.1214436Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Referenced Item Is Invalid",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Path Analyzer/Referenced Item Is Invalid",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null
+  }
+]

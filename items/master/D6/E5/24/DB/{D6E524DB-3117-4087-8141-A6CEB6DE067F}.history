@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D6E524DB-3117-4087-8141-A6CEB6DE067F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:41.7531379Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Latest Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Recent Activity/Latest Visits",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null
+  }
+]

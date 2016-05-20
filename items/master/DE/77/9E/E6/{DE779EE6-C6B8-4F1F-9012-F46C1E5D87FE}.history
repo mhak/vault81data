@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DE779EE6-C6B8-4F1F-9012-F46C1E5D87FE}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:51.0323901Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Visits",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Visits",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

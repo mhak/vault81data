@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{42DFC2E6-7BF8-4599-B804-B08713D2B5EC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:35.6624898Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Visit Failures",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visit Failures",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

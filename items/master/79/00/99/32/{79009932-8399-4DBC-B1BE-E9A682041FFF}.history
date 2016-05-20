@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{79009932-8399-4DBC-B1BE-E9A682041FFF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:24.9269421Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Jersey",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Jersey",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

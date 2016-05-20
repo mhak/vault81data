@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5E06B64F-6EA7-495C-AA66-7B69F7B94C19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:51.6555378Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Subgroup Round Robin Sticky",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Test Strategies/Subgroup Round Robin Sticky",
+    "commandType": "Item",
+    "template": "Multivariate Test Strategy",
+    "sourceControlRevisionId": null
+  }
+]

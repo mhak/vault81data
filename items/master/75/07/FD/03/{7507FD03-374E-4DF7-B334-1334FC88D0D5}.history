@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7507FD03-374E-4DF7-B334-1334FC88D0D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:24.0882495Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "History",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/History",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

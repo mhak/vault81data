@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E67477C-440C-4BCA-A358-3D29AED89F47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:22.0128832Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "contains",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/contains",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

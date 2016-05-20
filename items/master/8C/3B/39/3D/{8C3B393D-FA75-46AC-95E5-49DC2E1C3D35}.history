@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8C3B393D-FA75-46AC-95E5-49DC2E1C3D35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:42.6625577Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Expired",
+    "itemPath": "/sitecore/system/Workflows/Social Account Renewal/Expired",
+    "commandType": "Item",
+    "template": "State",
+    "sourceControlRevisionId": null
+  }
+]

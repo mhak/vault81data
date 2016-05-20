@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8FEBD913-CEC8-43EE-9911-4B2CEC124646}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:30.0909887Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tuvalu",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tuvalu",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

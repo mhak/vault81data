@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E882FB0D-AF4C-48F4-924B-3308D4F4B6A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:26.3967443Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Environment",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset Persona/Data/Environment",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

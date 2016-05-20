@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B4A0FB13-9758-427C-A7EB-1A406C045192}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:37.7316452Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "WebEdit",
+    "itemPath": "/sitecore/layout/Renderings/System/WebEdit",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6768B5C4-8C4B-43A0-BC0E-DD0C6E90FA45}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:51.2120747Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Write Testing Cluster",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Write Testing Cluster",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

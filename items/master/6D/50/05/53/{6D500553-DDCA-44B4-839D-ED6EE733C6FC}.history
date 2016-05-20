@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6D500553-DDCA-44B4-839D-ED6EE733C6FC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:35.4731495Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Rich Text Image Size",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Rich Text Image Size",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null
+  }
+]

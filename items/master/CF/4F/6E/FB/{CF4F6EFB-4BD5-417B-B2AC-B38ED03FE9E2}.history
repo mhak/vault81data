@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CF4F6EFB-4BD5-417B-B2AC-B38ED03FE9E2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:56.9485309Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Advertising",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Advertising",
+    "commandType": "Item",
+    "template": "Channel group",
+    "sourceControlRevisionId": null
+  }
+]

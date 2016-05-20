@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{878B62D2-ECA4-43BF-8E39-6FE86EA77747}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:09.3255003Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Code",
+    "itemPath": "/sitecore/templates/System/Rules/Macro/Script/Code",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

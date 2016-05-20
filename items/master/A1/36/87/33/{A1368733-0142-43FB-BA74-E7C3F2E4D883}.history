@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A1368733-0142-43FB-BA74-E7C3F2E4D883}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:35.1565422Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Image Has Alt Text",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Image Has Alt Text",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null
+  }
+]

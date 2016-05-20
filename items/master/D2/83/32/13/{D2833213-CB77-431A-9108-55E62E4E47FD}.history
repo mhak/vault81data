@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D2833213-CB77-431A-9108-55E62E4E47FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:44.2999688Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "List Manager",
+    "itemPath": "/sitecore/templates/List Manager",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
+  }
+]

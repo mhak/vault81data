@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/templates/Demo/Promotion Folder/__Standard Values",
     "commandType": "Item",
     "template": "Promotion Folder",
+    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{142F9015-9883-4DF2-B6A4-A3D00F847099}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:56.3470880Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Demo/Promotion Folder/__Standard Values",
+    "commandType": "Item",
+    "template": "Promotion Folder",
     "sourceControlRevisionId": null
   }
 ]

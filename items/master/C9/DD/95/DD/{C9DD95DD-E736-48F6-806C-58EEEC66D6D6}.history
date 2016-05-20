@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C9DD95DD-E736-48F6-806C-58EEEC66D6D6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:07.7992063Z",
+    "label": "Snapshot - base",
+    "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Paid Search",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default Maps/Site Maps/website/Channels/Paid Search",
+    "commandType": "Item",
+    "template": "ChannelMap",
+    "sourceControlRevisionId": null
+  }
+]

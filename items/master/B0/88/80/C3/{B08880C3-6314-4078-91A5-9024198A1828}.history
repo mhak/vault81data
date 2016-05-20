@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B08880C3-6314-4078-91A5-9024198A1828}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:07.0310903Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Visits",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default Maps/Site Maps/website/Visits",
+    "commandType": "Item",
+    "template": "MapGroup",
+    "sourceControlRevisionId": null
+  }
+]

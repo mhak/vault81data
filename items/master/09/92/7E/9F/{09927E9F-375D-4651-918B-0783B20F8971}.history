@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09927E9F-375D-4651-918B-0783B20F8971}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:14.7893947Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Integer",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Integer",
+    "commandType": "Item",
+    "template": "Macro",
+    "sourceControlRevisionId": null
+  }
+]

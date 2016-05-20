@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E539F50-0437-4FFA-A66C-F601AF1E1A9F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:59.5761892Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Hardware Display Height",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Hardware Display Height",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

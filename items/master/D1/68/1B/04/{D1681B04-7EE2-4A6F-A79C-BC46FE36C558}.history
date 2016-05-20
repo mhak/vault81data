@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D1681B04-7EE2-4A6F-A79C-BC46FE36C558}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:15.8761650Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Sample",
+    "itemPath": "/sitecore/system/Proxies/Sample",
+    "commandType": "Item",
+    "template": "Proxy",
+    "sourceControlRevisionId": null
+  }
+]

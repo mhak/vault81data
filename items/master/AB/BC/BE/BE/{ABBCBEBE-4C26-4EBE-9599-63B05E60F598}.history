@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ABBCBEBE-4C26-4EBE-9599-63B05E60F598}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:29.0734074Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "MVC Layouts",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/MVC Layouts",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
+    "sourceControlRevisionId": null
+  }
+]

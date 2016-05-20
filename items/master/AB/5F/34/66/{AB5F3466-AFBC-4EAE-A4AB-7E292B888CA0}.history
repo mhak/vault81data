@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB5F3466-AFBC-4EAE-A4AB-7E292B888CA0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:00.1407805Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Social",
+    "itemPath": "/sitecore/templates/System/Social",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
+  }
+]

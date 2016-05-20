@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{05B547A2-C736-4351-8A03-AA74AF67B6C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:59.4494113Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Device Supports Touch Screen",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Device Supports Touch Screen",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CBCF6772-419B-4D98-AC62-3B9E1AE39A7B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:20.0520063Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Angola",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Angola",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

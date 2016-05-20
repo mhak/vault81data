@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85A56FD7-53C6-42F0-9F08-6EB78712FBFB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:14.4044542Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Mapping",
+    "itemPath": "/sitecore/templates/System/Analytics/Vendor Specific Filter/Mapping",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

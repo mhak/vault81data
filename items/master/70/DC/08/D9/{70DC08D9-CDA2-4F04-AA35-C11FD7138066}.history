@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{70DC08D9-CDA2-4F04-AA35-C11FD7138066}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:35.6274010Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Area",
+    "itemPath": "/sitecore/templates/System/Layout/Layout/Data/Area",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

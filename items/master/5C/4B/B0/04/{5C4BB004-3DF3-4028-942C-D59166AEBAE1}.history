@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5C4BB004-3DF3-4028-942C-D59166AEBAE1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:19.7844237Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "System",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Definition/System",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

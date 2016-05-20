@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{696279A6-1462-4E4C-ACEF-77233C571F1A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:38.9269572Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Networks",
+    "itemPath": "/sitecore/system/Social/Networks",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

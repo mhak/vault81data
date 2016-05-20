@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{48A0E8C2-DFD6-4AEA-BCD9-749A7F61531F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:14.1439032Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Components",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6DE6D81B-2D5F-42BD-951A-D037D3DB6F30}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:51.4817263Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Number of Sessions Below Average Value",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Deprecated/Number of Sessions Below Average Value",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

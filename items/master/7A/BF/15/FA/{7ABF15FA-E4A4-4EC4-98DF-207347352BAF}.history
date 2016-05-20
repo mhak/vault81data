@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7ABF15FA-E4A4-4EC4-98DF-207347352BAF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:18.6993858Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Flow Type",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Flow Type",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

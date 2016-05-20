@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{50278469-25F6-456B-BF9A-92C22FD38086}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:09.6643878Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Chris",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Persona/Chris",
+    "commandType": "Item",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B3AAC56-399A-44E7-9080-9EB5F89AE2F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:03.5099626Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Custom/Custom group/__Standard Values",
+    "commandType": "Item",
+    "template": "Custom group",
+    "sourceControlRevisionId": null
+  }
+]

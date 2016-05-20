@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{74633FDE-ACBC-45A5-9408-01BC74DF3B2D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:24.4444978Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Consumed Assets",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/Onsite Behaviour/Consumed Assets",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

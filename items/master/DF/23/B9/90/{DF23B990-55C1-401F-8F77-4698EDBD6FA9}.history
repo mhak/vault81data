@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF23B990-55C1-401F-8F77-4698EDBD6FA9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:07.4689171Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Script",
+    "itemPath": "/sitecore/templates/System/Rules/Condition/Script",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

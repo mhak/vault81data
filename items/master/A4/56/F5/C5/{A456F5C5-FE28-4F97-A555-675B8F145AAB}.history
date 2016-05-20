@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A456F5C5-FE28-4F97-A555-675B8F145AAB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:41.8831371Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Business Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Business Visits",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

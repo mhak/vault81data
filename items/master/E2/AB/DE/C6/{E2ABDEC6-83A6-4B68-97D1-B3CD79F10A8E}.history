@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E2ABDEC6-83A6-4B68-97D1-B3CD79F10A8E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:42.3898146Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "TagPrefix",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Webcontrol/Data/TagPrefix",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

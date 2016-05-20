@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B7CB66A8-F6E6-44DC-B048-88BAB0DC37C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:19.3332275Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Try Finish Tests",
+    "itemPath": "/sitecore/templates/System/Content Testing/Tasks/Try Finish Tests",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

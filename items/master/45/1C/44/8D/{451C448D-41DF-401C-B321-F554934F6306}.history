@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{451C448D-41DF-401C-B321-F554934F6306}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:50.3595373Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Reach By Test Id",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Reach By Test Id",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

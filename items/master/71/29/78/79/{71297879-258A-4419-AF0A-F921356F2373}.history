@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{71297879-258A-4419-AF0A-F921356F2373}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:40.8351223Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Cancel Test",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Deployed/Cancel Test",
+    "commandType": "Item",
+    "template": "Command",
+    "sourceControlRevisionId": null
+  }
+]

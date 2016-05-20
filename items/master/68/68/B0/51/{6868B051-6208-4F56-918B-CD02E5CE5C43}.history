@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6868B051-6208-4F56-918B-CD02E5CE5C43}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:13.4466431Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Default",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visitor/Visibility/Default",
+    "commandType": "Item",
+    "template": "Rule Elements Visibility Rule",
+    "sourceControlRevisionId": null
+  }
+]

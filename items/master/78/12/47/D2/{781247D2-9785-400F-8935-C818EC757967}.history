@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{781247D2-9785-400F-8935-C818EC757967}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:32.6505503Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Default",
+    "itemPath": "/sitecore/system/Settings/Subitems Sorting/Default",
+    "commandType": "Item",
+    "template": "Child Sorting",
+    "sourceControlRevisionId": null
+  }
+]

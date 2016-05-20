@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E76FB6B-DD18-41BE-B812-AF47E3715EB3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:53.4376584Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "String Operators",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

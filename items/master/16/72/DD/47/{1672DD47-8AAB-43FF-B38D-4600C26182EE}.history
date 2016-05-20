@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1672DD47-8AAB-43FF-B38D-4600C26182EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:06.8351939Z",
+    "label": "Snapshot - base",
+    "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Experience Map with Goals",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default Maps/Global Maps/Experience Maps/Experience Map with Goals",
+    "commandType": "Item",
+    "template": "ExperienceMap",
+    "sourceControlRevisionId": null
+  }
+]

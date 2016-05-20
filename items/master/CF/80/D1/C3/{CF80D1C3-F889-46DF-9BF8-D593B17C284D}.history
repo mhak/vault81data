@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CF80D1C3-F889-46DF-9BF8-D593B17C284D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:31.7912173Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Name",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Clientside Hook/Details/Name",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

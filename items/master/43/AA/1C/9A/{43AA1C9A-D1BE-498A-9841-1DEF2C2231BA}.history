@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{43AA1C9A-D1BE-498A-9841-1DEF2C2231BA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:06.5462141Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Select Traffic Type",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Traffic Type/Select Traffic Type",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

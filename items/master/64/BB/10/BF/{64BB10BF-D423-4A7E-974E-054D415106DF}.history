@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{64BB10BF-D423-4A7E-974E-054D415106DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:59.3371001Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Device Model Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Device/Device Model Name",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

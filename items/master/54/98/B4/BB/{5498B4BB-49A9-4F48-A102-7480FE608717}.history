@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5498B4BB-49A9-4F48-A102-7480FE608717}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:07.3409802Z",
+    "label": "Snapshot - base",
+    "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "English Language Experience",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default Maps/Site Maps/website/Visits/English language",
+    "commandType": "Item",
+    "template": "Map",
+    "sourceControlRevisionId": null
+  }
+]

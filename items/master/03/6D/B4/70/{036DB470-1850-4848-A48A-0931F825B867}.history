@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{036DB470-1850-4848-A48A-0931F825B867}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:08.8136903Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Domain Matcher",
+    "itemPath": "/sitecore/templates/System/Analytics/Federated Experience Manager/Domain Matcher",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

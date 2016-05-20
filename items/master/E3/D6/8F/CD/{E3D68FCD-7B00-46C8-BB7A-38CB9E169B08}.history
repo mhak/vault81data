@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E3D68FCD-7B00-46C8-BB7A-38CB9E169B08}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:53.4816283Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Referral",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Referral",
+    "commandType": "Item",
+    "template": "Channel group",
+    "sourceControlRevisionId": null
+  }
+]

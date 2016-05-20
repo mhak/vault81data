@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FBF574CD-F970-4459-8260-D49A76FE7165}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:42.3294614Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Business Overview",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Business Overview/Business Overview",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null
+  }
+]

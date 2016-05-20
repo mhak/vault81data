@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E38E8794-4F70-4906-A62A-B7D018E07FA9}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:50.4161766Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Reach For Rule",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Reach For Rule",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

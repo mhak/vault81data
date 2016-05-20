@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{24F4E908-7A2D-41AE-9AF5-B32B67BAD822}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:23.6476270Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Gibraltar",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Gibraltar",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

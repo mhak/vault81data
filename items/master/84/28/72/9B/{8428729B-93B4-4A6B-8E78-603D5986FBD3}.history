@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8428729B-93B4-4A6B-8E78-603D5986FBD3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:46.8558334Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Auto Suggest List",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Auto Suggest List",
+    "commandType": "Item",
+    "template": "Search Control Type",
+    "sourceControlRevisionId": null
+  }
+]

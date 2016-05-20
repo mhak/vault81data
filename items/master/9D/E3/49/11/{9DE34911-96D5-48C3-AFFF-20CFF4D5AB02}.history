@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9DE34911-96D5-48C3-AFFF-20CFF4D5AB02}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:37.3810381Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Full Page XHtml",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Full Page XHtml",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null
+  }
+]

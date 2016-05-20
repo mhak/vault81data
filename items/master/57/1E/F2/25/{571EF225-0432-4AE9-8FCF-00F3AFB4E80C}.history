@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{571EF225-0432-4AE9-8FCF-00F3AFB4E80C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:13.5431310Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Information",
+    "itemPath": "/sitecore/templates/System/Social/Account/Account/Information",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

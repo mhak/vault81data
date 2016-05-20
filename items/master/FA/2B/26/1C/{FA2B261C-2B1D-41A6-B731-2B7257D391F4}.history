@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FA2B261C-2B1D-41A6-B731-2B7257D391F4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:36.9757542Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Country",
+    "itemPath": "/sitecore/system/Settings/Analytics/Vendor Specific Filters/MongoDb/Country",
+    "commandType": "Item",
+    "template": "Vendor Specific Filter",
+    "sourceControlRevisionId": null
+  }
+]

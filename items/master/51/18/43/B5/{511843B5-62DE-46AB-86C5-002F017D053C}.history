@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{511843B5-62DE-46AB-86C5-002F017D053C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:10.3839625Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tracking Enabled",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Tracking/Tracking Enabled",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

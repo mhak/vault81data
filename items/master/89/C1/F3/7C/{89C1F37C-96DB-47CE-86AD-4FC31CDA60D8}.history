@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{89C1F37C-96DB-47CE-86AD-4FC31CDA60D8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:26.7306596Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Montenegro",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Montenegro",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

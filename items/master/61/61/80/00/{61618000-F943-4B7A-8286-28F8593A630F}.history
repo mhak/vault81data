@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61618000-F943-4B7A-8286-28F8593A630F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:17.3309773Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Test Winner Strategy",
+    "itemPath": "/sitecore/templates/System/Content Testing/Test Winner Strategy",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

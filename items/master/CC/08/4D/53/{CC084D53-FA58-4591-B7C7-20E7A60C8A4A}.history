@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CC084D53-FA58-4591-B7C7-20E7A60C8A4A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:32.7775122Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Display Text",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Field Search Type/Search Type/Display Text",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

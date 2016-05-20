@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B4CAB292-399E-4631-8EC1-C983B9182840}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:59.0246663Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Feeds",
+    "itemPath": "/sitecore/templates/System/Feeds",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
+  }
+]

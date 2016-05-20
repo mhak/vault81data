@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{74D51A51-4249-418B-9031-7CC41F498BB2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:51.8195952Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Personalization",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

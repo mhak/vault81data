@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B8810A60-3837-4AD1-B0DE-CF14AC5F4792}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:09.6254099Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Cecile",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Persona/Cecile",
+    "commandType": "Item",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null
+  }
+]

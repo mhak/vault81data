@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{505E2B6A-E9D6-4FF2-9FB4-E3509D6A7E27}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:32.1984031Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Facet/__Standard Values",
+    "commandType": "Item",
+    "template": "Facet",
+    "sourceControlRevisionId": null
+  }
+]

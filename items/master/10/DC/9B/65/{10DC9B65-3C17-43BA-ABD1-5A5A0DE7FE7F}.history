@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{10DC9B65-3C17-43BA-ABD1-5A5A0DE7FE7F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:07.3234333Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Has Email",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/Has Email",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

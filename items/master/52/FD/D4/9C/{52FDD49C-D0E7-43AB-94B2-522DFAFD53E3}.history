@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{52FDD49C-D0E7-43AB-94B2-522DFAFD53E3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:17.5667907Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "End Date",
+    "itemPath": "/sitecore/templates/System/Content Testing/Historical Test Data/Data/End Date",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

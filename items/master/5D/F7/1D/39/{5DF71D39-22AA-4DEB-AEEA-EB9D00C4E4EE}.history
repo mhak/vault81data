@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5DF71D39-22AA-4DEB-AEEA-EB9D00C4E4EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:47.2600534Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Marketing",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Marketing",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF985F3B-6D87-40AC-B4CA-1D38DEB1419B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:37.5011517Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Reminder is after Archive Date",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Reminder is after Archive Date",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null
+  }
+]

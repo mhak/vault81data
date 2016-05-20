@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5C56C3CD-6BAB-4EAB-ACF4-C30464326C05}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:53.6683196Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Social mentions",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Social mentions",
+    "commandType": "Item",
+    "template": "Channel group",
+    "sourceControlRevisionId": null
+  }
+]

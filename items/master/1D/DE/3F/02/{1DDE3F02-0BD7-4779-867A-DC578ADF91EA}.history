@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1DDE3F02-0BD7-4779-867A-DC578ADF91EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:38.2980175Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Webcontrol",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Webcontrol",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1635FB77-9AF7-4C2F-BACE-81D0C8462E18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:32.8097448Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "WebMethod",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Field Search Type/Search Type/WebMethod",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

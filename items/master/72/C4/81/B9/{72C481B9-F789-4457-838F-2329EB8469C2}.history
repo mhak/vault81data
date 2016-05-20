@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{72C481B9-F789-4457-838F-2329EB8469C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:27.1505789Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Source",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Data/Source",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Griffin 2/About Us",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BCA475B8-0588-4158-8B61-6466385FE0AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:30.3703339Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "About Us",
+    "itemPath": "/sitecore/content/Griffin 2/About Us",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

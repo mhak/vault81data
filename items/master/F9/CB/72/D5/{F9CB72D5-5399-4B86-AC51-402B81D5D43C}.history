@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F9CB72D5-5399-4B86-AC51-402B81D5D43C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:17.1905985Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Posting Configuration",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Posting Configuration",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

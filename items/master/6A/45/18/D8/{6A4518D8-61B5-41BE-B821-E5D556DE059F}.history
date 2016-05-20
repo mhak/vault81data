@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/templates/Demo/Site Footer/Footer Section/FooterLogo",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6A4518D8-61B5-41BE-B821-E5D556DE059F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:56.6178028Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "FooterLogo",
+    "itemPath": "/sitecore/templates/Demo/Site Footer/Footer Section/FooterLogo",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

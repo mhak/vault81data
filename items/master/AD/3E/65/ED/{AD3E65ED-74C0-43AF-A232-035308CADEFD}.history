@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD3E65ED-74C0-43AF-A232-035308CADEFD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:27.2512347Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Link",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Data/Link",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

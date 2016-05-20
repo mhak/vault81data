@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AFF050BA-A88C-4DB7-8ED6-9CB2B7CA2688}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:16.7903544Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Multivariate Test Definition",
+    "itemPath": "/sitecore/templates/System/Content Testing/Multivariate Test Definition",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

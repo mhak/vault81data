@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EA4C4DAA-20A2-4470-B287-B932B8718854}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:39.1935257Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Google +1 Button",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing/Google Plus One Button",
+    "commandType": "Item",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null
+  }
+]

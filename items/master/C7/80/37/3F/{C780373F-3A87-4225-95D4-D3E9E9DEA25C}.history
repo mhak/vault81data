@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C780373F-3A87-4225-95D4-D3E9E9DEA25C}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:03.5491502Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Icon",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Combo Button/Data/Icon",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

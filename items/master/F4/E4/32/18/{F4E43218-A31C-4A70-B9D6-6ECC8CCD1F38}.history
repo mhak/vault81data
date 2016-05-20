@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F4E43218-A31C-4A70-B9D6-6ECC8CCD1F38}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:39.1456710Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Google+",
+    "itemPath": "/sitecore/system/Social/Networks/Google Plus",
+    "commandType": "Item",
+    "template": "Network",
+    "sourceControlRevisionId": null
+  }
+]

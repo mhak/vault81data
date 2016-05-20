@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9790D1F9-1F78-4B39-933D-46B08230F05F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:09.7345336Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Sandra",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Persona/Sandra",
+    "commandType": "Item",
+    "template": "Profile Key",
+    "sourceControlRevisionId": null
+  }
+]

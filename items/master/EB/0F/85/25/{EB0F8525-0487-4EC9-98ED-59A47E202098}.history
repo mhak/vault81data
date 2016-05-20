@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB0F8525-0487-4EC9-98ED-59A47E202098}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:14.4308486Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Configuration",
+    "itemPath": "/sitecore/templates/System/Analytics/Vendor Specific Filter/Configuration",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE4C2E57-D07D-4982-A6CC-679133913C4F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:36.4162998Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Simulated Device Layout",
+    "itemPath": "/sitecore/layout/Layouts/System/Simulated Device Layout",
+    "commandType": "Item",
+    "template": "Layout",
+    "sourceControlRevisionId": null
+  }
+]

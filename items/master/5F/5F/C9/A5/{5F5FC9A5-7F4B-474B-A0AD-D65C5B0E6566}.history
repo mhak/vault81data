@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5F5FC9A5-7F4B-474B-A0AD-D65C5B0E6566}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:51.1407827Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Write Test Statistics",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Write Test Statistics",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

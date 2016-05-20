@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{45000106-8DF4-4145-9B33-ADB09F6DD365}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:52.7824215Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Asset facet 2",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Asset facet 2",
+    "commandType": "Item",
+    "template": "Custom taxonomy",
+    "sourceControlRevisionId": null
+  }
+]

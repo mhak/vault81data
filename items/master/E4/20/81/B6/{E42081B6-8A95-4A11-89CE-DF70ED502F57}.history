@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E42081B6-8A95-4A11-89CE-DF70ED502F57}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:40.5831872Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Path",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Sublayout/Data/Path",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

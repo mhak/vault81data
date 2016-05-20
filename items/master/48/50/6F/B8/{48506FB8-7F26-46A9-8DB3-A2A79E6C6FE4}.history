@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{48506FB8-7F26-46A9-8DB3-A2A79E6C6FE4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:41.6828005Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Validate Map",
+    "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Deployed/Re-deploy/Validate Map",
+    "commandType": "Item",
+    "template": "Validation Action",
+    "sourceControlRevisionId": null
+  }
+]

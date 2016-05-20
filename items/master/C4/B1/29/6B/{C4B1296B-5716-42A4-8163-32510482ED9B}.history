@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C4B1296B-5716-42A4-8163-32510482ED9B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:36.7618979Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Client Script",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/Trait/Data/Client Script",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

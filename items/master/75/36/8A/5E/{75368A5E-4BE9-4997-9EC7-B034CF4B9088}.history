@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75368A5E-4BE9-4997-9EC7-B034CF4B9088}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:22.2697902Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Cyprus",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cyprus",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

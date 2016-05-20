@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B03FBF83-8405-43EF-8B68-02E1B2AB40A1}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:03.8070207Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Gallery",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Combo Button/Data/Gallery",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

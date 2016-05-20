@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9647DBA8-0F1F-4943-B397-6FE379E4F742}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:43.4780577Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-facebook-post",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-facebook-post",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

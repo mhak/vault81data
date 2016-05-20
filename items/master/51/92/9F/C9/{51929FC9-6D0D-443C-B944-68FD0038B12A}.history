@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{51929FC9-6D0D-443C-B944-68FD0038B12A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:18.7462596Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Content Testing/Multivariate Test Variable/__Standard Values",
+    "commandType": "Item",
+    "template": "Multivariate Test Variable",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F7F39C16-49B8-4FC0-B826-688C0DBD2005}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:51.9825874Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Weighted Engagement Value",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Test Winner Strategies/Weighted Engagement Value",
+    "commandType": "Item",
+    "template": "Test Winner Strategy",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D794BA62-CF74-49C7-8311-B6165002E57D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:28.4454809Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Saint Vincent and the Grenadines",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Saint Vincent and the Grenadines",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0BBD516E-DD4D-44B1-BB18-A20486A57243}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:02.3527786Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Outcome/Outcome group/__Standard Values",
+    "commandType": "Item",
+    "template": "Outcome group",
+    "sourceControlRevisionId": null
+  }
+]

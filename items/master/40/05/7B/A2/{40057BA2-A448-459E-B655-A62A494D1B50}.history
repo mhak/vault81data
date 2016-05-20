@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{40057BA2-A448-459E-B655-A62A494D1B50}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:52.9982288Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Validation Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Validation Rules",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
+    "sourceControlRevisionId": null
+  }
+]

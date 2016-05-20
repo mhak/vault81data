@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{57B5B065-493A-4303-997E-DC8D1277A72E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:13.0265358Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Connector",
+    "itemPath": "/sitecore/templates/System/Social/Connector",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
+  }
+]

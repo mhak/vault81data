@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7545D99-5DF2-4BE6-872B-2E66D8DFEE8D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:40.2293194Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Social Message Workflow",
+    "itemPath": "/sitecore/system/Workflows/Social Message Workflow",
+    "commandType": "Item",
+    "template": "Workflow",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1820BF83-7008-4979-8DFC-3841DF0C2CBD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:16.4556805Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Link",
+    "itemPath": "/sitecore/templates/System/Social/Message/Message/Data/Link",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

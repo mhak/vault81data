@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E15D042D-3031-487A-9FCF-C178E3AA2EF4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:48.4076870Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Width",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Flash/Flash/Width",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

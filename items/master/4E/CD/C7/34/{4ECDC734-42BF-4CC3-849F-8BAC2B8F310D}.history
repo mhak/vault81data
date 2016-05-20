@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4ECDC734-42BF-4CC3-849F-8BAC2B8F310D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:46.4222132Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Rename",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Rename",
+    "commandType": "Item",
+    "template": "Quick Action",
+    "sourceControlRevisionId": null
+  }
+]

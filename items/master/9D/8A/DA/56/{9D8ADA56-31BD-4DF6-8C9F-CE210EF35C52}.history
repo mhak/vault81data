@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/templates/Demo/Folders/Banking Menu",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9D8ADA56-31BD-4DF6-8C9F-CE210EF35C52}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:53.0150508Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Banking Menu",
+    "itemPath": "/sitecore/templates/Demo/Folders/Banking Menu",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

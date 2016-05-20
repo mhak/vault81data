@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/templates/Demo/Folders/Footer/__Standard Values",
     "commandType": "Item",
     "template": "Footer",
+    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F90EA932-98E0-4210-A379-8B1B2C0304E2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:53.4046274Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Demo/Folders/Footer/__Standard Values",
+    "commandType": "Item",
+    "template": "Footer",
     "sourceControlRevisionId": null
   }
 ]

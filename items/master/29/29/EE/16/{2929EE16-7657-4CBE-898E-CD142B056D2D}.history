@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2929EE16-7657-4CBE-898E-CD142B056D2D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:15.9865502Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tree",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Tree",
+    "commandType": "Item",
+    "template": "Macro",
+    "sourceControlRevisionId": null
+  }
+]

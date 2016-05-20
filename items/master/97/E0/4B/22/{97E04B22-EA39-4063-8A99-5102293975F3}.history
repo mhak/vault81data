@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{97E04B22-EA39-4063-8A99-5102293975F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:14.1837502Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Map Settings",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Map Settings",
+    "commandType": "Item",
+    "template": "Map Settings",
+    "sourceControlRevisionId": null
+  }
+]

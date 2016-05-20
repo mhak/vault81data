@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{72CB5385-8C4F-4387-89F3-00BE689E2318}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:43.1437216Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-direct-marketing",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-direct-marketing",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

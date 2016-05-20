@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C0D02AA6-7153-4D71-97DB-79009E73596E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:35.3927678Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Contact Goals",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Contact Goals",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

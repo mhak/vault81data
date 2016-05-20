@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{908BA80C-53C7-4607-99B9-04D28C340156}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:38.3303174Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Login with Twitter",
+    "itemPath": "/sitecore/layout/Renderings/Social MVC/Connector/Login with Twitter",
+    "commandType": "Item",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{24DFF2CF-B30A-4B75-8967-2FE3DED82271}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:08.9572275Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Focus",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Focus",
+    "commandType": "Item",
+    "template": "Profile",
+    "sourceControlRevisionId": null
+  }
+]

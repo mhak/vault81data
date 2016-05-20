@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{43F1E052-8338-45CD-AEE7-CA6C1B6D50F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:22.6036988Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Security",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Security/Security",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CE1D85C9-8616-45F0-99A6-033B74BEA775}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:53.6798361Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Channel",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Channel",
+    "commandType": "Item",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null
+  }
+]

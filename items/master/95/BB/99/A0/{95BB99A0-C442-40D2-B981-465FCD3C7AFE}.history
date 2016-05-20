@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{95BB99A0-C442-40D2-B981-465FCD3C7AFE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:58.6241844Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Options",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/ReversableMap/Options",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

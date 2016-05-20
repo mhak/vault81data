@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8874EAD7-0897-480D-9B26-644DC30D977C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:38.6027283Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tweet Button",
+    "itemPath": "/sitecore/layout/Renderings/Social MVC/Sharing/Tweet Button",
+    "commandType": "Item",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FE0E48A9-EBF9-46ED-8777-A93B208E1940}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:15.7785087Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Bing",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Map Settings/Bing",
+    "commandType": "Item",
+    "template": "Map Provider",
+    "sourceControlRevisionId": null
+  }
+]

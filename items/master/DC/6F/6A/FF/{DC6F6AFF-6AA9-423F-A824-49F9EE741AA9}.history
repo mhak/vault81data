@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC6F6AFF-6AA9-423F-A824-49F9EE741AA9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:32.3321978Z",
+    "label": "Snapshot - base",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Long running request",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Long running request",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null
+  }
+]

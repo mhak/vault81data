@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{041110FB-9293-40DE-8AE8-7B5F04F425BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:42.1047069Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Customize Page",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/View rendering/Editor Options/Customize Page",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

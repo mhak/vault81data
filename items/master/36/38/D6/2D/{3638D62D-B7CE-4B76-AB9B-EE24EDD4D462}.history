@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3638D62D-B7CE-4B76-AB9B-EE24EDD4D462}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:44.8713169Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/App Center Sync/Markup Rendering/Markup Rendering/__Standard Values",
+    "commandType": "Item",
+    "template": "Markup Rendering",
+    "sourceControlRevisionId": null
+  }
+]

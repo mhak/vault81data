@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9A80AA4F-7F3E-4584-8BF3-1CE241C44289}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:13.2912121Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Psychographics",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Card - Persona/Data/Psychographics",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

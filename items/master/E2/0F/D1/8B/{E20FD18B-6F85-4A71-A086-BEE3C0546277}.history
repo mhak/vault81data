@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E20FD18B-6F85-4A71-A086-BEE3C0546277}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:11.9563799Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Wallpaper",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/Wallpaper",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

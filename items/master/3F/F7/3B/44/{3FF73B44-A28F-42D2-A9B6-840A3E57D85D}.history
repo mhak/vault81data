@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3FF73B44-A28F-42D2-A9B6-840A3E57D85D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:36.7512044Z",
+    "label": "Snapshot - base",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Unknown",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Unknown",
+    "commandType": "Item",
+    "template": "Traffic Type",
+    "sourceControlRevisionId": null
+  }
+]

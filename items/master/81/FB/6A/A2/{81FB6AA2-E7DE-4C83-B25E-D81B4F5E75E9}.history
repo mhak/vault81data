@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{81FB6AA2-E7DE-4C83-B25E-D81B4F5E75E9}",
+    "version": 3,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:06.1114876Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Ribbon/Tool Button/Data",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

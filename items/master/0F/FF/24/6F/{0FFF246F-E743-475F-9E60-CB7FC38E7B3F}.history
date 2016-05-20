@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0FFF246F-E743-475F-9E60-CB7FC38E7B3F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:09.4816160Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Duration Reached",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Duration Reached",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

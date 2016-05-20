@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B6F2891-22A2-4AD6-8033-3E3504F481B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:59.8158090Z",
+    "label": "Snapshot - base",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tweet",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Tweet",
+    "commandType": "Item",
+    "template": "Goal",
+    "sourceControlRevisionId": null
+  }
+]

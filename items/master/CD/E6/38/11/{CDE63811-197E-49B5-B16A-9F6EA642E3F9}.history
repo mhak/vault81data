@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CDE63811-197E-49B5-B16A-9F6EA642E3F9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:07.3126587Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "References",
+    "itemPath": "/sitecore/templates/System/Rules/Action/Script/References",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

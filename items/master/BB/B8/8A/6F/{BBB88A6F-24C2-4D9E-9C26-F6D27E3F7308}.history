@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BBB88A6F-24C2-4D9E-9C26-F6D27E3F7308}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:43.9195521Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-linkedin",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-linkedin",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

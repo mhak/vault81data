@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/templates/Demo/FirstRepublicBankNavigation",
     "commandType": "Item",
     "template": "Template Folder",
+    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{868008F8-CC6B-4624-9380-5BC35B15CDF8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:50.0470909Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "FirstRepublicBankNavigation",
+    "itemPath": "/sitecore/templates/Demo/FirstRepublicBankNavigation",
+    "commandType": "Item",
+    "template": "Template Folder",
     "sourceControlRevisionId": null
   }
 ]

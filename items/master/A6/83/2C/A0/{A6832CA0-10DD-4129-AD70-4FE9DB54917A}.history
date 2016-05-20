@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A6832CA0-10DD-4129-AD70-4FE9DB54917A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:41.0812866Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Deploy",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Suspended/Deploy",
+    "commandType": "Item",
+    "template": "Command",
+    "sourceControlRevisionId": null
+  }
+]

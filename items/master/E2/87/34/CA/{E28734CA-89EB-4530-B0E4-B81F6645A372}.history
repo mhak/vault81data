@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E28734CA-89EB-4530-B0E4-B81F6645A372}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:16.1027765Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Twitter Message",
+    "itemPath": "/sitecore/templates/System/Social/Message/Twitter Message",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

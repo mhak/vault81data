@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{711A3CB5-DE23-4CAB-AE78-037594A78C00}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:19.6496449Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Is Password Validated",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Conditions/Is Password Validated",
+    "commandType": "Item",
+    "template": "Engagement Plan Condition",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E4DEC330-FC13-4B58-913A-CB2CE279991C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:36.0637363Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Checklist",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/Checklist",
+    "commandType": "Item",
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": null
+  }
+]

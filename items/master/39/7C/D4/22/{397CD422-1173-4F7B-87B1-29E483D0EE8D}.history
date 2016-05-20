@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{397CD422-1173-4F7B-87B1-29E483D0EE8D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:45.2336884Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Search Filter Control Types",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

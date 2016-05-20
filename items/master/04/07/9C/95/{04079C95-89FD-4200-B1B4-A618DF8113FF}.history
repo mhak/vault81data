@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{04079C95-89FD-4200-B1B4-A618DF8113FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:44.5686312Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-pr",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-pr",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

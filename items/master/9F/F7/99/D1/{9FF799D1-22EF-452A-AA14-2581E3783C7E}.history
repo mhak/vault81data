@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9FF799D1-22EF-452A-AA14-2581E3783C7E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:17.7443010Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Goal Posting Configuration/Data",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

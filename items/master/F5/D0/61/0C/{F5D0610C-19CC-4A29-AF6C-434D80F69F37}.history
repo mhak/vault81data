@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F5D0610C-19CC-4A29-AF6C-434D80F69F37}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:25.6272797Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Lesotho",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Lesotho",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

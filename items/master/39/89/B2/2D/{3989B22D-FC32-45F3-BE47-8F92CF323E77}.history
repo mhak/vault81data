@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3989B22D-FC32-45F3-BE47-8F92CF323E77}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:02.1320059Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Campaign group taxonomy",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Campaign group/Campaign group taxonomy",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

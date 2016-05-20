@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B2A1FF6C-6B1F-41EF-B2E1-AA598CF7335F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:27.8029590Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Setting group",
+    "itemPath": "/sitecore/templates/System/Html editor/Setting group",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39394D34-D9B8-4334-A712-B3216E936750}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:13.4347944Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Social Marketer Account",
+    "itemPath": "/sitecore/templates/System/Social/Account/Social Marketer Account",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

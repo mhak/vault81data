@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{54A807A5-D977-4E41-BCA2-5A1447F9C0A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:01.9505663Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Venue",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Venue",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
+  }
+]

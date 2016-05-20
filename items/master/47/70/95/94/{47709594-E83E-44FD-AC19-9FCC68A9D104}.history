@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{47709594-E83E-44FD-AC19-9FCC68A9D104}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:25.4641724Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/Visitor Information/Tags",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

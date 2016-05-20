@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{19054D88-FED7-48AD-87CD-CF458590C303}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:00.2960728Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Large Gallery Button",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Gallery Button",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1349EB63-C41D-439C-AB9D-F86D2E1AEAC9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:16.2716541Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Stylesheet",
+    "itemPath": "/sitecore/templates/System/Browsers/Stylesheet",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

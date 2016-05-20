@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4AAA7FE7-5AE8-439B-8FA2-6B1DC3ED05DC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:05.9064384Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Taxonomy tag definition/__Standard Values",
+    "commandType": "Item",
+    "template": "Taxonomy tag definition",
+    "sourceControlRevisionId": null
+  }
+]

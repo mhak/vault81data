@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{314BE5B0-8536-45CF-900D-A84B2B335210}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:16.6242190Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Multivariate Test Strategy",
+    "itemPath": "/sitecore/templates/System/Content Testing/Multivariate Test Strategy",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

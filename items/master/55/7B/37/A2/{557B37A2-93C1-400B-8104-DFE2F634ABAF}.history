@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{557B37A2-93C1-400B-8104-DFE2F634ABAF}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:04.0784270Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Header",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Drop Down Box/Data/Header",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

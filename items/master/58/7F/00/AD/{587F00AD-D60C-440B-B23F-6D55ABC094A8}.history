@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{587F00AD-D60C-440B-B23F-6D55ABC094A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:41.9935634Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Channel Images",
+    "itemPath": "/sitecore/media library/System/Channel Images",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null
+  }
+]

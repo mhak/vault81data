@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9DD96803-28BE-4225-ADCC-1B14D24F10C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:39.2336163Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Like Button",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing/Like Button",
+    "commandType": "Item",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FBBA65E7-9E0D-496D-A589-D5DDC75EB5CB}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:51.0705805Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Winning Combination for Testing Cluster",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Winning Combination for Testing Cluster",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

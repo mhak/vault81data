@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1F82B655-1622-42D4-A4CF-835FB6E9AC1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:24.0558250Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Referral Information",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/Referral Information",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

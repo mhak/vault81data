@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FA367915-B5A1-4E32-B35F-D7C9ECD399EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:27.4034803Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Next state",
+    "itemPath": "/sitecore/templates/System/Workflow/Auto Submit Action/Data/Next state",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

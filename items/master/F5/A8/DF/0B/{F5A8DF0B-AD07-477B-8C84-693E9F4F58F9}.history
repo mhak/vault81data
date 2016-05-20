@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F5A8DF0B-AD07-477B-8C84-693E9F4F58F9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:26.9884709Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Additional Metadata",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Additional Metadata",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

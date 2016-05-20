@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4D33686B-F4D9-42F9-8ACC-A9EAED730D0E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:33.5744814Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Assets",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Assets",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{86AB52D3-8941-4D2F-A1CE-14F32AA12380}",
+    "version": 3,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:06.1827732Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Header",
+    "itemPath": "/sitecore/templates/System/Ribbon/Tool Button/Data/Header",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

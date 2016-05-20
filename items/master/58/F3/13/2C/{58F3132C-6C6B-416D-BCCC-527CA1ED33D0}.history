@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{58F3132C-6C6B-416D-BCCC-527CA1ED33D0}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:50.3148392Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Personalization Visits By Range",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Personalization Visits By Range",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

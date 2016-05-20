@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{50229ED0-1D90-4E55-9BE9-473813AFDD63}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:35.2923492Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Is Xml",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Is Xml",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null
+  }
+]

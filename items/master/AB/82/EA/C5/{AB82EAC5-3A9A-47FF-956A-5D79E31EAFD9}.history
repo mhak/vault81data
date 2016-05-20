@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB82EAC5-3A9A-47FF-956A-5D79E31EAFD9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:16.4532948Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "NetworkProperty",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Social/NetworkProperty",
+    "commandType": "Item",
+    "template": "Macro",
+    "sourceControlRevisionId": null
+  }
+]

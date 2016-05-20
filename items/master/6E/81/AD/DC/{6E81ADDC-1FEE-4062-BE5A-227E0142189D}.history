@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E81ADDC-1FEE-4062-BE5A-227E0142189D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:38.6476566Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "App Center Sync",
+    "itemPath": "/sitecore/layout/Sublayouts/App Center Sync",
+    "commandType": "Item",
+    "template": "Sublayout Folder",
+    "sourceControlRevisionId": null
+  }
+]

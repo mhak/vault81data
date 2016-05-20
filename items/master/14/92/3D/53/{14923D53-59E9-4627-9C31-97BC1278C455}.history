@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{14923D53-59E9-4627-9C31-97BC1278C455}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:12.2327120Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Query",
+    "itemPath": "/sitecore/templates/System/Services/Item Service/Query/Query Definition/Data/Query",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

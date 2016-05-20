@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:41.4191309Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Deployed",
+    "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Deployed",
+    "commandType": "Item",
+    "template": "State",
+    "sourceControlRevisionId": null
+  }
+]

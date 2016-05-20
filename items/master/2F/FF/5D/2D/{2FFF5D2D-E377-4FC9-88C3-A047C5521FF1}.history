@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2FFF5D2D-E377-4FC9-88C3-A047C5521FF1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:44.1018590Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "App Center Sync",
+    "itemPath": "/sitecore/templates/App Center Sync",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
+  }
+]

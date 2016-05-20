@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46D024D5-B1AD-4D6E-B778-1920EEC02860}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:23.9094620Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Guatemala",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guatemala",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

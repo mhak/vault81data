@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B90CA3F2-BCCA-467A-BE54-ADDA78BC3AC3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:10.6642322Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Outcome Type (Obsolete)",
+    "itemPath": "/sitecore/templates/System/Analytics/Outcome/Outcome Type",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

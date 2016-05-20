@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94924CBE-15C3-4FE1-AF5C-2D8B1B474697}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:16.6040782Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Posted Date",
+    "itemPath": "/sitecore/templates/System/Social/Message/Message/Metadata/Posted Date",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB130771-65E6-47D9-ACA1-FEBF2D6B2AED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:17.5393509Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Test Duration",
+    "itemPath": "/sitecore/templates/System/Content Testing/Historical Test Data/Data/Test Duration",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

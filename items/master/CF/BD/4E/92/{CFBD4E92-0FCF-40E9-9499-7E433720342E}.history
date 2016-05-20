@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CFBD4E92-0FCF-40E9-9499-7E433720342E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:00.6925472Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Dashboard",
+    "itemPath": "/sitecore/templates/System/Analytics/Dashboard",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
+  }
+]

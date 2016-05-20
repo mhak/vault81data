@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE7BE82C-CF2F-4D05-80D3-665528AE6033}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:35.2335601Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Visitors Classification",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visitors Classification",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

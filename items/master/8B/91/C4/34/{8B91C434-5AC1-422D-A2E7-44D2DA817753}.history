@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8B91C434-5AC1-422D-A2E7-44D2DA817753}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:51.8693532Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Personalization",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Test Types/Personalization",
+    "commandType": "Item",
+    "template": "Test Type",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{598FF99F-AE88-4BC4-9D91-2A804D1D0FA6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:33.8020346Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Item Bounced",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Item Bounced",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B7DA705D-BD91-4DB0-A0AD-A9A05FE6F4AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:35.2394992Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Image Size",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Image Size",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null
+  }
+]

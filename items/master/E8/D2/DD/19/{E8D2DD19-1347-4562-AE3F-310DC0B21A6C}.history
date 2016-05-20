@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E8D2DD19-1347-4562-AE3F-310DC0B21A6C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:43.9777000Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Caching",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Caching",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

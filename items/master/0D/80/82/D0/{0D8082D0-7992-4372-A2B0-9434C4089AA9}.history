@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0D8082D0-7992-4372-A2B0-9434C4089AA9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:29.3566210Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Unknown",
+    "itemPath": "/sitecore/templates/System/Workflow/Validation Action/Data/Unknown",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

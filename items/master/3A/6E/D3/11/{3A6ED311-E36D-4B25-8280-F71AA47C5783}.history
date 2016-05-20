@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3A6ED311-E36D-4B25-8280-F71AA47C5783}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:12.5450765Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Sorting",
+    "itemPath": "/sitecore/templates/System/Services/Item Service/Search/Search Definition/Data/Sorting",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

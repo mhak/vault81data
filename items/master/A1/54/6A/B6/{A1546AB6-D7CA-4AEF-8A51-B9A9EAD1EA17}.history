@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A1546AB6-D7CA-4AEF-8A51-B9A9EAD1EA17}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:27.1935330Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Nicaragua",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Nicaragua",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

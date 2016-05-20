@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{42E3894D-352D-4FD2-B754-33D4BD5DA669}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:16.4855223Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Path Analyzer",
+    "itemPath": "/sitecore/system/Settings/Insert Rules/Path Analyzer",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B41660C9-D68D-49D8-806B-644F0216A724}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:39.2736683Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "LinkedIn Share Button",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing/LinkedIn Share Button",
+    "commandType": "Item",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null
+  }
+]

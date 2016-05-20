@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{349CDA24-CAB7-4991-BA2E-86116017995C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:17.9064146Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Rule Container",
+    "itemPath": "/sitecore/templates/System/Content Testing/Behaviors/Rule Container",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

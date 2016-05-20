@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{154D56CC-0DE2-43C7-BBC0-A25BD7FFD901}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:43.1759570Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "TagRepository",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

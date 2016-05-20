@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FFEFB7D2-4334-4BCC-9ED5-A5BF5AEE97F7}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:50.2657894Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Personalization Performance By Test Id",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Personalization Performance By Test Id",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

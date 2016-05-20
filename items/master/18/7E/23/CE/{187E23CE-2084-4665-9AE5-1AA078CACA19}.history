@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{187E23CE-2084-4665-9AE5-1AA078CACA19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:01.9817331Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Channel",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Channel",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
+  }
+]

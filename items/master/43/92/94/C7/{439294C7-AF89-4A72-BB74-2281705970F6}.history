@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{439294C7-AF89-4A72-BB74-2281705970F6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:48.1417658Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Android Phablet",
+    "itemPath": "/sitecore/media library/System/Simulator Backgrounds/Android Phablet",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BC15683B-6A88-45FC-A6B7-67BCB413DF65}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:24.6634444Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Ireland",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Ireland",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

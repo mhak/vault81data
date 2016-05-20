@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ACDE5A7D-D72E-4C0A-BB29-DC24AA08E8BA}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:50.0321281Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Conversions By Test Id",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Conversions By Test Id",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

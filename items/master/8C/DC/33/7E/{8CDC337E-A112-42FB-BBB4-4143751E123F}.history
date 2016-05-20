@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8CDC337E-A112-42FB-BBB4-4143751E123F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:22.8293722Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Revision",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Statistics/Statistics/__Revision",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F3E7E552-D7C8-469B-A150-69E4E14AB35C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:44.1185106Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ClearOnIndexUpdate",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Caching/Caching/ClearOnIndexUpdate",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

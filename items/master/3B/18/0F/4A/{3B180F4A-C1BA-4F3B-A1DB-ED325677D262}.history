@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B180F4A-C1BA-4F3B-A1DB-ED325677D262}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:50.1398348Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "MV Test Details By Test Id",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/MV Test Details By Test Id",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

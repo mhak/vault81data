@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9F62EBD5-2280-4A35-BE51-A210D831D687}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:00.4278991Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Small Button",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Button",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

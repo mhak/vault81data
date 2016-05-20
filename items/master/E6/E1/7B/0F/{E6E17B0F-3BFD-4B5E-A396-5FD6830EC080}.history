@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6E17B0F-3BFD-4B5E-A396-5FD6830EC080}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:37.4132874Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Name Encoded Characters",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Name Encoded Characters",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null
+  }
+]

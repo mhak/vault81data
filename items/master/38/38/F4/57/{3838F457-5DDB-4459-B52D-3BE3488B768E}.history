@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3838F457-5DDB-4459-B52D-3BE3488B768E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:44.8370810Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "App",
+    "itemPath": "/sitecore/templates/App Center Sync/Markup Rendering/Markup Rendering/App",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{335C6760-6C0E-4C6C-814C-A53D203F553E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:54.5773086Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Icon",
+    "itemPath": "/sitecore/templates/System/Menus/Menu item/Data/Icon",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

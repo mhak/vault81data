@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F6452983-D1BA-49E6-AFFE-92BEE2C184B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:22.0920494Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tests",
+    "itemPath": "/sitecore/templates/System/Content Testing/Workflow/Test Candidate Check Action/Tests",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69805F4A-FA0C-4834-9892-B82E7495B48D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:25.3792158Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Associated Sitecore User",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/Visitor Information/Associated Sitecore User",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

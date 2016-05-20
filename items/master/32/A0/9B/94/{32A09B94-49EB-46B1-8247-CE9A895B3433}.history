@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32A09B94-49EB-46B1-8247-CE9A895B3433}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:02.7843466Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Venue/Venue taxonomy/__Standard Values",
+    "commandType": "Item",
+    "template": "Venue taxonomy",
+    "sourceControlRevisionId": null
+  }
+]

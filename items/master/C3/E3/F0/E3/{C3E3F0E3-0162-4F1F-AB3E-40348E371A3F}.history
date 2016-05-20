@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C3E3F0E3-0162-4F1F-AB3E-40348E371A3F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:32.8215823Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Reverse",
+    "itemPath": "/sitecore/system/Settings/Subitems Sorting/Reverse",
+    "commandType": "Item",
+    "template": "Child Sorting",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8CDA7A33-08DE-4F47-B4FA-8C14B5257EB1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:27.3137044Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Norfolk Island",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Norfolk Island",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

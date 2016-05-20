@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8BD7B4AE-FC85-4319-B193-C597F6A75DAB}",
+    "version": 3,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:06.2550475Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "KeyCode",
+    "itemPath": "/sitecore/templates/System/Ribbon/Tool Button/Data/KeyCode",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

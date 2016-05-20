@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F6D3E005-747E-4D74-A34F-05305CC86C9B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:52.7191230Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Version",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Flash/Flash/Version",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E72256CF-AF7D-4FED-958D-23B8A956A429}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:35.3079201Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Visits Visitor Tags",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visits Visitor Tags",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{57938688-C7A8-43CD-90C8-A742E4A84C1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:27.0821993Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Netherlands Antilles",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Netherlands Antilles",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

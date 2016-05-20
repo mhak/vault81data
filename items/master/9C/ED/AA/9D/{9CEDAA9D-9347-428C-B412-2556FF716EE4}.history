@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9CEDAA9D-9347-428C-B412-2556FF716EE4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:52.2839763Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Campaign facet 1",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Campaign facet 1",
+    "commandType": "Item",
+    "template": "Custom taxonomy",
+    "sourceControlRevisionId": null
+  }
+]

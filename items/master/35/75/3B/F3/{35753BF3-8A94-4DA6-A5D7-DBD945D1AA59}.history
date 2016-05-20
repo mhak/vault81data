@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{35753BF3-8A94-4DA6-A5D7-DBD945D1AA59}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:54.1241990Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Menu divider",
+    "itemPath": "/sitecore/templates/System/Menus/Menu divider",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

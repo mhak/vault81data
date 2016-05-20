@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B879D176-4226-4C74-9ED4-6E61E813CBF7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:40.0392321Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Path Analyzer Maps",
+    "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps",
+    "commandType": "Item",
+    "template": "Workflow",
+    "sourceControlRevisionId": null
+  }
+]

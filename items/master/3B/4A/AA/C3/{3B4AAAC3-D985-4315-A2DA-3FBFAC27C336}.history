@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B4AAAC3-D985-4315-A2DA-3FBFAC27C336}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:16.6749715Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Social/Message/Facebook Message/__Standard Values",
+    "commandType": "Item",
+    "template": "Facebook Message",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5B3FE22D-1DC9-4CC4-9665-1A3F2DDD6732}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:10.7892327Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Report Filters",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]

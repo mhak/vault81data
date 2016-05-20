@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65FD4C82-8184-432F-A8A3-C236155ECC12}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:43.4143747Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Layout/Renderings/Xsl Rendering/Data",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

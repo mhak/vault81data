@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F1933AAE-5AC3-4F86-BFEB-3F0C49E39749}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:23.8646658Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Visitor",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Visitor",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null
+  }
+]

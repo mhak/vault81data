@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/templates/Demo/Promotion/Data/Css Class",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FB8B8297-38B7-4385-A0EB-2771D58DC63C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:56.2638573Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Css Class",
+    "itemPath": "/sitecore/templates/Demo/Promotion/Data/Css Class",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{41AACD8B-5302-4FC1-AF64-5FB928E4F588}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:07.6771883Z",
+    "label": "Snapshot - base",
+    "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Email Campaigns",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Default Maps/Site Maps/website/Channels/Email Campaigns",
+    "commandType": "Item",
+    "template": "ChannelMap",
+    "sourceControlRevisionId": null
+  }
+]

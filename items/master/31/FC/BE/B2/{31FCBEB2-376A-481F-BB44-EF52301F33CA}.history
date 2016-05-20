@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{31FCBEB2-376A-481F-BB44-EF52301F33CA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:56.8333255Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Description",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/BaseMap/Info/Description",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

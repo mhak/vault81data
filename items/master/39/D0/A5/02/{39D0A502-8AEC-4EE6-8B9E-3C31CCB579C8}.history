@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39D0A502-8AEC-4EE6-8B9E-3C31CCB579C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:32.0919622Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Display Text",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Dropdown List/Dropdown List/Display Text",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

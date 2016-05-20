@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C3F38368-8A94-49A1-BA58-476A66ABCA92}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:00.0332235Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Twitter",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Twitter",
+    "commandType": "Item",
+    "template": "Campaign Category",
+    "sourceControlRevisionId": null
+  }
+]

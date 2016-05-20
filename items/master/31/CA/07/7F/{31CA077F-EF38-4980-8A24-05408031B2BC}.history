@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{31CA077F-EF38-4980-8A24-05408031B2BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:32.2404568Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Name",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Facet/Facet/Name",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

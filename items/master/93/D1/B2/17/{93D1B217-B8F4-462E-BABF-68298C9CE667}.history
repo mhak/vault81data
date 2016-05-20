@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93D1B217-B8F4-462E-BABF-68298C9CE667}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:21.1710572Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Boost",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Indexing/Indexing/__Boost",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

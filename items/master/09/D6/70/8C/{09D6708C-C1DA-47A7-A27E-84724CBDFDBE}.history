@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09D6708C-C1DA-47A7-A27E-84724CBDFDBE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:24.2776582Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Holy See Vatican City State",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Holy See Vatican City State",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{01471D8B-8681-4A6D-9881-BFABFA7CA7C7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:17.0636447Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Container Posting Configuration",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Container Posting Configuration",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

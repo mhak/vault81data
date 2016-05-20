@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3D42A36C-6318-42AE-A345-ADDFFE257F9B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:40.3772465Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "No Flash Support Trait",
+    "itemPath": "/sitecore/layout/Simulators/HD TV/No Flash Support Trait",
+    "commandType": "Item",
+    "template": "No Flash Support Trait",
+    "sourceControlRevisionId": null
+  }
+]

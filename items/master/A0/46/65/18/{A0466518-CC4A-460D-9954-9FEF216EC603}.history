@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A0466518-CC4A-460D-9954-9FEF216EC603}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:48.3819969Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Apply Presentation to All Items",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Presentation/Apply Presentation to All Items",
+    "commandType": "Item",
+    "template": "Dropdown List",
+    "sourceControlRevisionId": null
+  }
+]

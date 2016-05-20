@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D2BA4115-C681-4468-899E-BCF7490A267E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:23.9747987Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Visitor Information",
+    "itemPath": "/sitecore/templates/System/Experience Explorer/Preset/Visitor Information",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

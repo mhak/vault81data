@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7CC88F55-8466-484B-A224-EF4984DCAEDA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:33.8089238Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Is Integer",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Common/Is Integer",
+    "commandType": "Item",
+    "template": "Validation Rule",
+    "sourceControlRevisionId": null
+  }
+]

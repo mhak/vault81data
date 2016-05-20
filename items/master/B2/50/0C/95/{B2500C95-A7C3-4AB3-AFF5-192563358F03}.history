@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B2500C95-A7C3-4AB3-AFF5-192563358F03}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:11.6282307Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ContentLanguage",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/ContentLanguage",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

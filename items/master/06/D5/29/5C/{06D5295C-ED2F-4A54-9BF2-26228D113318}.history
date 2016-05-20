@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{06D5295C-ED2F-4A54-9BF2-26228D113318}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:20.5530784Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Icon",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Appearance/Appearance/__Icon",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

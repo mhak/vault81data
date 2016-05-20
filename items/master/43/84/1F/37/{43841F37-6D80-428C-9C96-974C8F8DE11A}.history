@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{43841F37-6D80-428C-9C96-974C8F8DE11A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:26.1154675Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Madagascar",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Madagascar",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

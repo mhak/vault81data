@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{71D34DBD-ADE2-4F45-9835-EA01C2F03000}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:42.2962259Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Remove Tests",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve/Remove Tests",
+    "commandType": "Item",
+    "template": "Remove Tests Action",
+    "sourceControlRevisionId": null
+  }
+]

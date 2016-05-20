@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FAAA169E-66E8-4ADD-A90A-3E421B9AC509}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:31.0714524Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Social",
+    "itemPath": "/sitecore/system/Settings/Rules/Page Events/Tags/Social",
+    "commandType": "Item",
+    "template": "Tags Definition",
+    "sourceControlRevisionId": null
+  }
+]

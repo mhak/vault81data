@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{317ADE1D-337A-464A-B7D0-06B4424FC0EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:36.2483140Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "No Flash Support Trait",
+    "itemPath": "/sitecore/templates/System/Layout/Preview Simulators/No Flash Support Trait",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

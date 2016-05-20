@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9329A198-16F5-42F4-A0A5-19D5A090BFA1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:59.9261026Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Google+",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Google Plus",
+    "commandType": "Item",
+    "template": "Campaign Category",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF8A2D01-8A77-4F1B-A966-65806993CD31}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:24.2153497Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Blob",
+    "itemPath": "/sitecore/templates/System/Templates/Template field/Data/Blob",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

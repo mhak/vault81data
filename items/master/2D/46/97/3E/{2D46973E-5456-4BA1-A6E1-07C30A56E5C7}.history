@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2D46973E-5456-4BA1-A6E1-07C30A56E5C7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:57.1212785Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Options",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/ChannelMap/Options",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

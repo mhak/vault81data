@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E391B526-D0C5-439D-803E-17512EAE6222}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:36.0736588Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Allowed Controls",
+    "itemPath": "/sitecore/templates/System/Layout/Placeholder/Data/Allowed Controls",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

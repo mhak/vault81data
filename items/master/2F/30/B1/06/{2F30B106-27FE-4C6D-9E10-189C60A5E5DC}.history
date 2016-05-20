@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2F30B106-27FE-4C6D-9E10-189C60A5E5DC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:46.5851308Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "MVC Layout",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/MVC Layout/MVC Layout",
+    "commandType": "Item",
+    "template": "Command Template",
+    "sourceControlRevisionId": null
+  }
+]

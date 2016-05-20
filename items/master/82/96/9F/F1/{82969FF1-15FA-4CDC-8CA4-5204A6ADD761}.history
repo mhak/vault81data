@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{82969FF1-15FA-4CDC-8CA4-5204A6ADD761}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:29.8068031Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Dimension",
+    "itemPath": "/sitecore/templates/System/Experience Analytics/Dimension",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

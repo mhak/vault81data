@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF6000DD-2854-4C27-84DA-D2BFF61383A4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:42.8390242Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-company-website",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-company-website",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

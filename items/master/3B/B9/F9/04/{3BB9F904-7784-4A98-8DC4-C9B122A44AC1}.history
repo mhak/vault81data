@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3BB9F904-7784-4A98-8DC4-C9B122A44AC1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:33.1819304Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Global Rules",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Global Rules",
+    "commandType": "Item",
+    "template": "Global Validation Rules",
+    "sourceControlRevisionId": null
+  }
+]

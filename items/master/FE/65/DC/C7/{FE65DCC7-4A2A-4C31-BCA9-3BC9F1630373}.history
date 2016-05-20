@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FE65DCC7-4A2A-4C31-BCA9-3BC9F1630373}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:59.6321351Z",
+    "label": "Snapshot - base",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Like",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Like",
+    "commandType": "Item",
+    "template": "Goal",
+    "sourceControlRevisionId": null
+  }
+]

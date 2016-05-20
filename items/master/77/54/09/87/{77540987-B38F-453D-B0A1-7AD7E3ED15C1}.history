@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77540987-B38F-453D-B0A1-7AD7E3ED15C1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:15.0052037Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Value",
+    "itemPath": "/sitecore/templates/System/Analytics/Visitor Identification/Data/Value",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

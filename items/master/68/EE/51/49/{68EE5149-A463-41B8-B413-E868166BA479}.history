@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{68EE5149-A463-41B8-B413-E868166BA479}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:02.3224301Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Outcome group taxonomy",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Outcome/Outcome group taxonomy",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

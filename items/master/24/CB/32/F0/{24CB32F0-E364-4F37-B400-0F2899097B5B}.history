@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{24CB32F0-E364-4F37-B400-0F2899097B5B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:24.5480166Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Enable Shared Language Fallback",
+    "itemPath": "/sitecore/templates/System/Templates/Template field/Data/Enable Shared Language Fallback",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

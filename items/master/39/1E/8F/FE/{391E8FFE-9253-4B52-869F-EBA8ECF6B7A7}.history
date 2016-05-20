@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{391E8FFE-9253-4B52-869F-EBA8ECF6B7A7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:21.4595796Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Cape Verde",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cape Verde",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

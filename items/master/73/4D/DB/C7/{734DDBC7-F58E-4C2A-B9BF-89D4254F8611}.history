@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{734DDBC7-F58E-4C2A-B9BF-89D4254F8611}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:23.9855132Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Guinea",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guinea",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

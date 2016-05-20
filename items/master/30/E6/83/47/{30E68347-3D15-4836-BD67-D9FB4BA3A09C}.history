@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30E68347-3D15-4836-BD67-D9FB4BA3A09C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:07:47.0567941Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Pricing Quote Request",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Pricing Quote Request",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
+  }
+]

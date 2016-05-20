@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{81A1D382-0D1F-4C8E-AA93-3B207CC4A3B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:40.6730132Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Top Traffic Sources Coming to this Page",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Top Traffic Sources Coming to this Page",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49E5E8F3-ED4A-4A06-ABE1-B9408951DEE9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:33.9045144Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Charset",
+    "itemPath": "/sitecore/templates/System/Language/Data/Charset",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D44EE370-84FE-4911-8DB5-F2BC31AB8EEF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:35.6945003Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Layout/Layout Preset/Data",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
+  }
+]

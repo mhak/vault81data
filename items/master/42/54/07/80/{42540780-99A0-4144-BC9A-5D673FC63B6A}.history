@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{42540780-99A0-4144-BC9A-5D673FC63B6A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:56.0168105Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Goal Map",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/GoalMap",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
+  }
+]

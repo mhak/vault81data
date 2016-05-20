@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A828E2B9-444B-4147-87BC-DE1B5E45D5C1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:08.0675751Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "JobTitle",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/JobTitle",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
+  }
+]

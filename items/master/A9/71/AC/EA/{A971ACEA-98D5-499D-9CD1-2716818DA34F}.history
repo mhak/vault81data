@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A971ACEA-98D5-499D-9CD1-2716818DA34F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:08.9240998Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Rules/Conditional Rendering Rule/__Standard Values",
+    "commandType": "Item",
+    "template": "Conditional Rendering Rule",
+    "sourceControlRevisionId": null
+  }
+]

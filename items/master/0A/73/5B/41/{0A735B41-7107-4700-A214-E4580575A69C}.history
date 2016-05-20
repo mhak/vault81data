@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0A735B41-7107-4700-A214-E4580575A69C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:47.4230655Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Search and Replace",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Fields/Search and Replace",
+    "commandType": "Item",
+    "template": "Dropdown List",
+    "sourceControlRevisionId": null
+  }
+]

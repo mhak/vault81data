@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/templates/Demo/Page/Metadata/End Body",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2C136CFE-5BD0-4729-9B89-6EBD18B3E6D6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:09:55.3225239Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "End Body",
+    "itemPath": "/sitecore/templates/Demo/Page/Metadata/End Body",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

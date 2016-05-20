@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4E5AB7CA-FB40-49BD-849E-7BFF28BB16F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:22.8909051Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Eritrea",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Eritrea",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

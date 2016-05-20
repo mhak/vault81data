@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FD35FFE6-A608-477B-B775-3C92D3A4BC14}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:52.8439567Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Rule Elements Visibility",
+    "itemPath": "/sitecore/system/Settings/Rules/Rule Elements Visibility",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
+    "sourceControlRevisionId": null
+  }
+]

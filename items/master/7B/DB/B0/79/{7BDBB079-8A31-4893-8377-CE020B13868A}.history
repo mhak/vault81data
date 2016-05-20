@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7BDBB079-8A31-4893-8377-CE020B13868A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:11:14.8772855Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Callback URL",
+    "itemPath": "/sitecore/templates/System/Social/Connector/Base Login Button Parameters/Social/Callback URL",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]

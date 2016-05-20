@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CD28EE11-08C6-46A5-91AB-20D921A434EF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:21.2345390Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Burundi",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Burundi",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
+  }
+]

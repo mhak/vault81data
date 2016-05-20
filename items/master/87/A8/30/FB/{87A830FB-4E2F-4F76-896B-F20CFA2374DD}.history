@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{87A830FB-4E2F-4F76-896B-F20CFA2374DD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:08:44.1985596Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Updated Date",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Updated Date",
+    "commandType": "Item",
+    "template": "Facet",
+    "sourceControlRevisionId": null
+  }
+]

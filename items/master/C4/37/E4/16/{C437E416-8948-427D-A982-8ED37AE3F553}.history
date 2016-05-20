@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C437E416-8948-427D-A982-8ED37AE3F553}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T22:10:34.0763393Z",
+    "label": "Snapshot - base",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Iso",
+    "itemPath": "/sitecore/templates/System/Language/Data/Iso",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
