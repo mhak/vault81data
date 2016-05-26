@@ -237,6 +237,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Visibility",
     "commandType": "Item",
     "template": "Visibility",
+    "sourceControlRevisionId": "f60f9aecddd5baf0d866e8d1deaefcfa3d98a147"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{7FBF91E0-AFAE-4202-8FD1-DF34F4190E99}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T01:29:22.0511775Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Visibility",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Visibility",
+    "commandType": "Item",
+    "template": "Visibility",
     "sourceControlRevisionId": null
   }
 ]
