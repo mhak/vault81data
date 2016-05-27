@@ -381,6 +381,22 @@
     "itemPath": "/sitecore/content/Griffin 2",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "4b151904d106589b49ad228c3f754b02bc3c4451"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-27T00:59:44.2964981Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Griffin 2",
+    "itemPath": "/sitecore/content/Griffin 2",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
