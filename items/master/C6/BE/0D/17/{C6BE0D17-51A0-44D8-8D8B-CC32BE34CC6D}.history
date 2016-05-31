@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{C6BE0D17-51A0-44D8-8D8B-CC32BE34CC6D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:40:48.9808347Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "My Health",
+    "itemPath": "/sitecore/content/Global/Home Settings/Headers Folder/Navigation Top/My Health",
+    "commandType": "Item",
+    "template": "Navigation Item",
+    "sourceControlRevisionId": null
+  }
+]
