@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{E72FC3C7-F9ED-43BF-8642-EFD6F9206261}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:40:47.5828636Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Navigation Top",
+    "itemPath": "/sitecore/content/Global/Home Settings/Headers Folder/Navigation Top",
+    "commandType": "Item",
+    "template": "Navigation Folder",
+    "sourceControlRevisionId": null
+  }
+]
