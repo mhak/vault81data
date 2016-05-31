@@ -116,6 +116,23 @@
     "itemPath": "/sitecore/content/Home/Disclosures",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "532fc161bc1b1cc096cae87952b0393284b84648"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{564DB132-02A4-49CA-BCBD-62B9AA42ED88}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-31T20:40:52.5271470Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Disclosures",
+    "itemPath": "/sitecore/content/Home/Disclosures",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
