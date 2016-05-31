@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{7D4D402A-F9AA-48E9-8C46-FBC0526C7870}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:40:50.4794009Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "About Us",
+    "itemPath": "/sitecore/content/Global/Home Settings/Headers Folder/Navigation Top/About Us",
+    "commandType": "Item",
+    "template": "Navigation Item",
+    "sourceControlRevisionId": null
+  }
+]
