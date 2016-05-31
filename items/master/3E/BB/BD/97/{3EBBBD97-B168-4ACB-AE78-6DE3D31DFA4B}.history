@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{3EBBBD97-B168-4ACB-AE78-6DE3D31DFA4B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:40:52.2958378Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "About",
+    "itemPath": "/sitecore/content/Global/Home Settings/Footers Folder/Navigation Folder/About",
+    "commandType": "Item",
+    "template": "Navigation Item",
+    "sourceControlRevisionId": null
+  }
+]
