@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F3DACF48-EAD7-4A95-A9CF-96921FE6C163}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:40:51.7332752Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Privacy Policy",
+    "itemPath": "/sitecore/content/Global/Home Settings/Footers Folder/Navigation Folder/Privacy Policy",
+    "commandType": "Item",
+    "template": "Navigation Item",
+    "sourceControlRevisionId": null
+  }
+]
