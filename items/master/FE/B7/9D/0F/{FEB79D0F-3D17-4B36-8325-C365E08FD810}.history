@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{FEB79D0F-3D17-4B36-8325-C365E08FD810}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:40:47.8514294Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Site Header",
+    "itemPath": "/sitecore/content/Global/Home Settings/Headers Folder/Site Header",
+    "commandType": "Item",
+    "template": "Site Header",
+    "sourceControlRevisionId": null
+  }
+]
