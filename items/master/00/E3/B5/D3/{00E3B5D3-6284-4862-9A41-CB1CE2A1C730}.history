@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{00E3B5D3-6284-4862-9A41-CB1CE2A1C730}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:40:43.1500318Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Global",
+    "itemPath": "/sitecore/content/Global",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
+  }
+]
