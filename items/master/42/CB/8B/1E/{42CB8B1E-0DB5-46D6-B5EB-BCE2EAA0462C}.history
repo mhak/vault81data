@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{42CB8B1E-0DB5-46D6-B5EB-BCE2EAA0462C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:40:44.3100762Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Credit and Loads",
+    "itemPath": "/sitecore/content/Global/Banking Settings/Personal Banking Menu/Credit and Loads",
+    "commandType": "Item",
+    "template": "Banking Menu List",
+    "sourceControlRevisionId": null
+  }
+]
