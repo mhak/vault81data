@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{1E560484-0B7E-4A38-A226-B35A587D1012}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:33:59.1794825Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Disclosure2",
+    "itemPath": "/sitecore/content/Home/Disclosure2",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
+    "sourceControlRevisionId": null
+  }
+]
