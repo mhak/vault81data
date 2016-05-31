@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{A99F58EA-1C2D-46E9-A2D9-B4009FFF7172}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:40:52.0581865Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Terms and Conditions",
+    "itemPath": "/sitecore/content/Global/Home Settings/Footers Folder/Navigation Folder/Terms and Conditions",
+    "commandType": "Item",
+    "template": "Navigation Item",
+    "sourceControlRevisionId": null
+  }
+]
