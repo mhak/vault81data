@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{7733B3FC-228B-4D6F-8759-B3C03A203F75}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:40:49.3094467Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "My Wealth",
+    "itemPath": "/sitecore/content/Global/Home Settings/Headers Folder/Navigation Top/My Wealth",
+    "commandType": "Item",
+    "template": "Navigation Item",
+    "sourceControlRevisionId": null
+  }
+]
