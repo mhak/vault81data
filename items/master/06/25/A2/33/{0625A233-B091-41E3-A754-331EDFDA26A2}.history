@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{0625A233-B091-41E3-A754-331EDFDA26A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:40:43.3883812Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Banking Settings",
+    "itemPath": "/sitecore/content/Global/Banking Settings",
+    "commandType": "Item",
+    "template": "Settings",
+    "sourceControlRevisionId": null
+  }
+]
