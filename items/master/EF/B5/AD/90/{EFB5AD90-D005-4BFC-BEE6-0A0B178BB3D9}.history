@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{EFB5AD90-D005-4BFC-BEE6-0A0B178BB3D9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:40:47.1073744Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Headers Folder",
+    "itemPath": "/sitecore/content/Global/Home Settings/Headers Folder",
+    "commandType": "Item",
+    "template": "Header",
+    "sourceControlRevisionId": null
+  }
+]
