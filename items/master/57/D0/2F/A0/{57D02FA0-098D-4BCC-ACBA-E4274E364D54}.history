@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{57D02FA0-098D-4BCC-ACBA-E4274E364D54}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:40:50.9888397Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Site Footer",
+    "itemPath": "/sitecore/content/Global/Home Settings/Footers Folder/Site Footer",
+    "commandType": "Item",
+    "template": "Site Footer",
+    "sourceControlRevisionId": null
+  }
+]
