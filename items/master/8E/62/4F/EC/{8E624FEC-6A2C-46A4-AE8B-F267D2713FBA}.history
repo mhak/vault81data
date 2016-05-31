@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{8E624FEC-6A2C-46A4-AE8B-F267D2713FBA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:40:47.3501147Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Footers Folder",
+    "itemPath": "/sitecore/content/Global/Home Settings/Footers Folder",
+    "commandType": "Item",
+    "template": "Footer",
+    "sourceControlRevisionId": null
+  }
+]
