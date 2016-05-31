@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{42B6D3B3-C76A-4AFB-85C6-C6A22E21FA1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:40:43.7712381Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Busines Banking Menu",
+    "itemPath": "/sitecore/content/Global/Banking Settings/Busines Banking Menu",
+    "commandType": "Item",
+    "template": "Banking Menu",
+    "sourceControlRevisionId": null
+  }
+]
