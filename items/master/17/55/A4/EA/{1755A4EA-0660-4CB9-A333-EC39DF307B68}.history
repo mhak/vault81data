@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{1755A4EA-0660-4CB9-A333-EC39DF307B68}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:40:44.7469689Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Credit and Loans",
+    "itemPath": "/sitecore/content/Global/Banking Settings/Busines Banking Menu/Credit and Loans",
+    "commandType": "Item",
+    "template": "Banking Menu List",
+    "sourceControlRevisionId": null
+  }
+]
