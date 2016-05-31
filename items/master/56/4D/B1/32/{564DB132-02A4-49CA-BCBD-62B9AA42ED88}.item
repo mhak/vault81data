@@ -2,9 +2,9 @@
 version: 1
 id: {564DB132-02A4-49CA-BCBD-62B9AA42ED88}
 database: master
-path: /sitecore/content/Home/Disclosure1
+path: /sitecore/content/Home/Disclosures
 parent: {9AC2DEEB-F849-49E4-96A9-ADD3FB6E88DC}
-name: Disclosure1
+name: Disclosures
 master: {00000000-0000-0000-0000-000000000000}
 template: {99595FA3-1836-4333-9B99-B650273820B9}
 templatekey: HealthWealthPage
@@ -26,7 +26,7 @@ content-length: 317
 ----version----
 language: en
 version: 1
-revision: edacb921-95c0-4ca4-a17e-f864a6a7a0f2
+revision: bee637b3-b1fa-4bf4-932e-cc9c65566055
 
 ----field----
 field: {CC45B3FB-4DDB-4C7D-8FD0-9CAC3BD67156}
@@ -46,23 +46,77 @@ content-length: 16
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
 key: __created by
-content-length: 18
+content-length: 12
 
-extranet\Anonymous
+sitecore\jim
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-edacb921-95c0-4ca4-a17e-f864a6a7a0f2
+bee637b3-b1fa-4bf4-932e-cc9c65566055
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160513T203301Z
+20160531T203359Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 2
+revision: bf29bef6-fbe9-4252-892d-96ab53c60eb3
+
+----field----
+field: {CC45B3FB-4DDB-4C7D-8FD0-9CAC3BD67156}
+name: Title
+key: title
+content-length: 12
+
+Disclosure 1
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20160531T201856Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160531T201856Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+sitecore\martin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bf29bef6-fbe9-4252-892d-96ab53c60eb3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160531T203359Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
