@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{DFEEB597-D8F7-46E8-9A62-5AA3D7FB251C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:40:44.0699991Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Banking",
+    "itemPath": "/sitecore/content/Global/Banking Settings/Personal Banking Menu/Banking",
+    "commandType": "Item",
+    "template": "Banking Menu List",
+    "sourceControlRevisionId": null
+  }
+]

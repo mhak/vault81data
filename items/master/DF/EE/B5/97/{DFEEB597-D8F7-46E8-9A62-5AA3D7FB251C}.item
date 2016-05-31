@@ -1,0 +1,72 @@
+----item----
+version: 1
+id: {DFEEB597-D8F7-46E8-9A62-5AA3D7FB251C}
+database: master
+path: /sitecore/content/Global/Banking Settings/Personal Banking Menu/Banking
+parent: {F711739B-75B8-4780-8595-50A04CF5B3D8}
+name: Banking
+master: {00000000-0000-0000-0000-000000000000}
+template: {FA9907A9-2216-4F53-A015-7D3BE16DA885}
+templatekey: Banking Menu List
+
+----version----
+language: en
+version: 1
+revision: 74c9af31-23e2-44c6-a13f-48aaf99886d3
+
+----field----
+field: {D70E97C1-65F9-4C4A-AB0D-AF4F14125680}
+name: Name
+key: name
+content-length: 7
+
+Banking
+----field----
+field: {96843B17-9B81-4A90-AEB1-47F756542F53}
+name: Banking Navigation List
+key: banking navigation list
+content-length: 155
+
+{04D39354-9316-4F19-8539-CD4841932CEA}|{D92C0A00-0078-48B4-8E5A-98C2B8EA3499}|{57EFD1C0-89EE-4F12-A45F-5D5143E1CEE3}|{2EF6AB06-C8FF-4083-9382-151A5E6D14A0}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160408T214902Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+74c9af31-23e2-44c6-a13f-48aaf99886d3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160531T204043Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
