@@ -14,6 +14,23 @@
     "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Reporting/Reports/Editorial Changes",
     "commandType": "Item",
     "template": "Vault Report",
+    "sourceControlRevisionId": "4f3c8ed84789df3aac97ff38966f23a68d00f815"
+  },
+  {
+    "eventType": "Saved",
+    "database": "core",
+    "itemId": "{6ACFC707-FD13-496F-A105-F840B1CCB9FE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T21:54:56.7474719Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Martin",
+    "itemName": "Editorial Changes",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Reporting/Reports/Editorial Changes",
+    "commandType": "Item",
+    "template": "Vault Report",
     "sourceControlRevisionId": null
   }
 ]
