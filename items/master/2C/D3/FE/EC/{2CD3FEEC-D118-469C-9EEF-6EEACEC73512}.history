@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{2CD3FEEC-D118-469C-9EEF-6EEACEC73512}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T22:31:33.1373842Z",
+    "label": "Deployed from Polly QA Deployment",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Investments",
+    "itemPath": "/sitecore/content/UK Site/Investments",
+    "commandType": "Item",
+    "template": "My Test Template",
+    "sourceControlRevisionId": null
+  }
+]
