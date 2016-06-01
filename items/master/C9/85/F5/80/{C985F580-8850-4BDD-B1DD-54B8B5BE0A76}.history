@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{C985F580-8850-4BDD-B1DD-54B8B5BE0A76}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T20:34:15.1227564Z",
+    "label": "Deployed from NEB Deployment Test",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Content",
+    "itemPath": "/sitecore/templates/Test/My Test Template/Data/Content",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
+  }
+]
