@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{D62FCADE-7C26-474D-85DD-3D37DDE1686E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T20:34:13.5534678Z",
+    "label": "Deployed from NEB Deployment Test",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Test/Site Section/__Standard Values",
+    "commandType": "Item",
+    "template": "Site Section",
+    "sourceControlRevisionId": null
+  }
+]
