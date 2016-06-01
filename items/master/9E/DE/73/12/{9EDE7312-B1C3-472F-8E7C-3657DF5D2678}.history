@@ -167,6 +167,23 @@
     "itemPath": "/sitecore/content/Griffin 2/Personal/Free Checking",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "03cd8368a21b6c349dc417ad2b40ca3a7cc60b6e"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{9EDE7312-B1C3-472F-8E7C-3657DF5D2678}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T18:32:03.1819690Z",
+    "label": "Saved",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\Martin",
+    "itemName": "Free Checking",
+    "itemPath": "/sitecore/content/Griffin 2/Personal/Free Checking",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
