@@ -31,6 +31,23 @@
     "itemPath": "/sitecore/templates/Test/Site Section/__Standard Values",
     "commandType": "Item",
     "template": "Site Section",
-    "sourceControlRevisionId": "9a96046df0169bb235981319e96cce2871b38abf"
+    "sourceControlRevisionId": "66ecfbba765ba30d15e3196a40f5d8aeebe8ef82"
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{D62FCADE-7C26-474D-85DD-3D37DDE1686E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T22:31:30.3782067Z",
+    "label": "Deployed from Polly QA Deployment",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "[orphan]/__Standard Values",
+    "commandType": "Item",
+    "template": "Site Section",
+    "sourceControlRevisionId": null
   }
 ]
