@@ -507,6 +507,23 @@
     "itemPath": "/sitecore/content/Griffin 2",
     "commandType": "Item",
     "template": "Sample Item",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "f2f2a78ec62e8c71d1ec9af8a90c15a8d79688c6"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T18:32:08.4864641Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Martin",
+    "itemName": "Griffin 2",
+    "itemPath": "/sitecore/content/Griffin 2",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": "f2f2a78ec62e8c71d1ec9af8a90c15a8d79688c6"
   }
 ]
