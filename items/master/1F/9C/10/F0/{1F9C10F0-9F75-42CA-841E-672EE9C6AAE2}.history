@@ -167,6 +167,23 @@
     "itemPath": "/sitecore/content/Griffin 2/About Us/About Us",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "8862e7d6e340aa0eb33a7024b7db0924db2a8f7e"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{1F9C10F0-9F75-42CA-841E-672EE9C6AAE2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T18:32:03.0485830Z",
+    "label": "Saved",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\Martin",
+    "itemName": "About Us",
+    "itemPath": "/sitecore/content/Griffin 2/About Us/About Us",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
