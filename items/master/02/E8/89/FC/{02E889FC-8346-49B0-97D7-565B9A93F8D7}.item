@@ -2,57 +2,10 @@
 version: 1
 id: {02E889FC-8346-49B0-97D7-565B9A93F8D7}
 database: master
-path: /sitecore/content/Martin/Home
-parent: {5615BC9F-ED8B-498E-A37F-9813DFF9A885}
+path: /Home
+parent: {00000000-0000-0000-0000-000000000000}
 name: Home
 master: {00000000-0000-0000-0000-000000000000}
 template: {A64B302E-ACB8-472B-B72C-AE2FCA5E251C}
 templatekey: My Test Template
 
-----version----
-language: en
-version: 1
-revision: fffb1765-c1c9-4aff-a2df-8e9850940f97
-
-----field----
-field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
-name: __Owner
-key: __owner
-content-length: 15
-
-sitecore\martin
-----field----
-field: {25BED78C-4957-4165-998A-CA1B52F67497}
-name: __Created
-key: __created
-content-length: 16
-
-20160601T200110Z
-----field----
-field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
-name: __Created by
-key: __created by
-content-length: 15
-
-sitecore\martin
-----field----
-field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
-name: __Revision
-key: __revision
-content-length: 36
-
-fffb1765-c1c9-4aff-a2df-8e9850940f97
-----field----
-field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
-name: __Updated
-key: __updated
-content-length: 16
-
-20160601T203419Z
-----field----
-field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
-name: __Updated by
-key: __updated by
-content-length: 18
-
-extranet\Anonymous
