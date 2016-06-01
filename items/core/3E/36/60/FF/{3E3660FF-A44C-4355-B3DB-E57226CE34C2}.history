@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{3E3660FF-A44C-4355-B3DB-E57226CE34C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T22:39:17.2180030Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Martin",
+    "itemName": "Recently Published",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Reporting/Reports/Recently Published",
+    "commandType": "Item",
+    "template": "Vault Report",
+    "sourceControlRevisionId": null
+  }
+]

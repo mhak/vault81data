@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {3E3660FF-A44C-4355-B3DB-E57226CE34C2}
+database: core
+path: /sitecore/client/Your Apps/Vault/Navigation/Reporting/Reports/Recently Published
+parent: {A360B87C-4F6D-46E1-9C15-F0D0AA0691A1}
+name: Recently Published
+master: {00000000-0000-0000-0000-000000000000}
+template: {4288C357-8017-47BC-827F-D69181CAAAA1}
+templatekey: Vault Report
+
