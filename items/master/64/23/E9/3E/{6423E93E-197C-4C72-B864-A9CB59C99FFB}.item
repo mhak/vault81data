@@ -13,12 +13,12 @@ templatekey: Map
 field: {0A6277FF-B5BA-490B-8441-986B4F519FBF}
 name: Rule
 key: rule
-content-length: 276
+content-length: 228
 
 <ruleset>
   <rule uid="{444CBA73-45E6-4E73-B9D5-DF5950BA4C6D}">
     <conditions>
-      <condition id="{9BD1F746-B5DF-4FE3-A1F8-AF6DFB660333}" uid="A4B2C361AAE240BE9A84BAB2B0110D94" ItemId="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" />
+      <condition id="{9BD1F746-B5DF-4FE3-A1F8-AF6DFB660333}" uid="A4B2C361AAE240BE9A84BAB2B0110D94" />
     </conditions>
   </rule>
 </ruleset>
@@ -189,7 +189,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: c5e42a28-a66f-4a26-bc56-5ff1e6582136
+revision: 4a418fc8-3d5e-4741-992a-1be4f8a5d4d6
 
 ----field----
 field: {A44D8693-F962-4F76-8FB8-62525CE67BA1}
@@ -239,21 +239,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c5e42a28-a66f-4a26-bc56-5ff1e6582136
+4a418fc8-3d5e-4741-992a-1be4f8a5d4d6
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20151003T031515Z
+20160601T183201Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 15
 
-sitecore\admin
+sitecore\Martin
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state
