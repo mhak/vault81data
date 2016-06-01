@@ -150,6 +150,23 @@
     "itemPath": "/sitecore/content/Griffin 2/form",
     "commandType": "Item",
     "template": "Sample Item",
-    "sourceControlRevisionId": "2ae300bcb19c5c21de924ce4e3ab665e9b935f1f"
+    "sourceControlRevisionId": "30b828f057a163f2684962c782b99f5090d8623d"
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{4A544D07-145F-400B-BC27-BDD5C202E705}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T20:34:19.3627905Z",
+    "label": "Deployed from NEB Deployment Test",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "workflowStateName": "Approved",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "form",
+    "itemPath": "[orphan]/form",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
   }
 ]
