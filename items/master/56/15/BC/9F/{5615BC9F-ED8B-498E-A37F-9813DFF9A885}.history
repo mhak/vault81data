@@ -14,6 +14,23 @@
     "itemPath": "/sitecore/content/Martin",
     "commandType": "Item",
     "template": "Site Section",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "9ae4be7bab0c7886bfa8f80f8fef31a4b56c79ee"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{5615BC9F-ED8B-498E-A37F-9813DFF9A885}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T21:43:59.7258152Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Martin",
+    "itemName": "Martin",
+    "itemPath": "/sitecore/content/Martin",
+    "commandType": "Item",
+    "template": "Site Section",
+    "sourceControlRevisionId": "9ae4be7bab0c7886bfa8f80f8fef31a4b56c79ee"
   }
 ]
