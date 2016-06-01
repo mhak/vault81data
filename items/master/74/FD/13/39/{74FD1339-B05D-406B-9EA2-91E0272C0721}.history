@@ -184,6 +184,23 @@
     "itemPath": "/sitecore/content/Griffin 2/Personal/Personal and Business Banking",
     "commandType": "Item",
     "template": "Sample Item",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "2dc421805718afa80b58a417ae603222e0829331"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{74FD1339-B05D-406B-9EA2-91E0272C0721}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T18:32:05.7396828Z",
+    "label": "Deleted",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\Martin",
+    "itemName": "Personal and Business Banking",
+    "itemPath": "/sitecore/content/Griffin 2/Personal/Personal and Business Banking",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": "2dc421805718afa80b58a417ae603222e0829331"
   }
 ]
