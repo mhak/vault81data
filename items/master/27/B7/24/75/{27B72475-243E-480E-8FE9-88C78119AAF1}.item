@@ -2,8 +2,8 @@
 version: 1
 id: {27B72475-243E-480E-8FE9-88C78119AAF1}
 database: master
-path: /Site Section
-parent: {00000000-0000-0000-0000-000000000000}
+path: /sitecore/templates/Test/Site Section
+parent: {A98F9954-0EFB-4810-9C83-B258D50C64CA}
 name: Site Section
 master: {00000000-0000-0000-0000-000000000000}
 template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
@@ -20,9 +20,9 @@ content-length: 38
 field: {F7D48A55-2158-4F02-9356-756654404F73}
 name: __Standard values
 key: __standard values
-content-length: 0
+content-length: 38
 
-
+{D62FCADE-7C26-474D-85DD-3D37DDE1686E}
 ----field----
 field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
 name: __Icon
@@ -30,3 +30,43 @@ key: __icon
 content-length: 23
 
 Business/16x16/data.png
+----version----
+language: en
+version: 1
+revision: 66b34475-80b7-43fc-aa13-95c0679d226f
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160601T195841Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+sitecore\martin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+66b34475-80b7-43fc-aa13-95c0679d226f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160601T223130Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
