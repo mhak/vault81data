@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "Saved",
+    "database": "core",
+    "itemId": "{2DD6D132-7B64-4685-A026-E17CD2D0A323}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T18:32:01.0929194Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Martin",
+    "itemName": "TemplateGrouping",
+    "itemPath": "/sitecore/client/Applications/PathAnalyzer/Common/System/NodeGroupingOptions/TemplateGrouping",
+    "commandType": "Item",
+    "template": "GroupByTemplateOption",
+    "sourceControlRevisionId": null
+  }
+]
