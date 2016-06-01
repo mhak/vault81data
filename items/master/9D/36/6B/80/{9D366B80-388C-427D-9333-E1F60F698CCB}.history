@@ -31,6 +31,23 @@
     "itemPath": "/sitecore/templates/Test/My Test Template/Data/Meta tags",
     "commandType": "Item",
     "template": "Template field",
-    "sourceControlRevisionId": "ae1ad1746d9fc3e2116e0214a83fecd5a0b3b49d"
+    "sourceControlRevisionId": "49b3c9eb3887323c498544b7a528088395b9cc82"
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{9D366B80-388C-427D-9333-E1F60F698CCB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T22:31:31.5268273Z",
+    "label": "Deployed from Polly QA Deployment",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Meta tags",
+    "itemPath": "[orphan]/Meta tags",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]
