@@ -14,6 +14,23 @@
     "itemPath": "/sitecore/content/UK Site/Promotions",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "19cd5a384746b49cd4e545cd51a782fbc5f994af"
+  },
+  {
+    "eventType": "Rollback",
+    "database": "master",
+    "itemId": "{DA944F15-CF7E-4F03-9CE8-5F043765B512}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T22:47:05.7601750Z",
+    "label": "Rollback package - Polly QA Deployment",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Promotions",
+    "itemPath": "[orphan]/Promotions",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
