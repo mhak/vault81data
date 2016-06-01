@@ -14,6 +14,23 @@
     "itemPath": "/sitecore/templates/Test/My Test Template/Data/Meta tags",
     "commandType": "Item",
     "template": "Template field",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "ae1ad1746d9fc3e2116e0214a83fecd5a0b3b49d"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{9D366B80-388C-427D-9333-E1F60F698CCB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T21:46:36.4653126Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Martin",
+    "itemName": "Meta tags",
+    "itemPath": "/sitecore/templates/Test/My Test Template/Data/Meta tags",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": "ae1ad1746d9fc3e2116e0214a83fecd5a0b3b49d"
   }
 ]
