@@ -2,6 +2,6 @@
   "itemName": "Investments",
   "templateId": "{A64B302E-ACB8-472B-B72C-AE2FCA5E251C}",
   "branchId": "{00000000-0000-0000-0000-000000000000}",
-  "parentId": "{BFC82919-CA1E-4479-8F64-68B85CA44701}",
+  "parentId": "{00000000-0000-0000-0000-000000000000}",
   "childIds": []
 }
