@@ -26,7 +26,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: c6c85d06-4ff6-4ee8-9e81-966a855d0924
+revision: 81941cd1-14f7-4ac4-9029-2754bb46dd2f
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
@@ -39,12 +39,12 @@ Review Rates
 field: {A60ACD61-A6DB-4182-8329-C957982CEC74}
 name: Text
 key: text
-content-length: 177
+content-length: 105
 
 <p>This is boring text find rates</p>
 <p><br>
 </p>
-<p>Find an Office&nbsp;or&nbsp;<a href="~/link.aspx?_id=4ECAEDAC16104949B6FDD15AF9738622&amp;_z=z">Have Us Contact You</a></p>
+<p>Find an Office&nbsp;or&nbsp;Have Us Contact You</p>
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -65,7 +65,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c6c85d06-4ff6-4ee8-9e81-966a855d0924
+81941cd1-14f7-4ac4-9029-2754bb46dd2f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
