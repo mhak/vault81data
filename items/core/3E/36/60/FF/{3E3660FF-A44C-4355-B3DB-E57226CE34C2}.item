@@ -19,36 +19,36 @@ content-length: 158
 ----version----
 language: en
 version: 1
-revision: 2ae96989-c676-4aab-a77a-dc2f328ba6ad
+revision: 58f60466-dff0-44c4-b508-736a867199f0
 
 ----field----
 field: {96E43D34-70FC-4AF9-B84A-F3926DDD6718}
 name: Query
 key: query
-content-length: 105
+content-length: 101
 
-Timestamp BETWEEN "2016-05-02T07:00:00.000Z" AND "2016-06-02T06:59:59.000Z" AND (EventType = "Published")
+Timestamp BETWEEN "2016-05-02T07:00:00.000Z" AND "2016-06-02T06:59:59.000Z" AND (EventType = "Saved")
 ----field----
 field: {7C8A305B-3354-41AE-88A1-B0E05D39EFC0}
 name: Selectors
 key: selectors
-content-length: 23
+content-length: 19
 
-EventType = "Published"
+EventType = "Saved"
 ----field----
 field: {0FF8D388-BF06-418D-9EAE-4890C9DA9BD6}
 name: Start Date
 key: start date
-content-length: 15
+content-length: 8
 
-20160502T000000
+20160502
 ----field----
 field: {14148E97-C12C-41D7-8E7B-A2F8B5C139CD}
 name: End Date
 key: end date
-content-length: 15
+content-length: 8
 
-20160601T000000
+20160601
 ----field----
 field: {EBB4296D-83E6-4657-B8B9-7AB766117184}
 name: CombineEvents
@@ -83,14 +83,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2ae96989-c676-4aab-a77a-dc2f328ba6ad
+58f60466-dff0-44c4-b508-736a867199f0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160601T223917Z
+20160601T223947Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

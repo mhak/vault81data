@@ -65,6 +65,23 @@
     "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Reporting/Reports/Recently Published",
     "commandType": "Item",
     "template": "Vault Report",
+    "sourceControlRevisionId": "3ea1b68be8d572b93bf6df3f0fa890aec8364155"
+  },
+  {
+    "eventType": "Saved",
+    "database": "core",
+    "itemId": "{3E3660FF-A44C-4355-B3DB-E57226CE34C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T22:39:47.5445747Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Martin",
+    "itemName": "Recently Published",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Reporting/Reports/Recently Published",
+    "commandType": "Item",
+    "template": "Vault Report",
     "sourceControlRevisionId": null
   }
 ]
