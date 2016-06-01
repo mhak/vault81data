@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{5AEE24C9-D2DD-4E0D-B4E7-98FF363BA73F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T22:00:33.2779883Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Meng's report 2",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Reporting/Reports/Mengs report 2",
+    "commandType": "Item",
+    "template": "HyperlinkButton Parameters",
+    "sourceControlRevisionId": null
+  }
+]
