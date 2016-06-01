@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{BFC82919-CA1E-4479-8F64-68B85CA44701}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T22:31:32.4982420Z",
+    "label": "Deployed from Polly QA Deployment",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "UK Site",
+    "itemPath": "/sitecore/content/UK Site",
+    "commandType": "Item",
+    "template": "Site Section",
+    "sourceControlRevisionId": null
+  }
+]
