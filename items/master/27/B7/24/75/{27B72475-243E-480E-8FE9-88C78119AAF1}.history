@@ -14,6 +14,23 @@
     "itemPath": "/sitecore/templates/Test/Site Section",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "75d3094b19ecfc50375371d4c9cec9757c828a93"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{27B72475-243E-480E-8FE9-88C78119AAF1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T21:46:23.2973810Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Martin",
+    "itemName": "Site Section",
+    "itemPath": "/sitecore/templates/Test/Site Section",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]
