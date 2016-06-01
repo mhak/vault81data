@@ -31,6 +31,23 @@
     "itemPath": "/sitecore/content/Home/New Sample Item",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "a03d4d68c860dbc2f5ce2882fe145b2fd162e340"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{F82DE7DB-D59E-41D8-A110-70ACAC58DF21}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T18:46:09.2130616Z",
+    "label": "Saved",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "workflowStateName": "Draft",
+    "activeUser": "sitecore\\Martin",
+    "itemName": "New Sample Item",
+    "itemPath": "/sitecore/content/Home/New Sample Item",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
