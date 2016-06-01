@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{02E889FC-8346-49B0-97D7-565B9A93F8D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T20:34:20.2914582Z",
+    "label": "Deployed from NEB Deployment Test",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Home",
+    "itemPath": "/sitecore/content/Martin/Home",
+    "commandType": "Item",
+    "template": "My Test Template",
+    "sourceControlRevisionId": null
+  }
+]
