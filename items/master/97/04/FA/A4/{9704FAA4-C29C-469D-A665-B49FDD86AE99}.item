@@ -97,7 +97,7 @@ content-length: 5
 ----version----
 language: en
 version: 2
-revision: 399f6f8c-933f-451a-9771-b7619f239586
+revision: 9ae72a3e-916b-4222-8ccb-bbf28fd826ad
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
@@ -110,12 +110,12 @@ Review Rates
 field: {A60ACD61-A6DB-4182-8329-C957982CEC74}
 name: Text
 key: text
-content-length: 184
+content-length: 112
 
 <p>Our rates are the bomb... yo...&nbsp;</p>
 <p><br>
 </p>
-<p>Find an Office&nbsp;or&nbsp;<a href="~/link.aspx?_id=4ECAEDAC16104949B6FDD15AF9738622&amp;_z=z">Have Us Contact You</a></p>
+<p>Find an Office&nbsp;or&nbsp;Have Us Contact You</p>
 ----field----
 field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
 name: __Valid from
@@ -143,7 +143,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-399f6f8c-933f-451a-9771-b7619f239586
+9ae72a3e-916b-4222-8ccb-bbf28fd826ad
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

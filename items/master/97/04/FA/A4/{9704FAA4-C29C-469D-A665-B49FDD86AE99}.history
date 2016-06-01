@@ -184,6 +184,23 @@
     "itemPath": "/sitecore/content/Griffin 2/Review Rates",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "199b544ddfac165be12523244a0b080b8e6bb9d8"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{9704FAA4-C29C-469D-A665-B49FDD86AE99}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-06-01T18:31:59.7138717Z",
+    "label": "Saved",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "workflowStateName": "Approved",
+    "activeUser": "sitecore\\Martin",
+    "itemName": "Review Rates",
+    "itemPath": "/sitecore/content/Griffin 2/Review Rates",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
