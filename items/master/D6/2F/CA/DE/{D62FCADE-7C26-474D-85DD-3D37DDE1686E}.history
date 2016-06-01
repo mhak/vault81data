@@ -14,6 +14,23 @@
     "itemPath": "/sitecore/templates/Test/Site Section/__Standard Values",
     "commandType": "Item",
     "template": "Site Section",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "9a96046df0169bb235981319e96cce2871b38abf"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{D62FCADE-7C26-474D-85DD-3D37DDE1686E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T21:46:23.8755708Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Martin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Test/Site Section/__Standard Values",
+    "commandType": "Item",
+    "template": "Site Section",
+    "sourceControlRevisionId": "9a96046df0169bb235981319e96cce2871b38abf"
   }
 ]
