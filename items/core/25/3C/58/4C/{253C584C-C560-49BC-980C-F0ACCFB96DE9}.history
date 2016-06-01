@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{253C584C-C560-49BC-980C-F0ACCFB96DE9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T22:38:40.8075246Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Martin",
+    "itemName": "Core Database Changes",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Reporting/Reports/Core Database Changes",
+    "commandType": "Item",
+    "template": "Vault Report",
+    "sourceControlRevisionId": null
+  }
+]
