@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{C15F8558-2B0A-45EF-90D1-87F2F6461970}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T20:34:20.5114580Z",
+    "label": "Deployed from NEB Deployment Test",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "NEB - renamed",
+    "itemPath": "/sitecore/content/Martin/NEB - renamed",
+    "commandType": "Item",
+    "template": "My Test Template",
+    "sourceControlRevisionId": null
+  }
+]
