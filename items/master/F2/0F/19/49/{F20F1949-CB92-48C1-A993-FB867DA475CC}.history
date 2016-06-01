@@ -31,6 +31,23 @@
     "itemPath": "/sitecore/templates/Test/Site Section/Data",
     "commandType": "Item",
     "template": "Template section",
-    "sourceControlRevisionId": "48e354236bc3a8f50e39155d8b36df841070cc98"
+    "sourceControlRevisionId": "91aadeeea6bf18af19dae86fb54c1b672ae22dab"
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{F20F1949-CB92-48C1-A993-FB867DA475CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T22:31:30.5246814Z",
+    "label": "Deployed from Polly QA Deployment",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Data",
+    "itemPath": "[orphan]/Data",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
   }
 ]
