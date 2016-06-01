@@ -8,11 +8,29 @@
     "timestamp": "2016-04-27T03:19:52.4721832Z",
     "label": "Installed from package - {0}",
     "workflowState": "",
+    "workflowStateName": null,
     "activeUser": "sitecore\\admin",
     "itemName": "Meng's Report",
     "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Reporting/Reports/Mengs Report",
     "commandType": "Label",
     "template": "HyperlinkButton Parameters",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "50e7eb872a815a9c13118b4a4394026ae83bb281"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{C5B4442A-1245-4258-B246-205EAE7C642E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T22:00:40.6218487Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Meng's Report",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Reporting/Reports/Mengs Report",
+    "commandType": "Item",
+    "template": "HyperlinkButton Parameters",
+    "sourceControlRevisionId": "50e7eb872a815a9c13118b4a4394026ae83bb281"
   }
 ]

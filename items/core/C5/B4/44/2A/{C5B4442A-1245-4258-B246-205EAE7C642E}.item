@@ -1,0 +1,18 @@
+----item----
+version: 1
+id: {C5B4442A-1245-4258-B246-205EAE7C642E}
+database: core
+path: /Mengs Report
+parent: {00000000-0000-0000-0000-000000000000}
+name: Mengs Report
+master: {00000000-0000-0000-0000-000000000000}
+template: {6B2C1723-B4E0-49BE-8EF2-F1D12C969E54}
+templatekey: HyperlinkButton Parameters
+
+----field----
+field: {AEE5C6C6-CB2D-4645-AE50-8640E8ED293F}
+name: NavigateUrl
+key: navigateurl
+content-length: 121
+
+/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports?id=1&menuItemId={C5B4442A-1245-4258-B246-205EAE7C642E}
