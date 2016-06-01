@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {F82DE7DB-D59E-41D8-A110-70ACAC58DF21}
+database: master
+path: /sitecore/content/Home/New Sample Item
+parent: {9AC2DEEB-F849-49E4-96A9-ADD3FB6E88DC}
+name: New Sample Item
+master: {00000000-0000-0000-0000-000000000000}
+template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
+templatekey: Sample Item
+

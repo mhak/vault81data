@@ -1,0 +1,19 @@
+[
+  {
+    "eventType": "Created",
+    "database": "master",
+    "itemId": "{F82DE7DB-D59E-41D8-A110-70ACAC58DF21}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T18:46:08.9338072Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Martin",
+    "itemName": "New Sample Item",
+    "itemPath": "/sitecore/content/Home/New Sample Item",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
+  }
+]
