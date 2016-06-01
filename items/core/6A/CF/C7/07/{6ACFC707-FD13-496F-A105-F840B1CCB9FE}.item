@@ -19,36 +19,43 @@ content-length: 158
 ----version----
 language: en
 version: 1
-revision: c0ff7b7a-4a6a-495a-b5e2-88391457f9dc
+revision: 838f2164-6c21-47e8-b79e-bfd1518d2344
 
 ----field----
 field: {96E43D34-70FC-4AF9-B84A-F3926DDD6718}
 name: Query
 key: query
-content-length: 105
+content-length: 140
 
-Timestamp BETWEEN "2016-05-02T07:00:00.000Z" AND "2016-06-02T06:59:59.000Z" AND (EventType != "Snapshot")
+Timestamp BETWEEN "2016-05-02T07:00:00.000Z" AND "2016-06-02T06:59:59.000Z" AND (EventType != "Snapshot" AND ActiveUser = "sitecore\Martin")
 ----field----
 field: {EFA0B7F3-1879-46E2-85EF-E399A53CD3A9}
 name: Filters
 key: filters
-content-length: 23
+content-length: 54
 
-EventType != "Snapshot"
+EventType != "Snapshot"|ActiveUser = "sitecore\Martin"
 ----field----
 field: {0FF8D388-BF06-418D-9EAE-4890C9DA9BD6}
 name: Start Date
 key: start date
-content-length: 15
+content-length: 8
 
-20160502T000000
+20160502
 ----field----
 field: {14148E97-C12C-41D7-8E7B-A2F8B5C139CD}
 name: End Date
 key: end date
-content-length: 15
+content-length: 8
 
-20160601T000000
+20160601
+----field----
+field: {066E5B0E-0ED0-4CC3-B474-79FEB06BE6DA}
+name: Columns
+key: columns
+content-length: 25
+
+Name|Path|Event|User|Date
 ----field----
 field: {EBB4296D-83E6-4657-B8B9-7AB766117184}
 name: CombineEvents
@@ -83,14 +90,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c0ff7b7a-4a6a-495a-b5e2-88391457f9dc
+838f2164-6c21-47e8-b79e-bfd1518d2344
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160601T215456Z
+20160601T223814Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
