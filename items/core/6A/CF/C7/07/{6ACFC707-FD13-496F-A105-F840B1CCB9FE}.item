@@ -1,0 +1,11 @@
+----item----
+version: 1
+id: {6ACFC707-FD13-496F-A105-F840B1CCB9FE}
+database: core
+path: /sitecore/client/Your Apps/Vault/Navigation/Reporting/Reports/Editorial Changes
+parent: {A360B87C-4F6D-46E1-9C15-F0D0AA0691A1}
+name: Editorial Changes
+master: {00000000-0000-0000-0000-000000000000}
+template: {4288C357-8017-47BC-827F-D69181CAAAA1}
+templatekey: Vault Report
+
