@@ -14,6 +14,23 @@
     "itemPath": "/sitecore/templates/Test/My Test Template/Data/Title",
     "commandType": "Item",
     "template": "Template field",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "9eda199b4cd11d408304088b4d82e587fa3d6584"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{E9B4F08F-D042-4EF7-91A7-65D627F55228}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T21:46:36.2304375Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Martin",
+    "itemName": "Title",
+    "itemPath": "/sitecore/templates/Test/My Test Template/Data/Title",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": "9eda199b4cd11d408304088b4d82e587fa3d6584"
   }
 ]
