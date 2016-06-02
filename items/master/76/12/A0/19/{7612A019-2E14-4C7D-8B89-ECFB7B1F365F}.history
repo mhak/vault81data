@@ -14,7 +14,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Item",
     "template": "Condition",
-    "sourceControlRevisionId": "6fc7ed9c7bc2122518699d47d0b4cd21a5a2742a"
+    "sourceControlRevisionId": "6fc7ed9c7bc2122518699d47d0b4cd21a5a2742a",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "VersionRemoved",
@@ -31,7 +33,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Item",
     "template": "Condition",
-    "sourceControlRevisionId": "2900d0505963e96c548364a5fd31aba5da936d6e"
+    "sourceControlRevisionId": "2900d0505963e96c548364a5fd31aba5da936d6e",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "VersionRemoved",
@@ -48,7 +52,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Item",
     "template": "Condition",
-    "sourceControlRevisionId": "672ceeb5b1a0cf04b8b062a3718337c28b08e5d6"
+    "sourceControlRevisionId": "672ceeb5b1a0cf04b8b062a3718337c28b08e5d6",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -65,7 +71,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Label",
     "template": "Condition",
-    "sourceControlRevisionId": "c1b810a1759e7c12ade6c9ddeb68e65671b4ea90"
+    "sourceControlRevisionId": "c1b810a1759e7c12ade6c9ddeb68e65671b4ea90",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -82,7 +90,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Label",
     "template": "Condition",
-    "sourceControlRevisionId": "b52beec5c51818abc0c94ddff851ea5b320ea6a9"
+    "sourceControlRevisionId": "b52beec5c51818abc0c94ddff851ea5b320ea6a9",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -99,7 +109,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Label",
     "template": "Condition",
-    "sourceControlRevisionId": "9814be40c9f4043e2e5b63ac4ffeb12a1111d490"
+    "sourceControlRevisionId": "9814be40c9f4043e2e5b63ac4ffeb12a1111d490",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -116,7 +128,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Label",
     "template": "Condition",
-    "sourceControlRevisionId": "ae9b28fffa8c15ce675e835a7c8b768dd46aa731"
+    "sourceControlRevisionId": "ae9b28fffa8c15ce675e835a7c8b768dd46aa731",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -133,7 +147,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Item",
     "template": "Condition",
-    "sourceControlRevisionId": "641fc57cbf92aad79272fa0bed78809a5e35bb60"
+    "sourceControlRevisionId": "641fc57cbf92aad79272fa0bed78809a5e35bb60",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -150,7 +166,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Item",
     "template": "Condition",
-    "sourceControlRevisionId": "92ec44b10be8b91036f3bd1318a109958376ef7b"
+    "sourceControlRevisionId": "92ec44b10be8b91036f3bd1318a109958376ef7b",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -167,7 +185,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Item",
     "template": "Condition",
-    "sourceControlRevisionId": "3094b601086da2aa96148fe6b8cdd941c1e913e9"
+    "sourceControlRevisionId": "3094b601086da2aa96148fe6b8cdd941c1e913e9",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -184,7 +204,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Item",
     "template": "Condition",
-    "sourceControlRevisionId": "21ded81875c985e7a6fa80f215bad8dff0043307"
+    "sourceControlRevisionId": "21ded81875c985e7a6fa80f215bad8dff0043307",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -201,7 +223,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Item",
     "template": "Condition",
-    "sourceControlRevisionId": "c5fcc590f2ec3501c387a3baa2ecd74d59a321ca"
+    "sourceControlRevisionId": "c5fcc590f2ec3501c387a3baa2ecd74d59a321ca",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -218,7 +242,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Item",
     "template": "Condition",
-    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a"
+    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Snapshot",
@@ -235,7 +261,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Item",
     "template": "Condition",
-    "sourceControlRevisionId": "4cf8a359c5d4c5760ba5b45db494227de1c3cdf5"
+    "sourceControlRevisionId": "4cf8a359c5d4c5760ba5b45db494227de1c3cdf5",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -252,7 +280,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Item",
     "template": "Condition",
-    "sourceControlRevisionId": "4109e6fcc1e7436dbdf4bc7a346edb726ddba96e"
+    "sourceControlRevisionId": "4109e6fcc1e7436dbdf4bc7a346edb726ddba96e",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -269,7 +299,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Item",
     "template": "Condition",
-    "sourceControlRevisionId": "2b7846ce3d28d8296136711288d8f33461f3a7a2"
+    "sourceControlRevisionId": "2b7846ce3d28d8296136711288d8f33461f3a7a2",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -286,6 +318,27 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Item",
     "template": "Condition",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "bfa987849aad91f81cefdf88351e2f7d6c1643c8",
+    "sitecoreVersion": null,
+    "vaultVersion": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{7612A019-2E14-4C7D-8B89-ECFB7B1F365F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-02T03:33:22.1567917Z",
+    "label": "Deployed from Vault",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Update Date",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.151003",
+    "vaultVersion": "1.0"
   }
 ]
