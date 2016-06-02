@@ -14,7 +14,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Visibility",
     "commandType": "Item",
     "template": "Visibility",
-    "sourceControlRevisionId": "5aa4aebc5af70ac101380a37e0f38c0753e0278b"
+    "sourceControlRevisionId": "5aa4aebc5af70ac101380a37e0f38c0753e0278b",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "VersionRemoved",
@@ -31,7 +33,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Visibility",
     "commandType": "Item",
     "template": "Visibility",
-    "sourceControlRevisionId": "3146a2010199267a42916676dcb23274cb88c677"
+    "sourceControlRevisionId": "3146a2010199267a42916676dcb23274cb88c677",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "VersionRemoved",
@@ -48,7 +52,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Visibility",
     "commandType": "Item",
     "template": "Visibility",
-    "sourceControlRevisionId": "13ee7e73cc01723887083b881347cf7d73362280"
+    "sourceControlRevisionId": "13ee7e73cc01723887083b881347cf7d73362280",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -65,7 +71,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Visibility",
     "commandType": "Label",
     "template": "Visibility",
-    "sourceControlRevisionId": "8910fd6d0e57510d521c0db0a35aa0fbe32ad04d"
+    "sourceControlRevisionId": "8910fd6d0e57510d521c0db0a35aa0fbe32ad04d",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -82,7 +90,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Visibility",
     "commandType": "Label",
     "template": "Visibility",
-    "sourceControlRevisionId": "8bf6ca4f7f04c436f25934a72f639342c7ffc4d0"
+    "sourceControlRevisionId": "8bf6ca4f7f04c436f25934a72f639342c7ffc4d0",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -99,7 +109,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Visibility",
     "commandType": "Label",
     "template": "Visibility",
-    "sourceControlRevisionId": "da5021eff3ca5a516a0abe9c524d4a9018f52f1b"
+    "sourceControlRevisionId": "da5021eff3ca5a516a0abe9c524d4a9018f52f1b",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -116,7 +128,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Visibility",
     "commandType": "Label",
     "template": "Visibility",
-    "sourceControlRevisionId": "7398151a50b9b5096a5cf39110449e50d5239045"
+    "sourceControlRevisionId": "7398151a50b9b5096a5cf39110449e50d5239045",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -133,7 +147,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Visibility",
     "commandType": "Item",
     "template": "Visibility",
-    "sourceControlRevisionId": "2dd0cdb3eb37cf18f95c3ec24e23ceb5af89917b"
+    "sourceControlRevisionId": "2dd0cdb3eb37cf18f95c3ec24e23ceb5af89917b",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -150,7 +166,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Visibility",
     "commandType": "Item",
     "template": "Visibility",
-    "sourceControlRevisionId": "a714775e0df26bfd43aa14815eba0d0a23f765a8"
+    "sourceControlRevisionId": "a714775e0df26bfd43aa14815eba0d0a23f765a8",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -167,7 +185,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Visibility",
     "commandType": "Item",
     "template": "Visibility",
-    "sourceControlRevisionId": "84eedaacdb0b0566a472c5d87e6bf09c9d34e2b6"
+    "sourceControlRevisionId": "84eedaacdb0b0566a472c5d87e6bf09c9d34e2b6",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -184,7 +204,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Visibility",
     "commandType": "Item",
     "template": "Visibility",
-    "sourceControlRevisionId": "288fc70660c9dfc3e8d5ad1fe56936d1c81990b5"
+    "sourceControlRevisionId": "288fc70660c9dfc3e8d5ad1fe56936d1c81990b5",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -201,7 +223,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Visibility",
     "commandType": "Item",
     "template": "Visibility",
-    "sourceControlRevisionId": "d4a0eb3a55ecd38850ac8f8d026cb292df3b39f3"
+    "sourceControlRevisionId": "d4a0eb3a55ecd38850ac8f8d026cb292df3b39f3",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -218,7 +242,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Visibility",
     "commandType": "Item",
     "template": "Visibility",
-    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a"
+    "sourceControlRevisionId": "f2c363be3b8a52dd5d96346c4d9cc543b65b007a",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Snapshot",
@@ -235,7 +261,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Visibility",
     "commandType": "Item",
     "template": "Visibility",
-    "sourceControlRevisionId": "45705d16bc0368d3d22ce927f513623935fb1624"
+    "sourceControlRevisionId": "45705d16bc0368d3d22ce927f513623935fb1624",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -252,7 +280,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Visibility",
     "commandType": "Item",
     "template": "Visibility",
-    "sourceControlRevisionId": "f60f9aecddd5baf0d866e8d1deaefcfa3d98a147"
+    "sourceControlRevisionId": "f60f9aecddd5baf0d866e8d1deaefcfa3d98a147",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -269,7 +299,9 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Visibility",
     "commandType": "Item",
     "template": "Visibility",
-    "sourceControlRevisionId": "60142204a43a2db4ef5667b16fee53391d62c437"
+    "sourceControlRevisionId": "60142204a43a2db4ef5667b16fee53391d62c437",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "PackageInstall",
@@ -286,6 +318,27 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Visibility",
     "commandType": "Item",
     "template": "Visibility",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "20e1ce39f69bb372597f970500c843dac817ed2e",
+    "sitecoreVersion": null,
+    "vaultVersion": null
+  },
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{7FBF91E0-AFAE-4202-8FD1-DF34F4190E99}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-02T03:33:22.1802570Z",
+    "label": "Deployed from Vault",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Visibility",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Visibility",
+    "commandType": "Item",
+    "template": "Visibility",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.1.151003",
+    "vaultVersion": "1.0"
   }
 ]
