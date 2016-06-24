@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{647472D4-D9C0-406B-8E22-60DB2DC634B2}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4721832Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Navigation",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation",
-    "commandType": "Label",
-    "template": "Folder",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{647472D4-D9C0-406B-8E22-60DB2DC634B2}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4721832Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Navigation","itemPath":"/sitecore/client/Your Apps/Vault/Navigation","template":"Folder","sourceControlRevisionId":"f45677dbdee8b4049062da50ee8fd8bae26beb35","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{647472D4-D9C0-406B-8E22-60DB2DC634B2}","version":1,"language":"en","timestamp":"2016-06-24T00:45:07.8463720Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Navigation","itemPath":"/sitecore/client/Your Apps/Vault/Navigation","template":"Folder","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
