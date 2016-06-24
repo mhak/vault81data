@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{1271B707-3EEE-42F1-AF31-E34E20539079}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4114967Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Common",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Common",
-    "commandType": "Label",
-    "template": "Folder",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{1271B707-3EEE-42F1-AF31-E34E20539079}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4114967Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Common","itemPath":"/sitecore/client/Your Apps/Vault/Common","template":"Folder","sourceControlRevisionId":"0de528cfbc7904287a53c6ddcbffc70eef5d43ca","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{1271B707-3EEE-42F1-AF31-E34E20539079}","version":1,"language":"en","timestamp":"2016-06-24T00:45:07.8220910Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Common","itemPath":"/sitecore/client/Your Apps/Vault/Common","template":"Folder","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
