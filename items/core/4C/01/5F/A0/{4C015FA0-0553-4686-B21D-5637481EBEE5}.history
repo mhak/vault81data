@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{4C015FA0-0553-4686-B21D-5637481EBEE5}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.6438673Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Vault Recycle Bin",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Recycle Bin",
-    "commandType": "Label",
-    "template": "Speak-ListPage",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{4C015FA0-0553-4686-B21D-5637481EBEE5}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.6438673Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Vault Recycle Bin","itemPath":"/sitecore/client/Your Apps/Vault/Vault Recycle Bin","template":"Speak-ListPage","sourceControlRevisionId":"fb4043d8cd877c75b8e9d2e476d409a69f11876a","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{4C015FA0-0553-4686-B21D-5637481EBEE5}","version":1,"language":"en","timestamp":"2016-06-24T00:45:08.2350323Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Vault Recycle Bin","itemPath":"/sitecore/client/Your Apps/Vault/Vault Recycle Bin","template":"Speak-ListPage","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
