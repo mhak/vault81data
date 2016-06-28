@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{BD2E6DC3-5FE4-487D-8052-FBB86725141D}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4721832Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Snapshots",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Data Recovery/Snapshots",
-    "commandType": "Label",
-    "template": "HyperlinkButton Parameters",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{BD2E6DC3-5FE4-487D-8052-FBB86725141D}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4721832Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Snapshots","itemPath":"/sitecore/client/Your Apps/Vault/Navigation/Data Recovery/Snapshots","template":"HyperlinkButton Parameters","sourceControlRevisionId":"c8b827b35aaabe9733f290effddac51dc81dbe13","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{BD2E6DC3-5FE4-487D-8052-FBB86725141D}","version":1,"language":"en","timestamp":"2016-06-24T00:45:14.9489707Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Snapshots","itemPath":"/sitecore/client/Your Apps/Vault/Navigation/Data Recovery/Snapshots","template":"HyperlinkButton Parameters","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
