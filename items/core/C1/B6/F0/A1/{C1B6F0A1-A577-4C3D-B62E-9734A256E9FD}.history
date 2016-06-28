@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{C1B6F0A1-A577-4C3D-B62E-9734A256E9FD}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4408144Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Messaging",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultRulesList/RulesList-Parameters/Messaging",
-    "commandType": "Label",
-    "template": "Template section",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{C1B6F0A1-A577-4C3D-B62E-9734A256E9FD}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4408144Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Messaging","itemPath":"/sitecore/client/Your Apps/Vault/Common/Renderings/VaultRulesList/RulesList-Parameters/Messaging","template":"Template section","sourceControlRevisionId":"508e4c8ca4c1e0a1868f7bce1523767284ecfeb6","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{C1B6F0A1-A577-4C3D-B62E-9734A256E9FD}","version":1,"language":"en","timestamp":"2016-06-24T00:45:12.2283987Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Messaging","itemPath":"/sitecore/client/Your Apps/Vault/Common/Renderings/VaultRulesList/RulesList-Parameters/Messaging","template":"Template section","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
