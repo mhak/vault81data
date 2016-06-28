@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{E51BA054-2D66-4862-9F7F-32110B7514D0}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4252247Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "__Standard Values",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/LabelInformationDS/LabelInformationDS-Parameters/__Standard Values",
-    "commandType": "Label",
-    "template": "LabelInformationDS-Parameters",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{E51BA054-2D66-4862-9F7F-32110B7514D0}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4252247Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"__Standard Values","itemPath":"/sitecore/client/Your Apps/Vault/Common/DataSource/LabelInformationDS/LabelInformationDS-Parameters/__Standard Values","template":"LabelInformationDS-Parameters","sourceControlRevisionId":"930c3eab8c4d6ab2ae627adc4ec44253654c2bd1","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{E51BA054-2D66-4862-9F7F-32110B7514D0}","version":1,"language":"en","timestamp":"2016-06-24T00:45:09.6813333Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"__Standard Values","itemPath":"/sitecore/client/Your Apps/Vault/Common/DataSource/LabelInformationDS/LabelInformationDS-Parameters/__Standard Values","template":"LabelInformationDS-Parameters","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
