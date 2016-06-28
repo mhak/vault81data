@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{72322CAC-FD08-4EDF-B2EE-F62CD3EECE54}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4252247Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "UpdatedMessages",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultActivity/Activity-Parameters/Messaging/UpdatedMessages",
-    "commandType": "Label",
-    "template": "Template field",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{72322CAC-FD08-4EDF-B2EE-F62CD3EECE54}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4252247Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"UpdatedMessages","itemPath":"/sitecore/client/Your Apps/Vault/Common/Renderings/VaultActivity/Activity-Parameters/Messaging/UpdatedMessages","template":"Template field","sourceControlRevisionId":"f3805c8b9ef635de50b4401ede2a82cfa8391c57","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{72322CAC-FD08-4EDF-B2EE-F62CD3EECE54}","version":1,"language":"en","timestamp":"2016-06-24T00:45:11.2985311Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"UpdatedMessages","itemPath":"/sitecore/client/Your Apps/Vault/Common/Renderings/VaultActivity/Activity-Parameters/Messaging/UpdatedMessages","template":"Template field","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
