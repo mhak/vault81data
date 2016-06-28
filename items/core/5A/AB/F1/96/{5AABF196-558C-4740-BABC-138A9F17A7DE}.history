@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{5AABF196-558C-4740-BABC-138A9F17A7DE}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4134967Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "deletedItems",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeletedItemsDS/DeletedItemsDS-Parameters/Data/deletedItems",
-    "commandType": "Label",
-    "template": "Template field",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{5AABF196-558C-4740-BABC-138A9F17A7DE}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4134967Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"deletedItems","itemPath":"/sitecore/client/Your Apps/Vault/Common/DataSource/DeletedItemsDS/DeletedItemsDS-Parameters/Data/deletedItems","template":"Template field","sourceControlRevisionId":"a71c9b1b4090052386ad65450140b65eb36a717a","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{5AABF196-558C-4740-BABC-138A9F17A7DE}","version":1,"language":"en","timestamp":"2016-06-24T00:45:08.6923010Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"deletedItems","itemPath":"/sitecore/client/Your Apps/Vault/Common/DataSource/DeletedItemsDS/DeletedItemsDS-Parameters/Data/deletedItems","template":"Template field","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
