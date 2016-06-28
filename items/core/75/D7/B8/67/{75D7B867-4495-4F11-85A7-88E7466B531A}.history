@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{75D7B867-4495-4F11-85A7-88E7466B531A}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4408144Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "VaultQuerystringCheck",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultQuerystringCheck",
-    "commandType": "Label",
-    "template": "View rendering",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{75D7B867-4495-4F11-85A7-88E7466B531A}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4408144Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"VaultQuerystringCheck","itemPath":"/sitecore/client/Your Apps/Vault/Common/Renderings/VaultQuerystringCheck","template":"View rendering","sourceControlRevisionId":"fccc980087abda64ec53a1f4be8eedb9d9be66a2","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{75D7B867-4495-4F11-85A7-88E7466B531A}","version":1,"language":"en","timestamp":"2016-06-24T00:45:10.8844595Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"VaultQuerystringCheck","itemPath":"/sitecore/client/Your Apps/Vault/Common/Renderings/VaultQuerystringCheck","template":"View rendering","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
