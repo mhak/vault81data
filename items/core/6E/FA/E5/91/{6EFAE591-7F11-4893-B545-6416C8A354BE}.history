@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{6EFAE591-7F11-4893-B545-6416C8A354BE}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4408144Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "FilterValue",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultRecentActivity/RecentActivity-Parameters/Data/FilterValue",
-    "commandType": "Label",
-    "template": "Template field",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{6EFAE591-7F11-4893-B545-6416C8A354BE}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4408144Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"FilterValue","itemPath":"/sitecore/client/Your Apps/Vault/Common/Renderings/VaultRecentActivity/RecentActivity-Parameters/Data/FilterValue","template":"Template field","sourceControlRevisionId":"86dd110178f53623634b8c92dd7cf80025dc98b9","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{6EFAE591-7F11-4893-B545-6416C8A354BE}","version":1,"language":"en","timestamp":"2016-06-24T00:45:12.1696698Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"FilterValue","itemPath":"/sitecore/client/Your Apps/Vault/Common/Renderings/VaultRecentActivity/RecentActivity-Parameters/Data/FilterValue","template":"Template field","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
