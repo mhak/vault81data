@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{967D390E-3E2D-4ADE-AF10-1A8D6AA60425}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4408144Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "VaultQuickLinks",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultQuickLinks",
-    "commandType": "Label",
-    "template": "View rendering",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{967D390E-3E2D-4ADE-AF10-1A8D6AA60425}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4408144Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"VaultQuickLinks","itemPath":"/sitecore/client/Your Apps/Vault/Common/Renderings/VaultQuickLinks","template":"View rendering","sourceControlRevisionId":"e1cfa5bcab2dbc51a6fc4113e70057592215929c","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{967D390E-3E2D-4ADE-AF10-1A8D6AA60425}","version":1,"language":"en","timestamp":"2016-06-24T00:45:10.8965064Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"VaultQuickLinks","itemPath":"/sitecore/client/Your Apps/Vault/Common/Renderings/VaultQuickLinks","template":"View rendering","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
