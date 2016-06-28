@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{F0B76728-F1AE-4456-80D3-F83E7E9E8DAB}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4721832Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Infrastructure",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Reporting/Infrastructure",
-    "commandType": "Label",
-    "template": "HyperlinkButton Parameters",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{F0B76728-F1AE-4456-80D3-F83E7E9E8DAB}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4721832Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Infrastructure","itemPath":"/sitecore/client/Your Apps/Vault/Navigation/Reporting/Infrastructure","template":"HyperlinkButton Parameters","sourceControlRevisionId":"1d706647e3cd9a0bb0865f05828cbd55979a29fe","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{F0B76728-F1AE-4456-80D3-F83E7E9E8DAB}","version":1,"language":"en","timestamp":"2016-06-24T00:45:15.0203129Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Status","itemPath":"/sitecore/client/Your Apps/Vault/Navigation/Reporting/Status","template":"HyperlinkButton Parameters","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
