@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{CF5AAE9C-CCC5-49AB-9389-0F51B2C3BCE7}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4124488Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "databases",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DatabasesDS/DatabasesDS-Parameters/Data/databases",
-    "commandType": "Label",
-    "template": "Template field",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{CF5AAE9C-CCC5-49AB-9389-0F51B2C3BCE7}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4124488Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"databases","itemPath":"/sitecore/client/Your Apps/Vault/Common/DataSource/DatabasesDS/DatabasesDS-Parameters/Data/databases","template":"Template field","sourceControlRevisionId":"ca87fe33651373aeb334cdb434c7899c39c1c33b","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{CF5AAE9C-CCC5-49AB-9389-0F51B2C3BCE7}","version":1,"language":"en","timestamp":"2016-06-24T00:45:08.6317004Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"databases","itemPath":"/sitecore/client/Your Apps/Vault/Common/DataSource/DatabasesDS/DatabasesDS-Parameters/Data/databases","template":"Template field","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
