@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{1E3A4068-9BB6-42DD-B0D3-0A0082BCBBDD}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4252247Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "VaultDashboardSummary4Block",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultDashboardSummary4Block",
-    "commandType": "Label",
-    "template": "View rendering",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{1E3A4068-9BB6-42DD-B0D3-0A0082BCBBDD}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4252247Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"VaultDashboardSummary4Block","itemPath":"/sitecore/client/Your Apps/Vault/Common/Renderings/VaultDashboardSummary4Block","template":"View rendering","sourceControlRevisionId":"94240eecd265738903561f6ee48084b8203ca9b8","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{1E3A4068-9BB6-42DD-B0D3-0A0082BCBBDD}","version":1,"language":"en","timestamp":"2016-06-24T00:45:10.1921081Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"VaultDashboardSummary4Block","itemPath":"/sitecore/client/Your Apps/Vault/Common/Renderings/VaultDashboardSummary4Block","template":"View rendering","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
