@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{F9BD13F5-D023-40DD-A214-69D71CDCCBF0}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4408144Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "UpdatedMessages",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultHealthStatus/HealthStatus-Parameters/Messaging/UpdatedMessages",
-    "commandType": "Label",
-    "template": "Template field",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{F9BD13F5-D023-40DD-A214-69D71CDCCBF0}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4408144Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"UpdatedMessages","itemPath":"/sitecore/client/Your Apps/Vault/Common/Renderings/VaultHealthStatus/HealthStatus-Parameters/Messaging/UpdatedMessages","template":"Template field","sourceControlRevisionId":"8e598e22a63768586ef52709660ef1e3ad6d31af","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{F9BD13F5-D023-40DD-A214-69D71CDCCBF0}","version":1,"language":"en","timestamp":"2016-06-24T00:45:11.7648556Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"UpdatedMessages","itemPath":"/sitecore/client/Your Apps/Vault/Common/Renderings/VaultHealthStatus/HealthStatus-Parameters/Messaging/UpdatedMessages","template":"Template field","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
