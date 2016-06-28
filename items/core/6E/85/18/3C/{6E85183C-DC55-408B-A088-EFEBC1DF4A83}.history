@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{6E85183C-DC55-408B-A088-EFEBC1DF4A83}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4195190Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Rule Text",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Data/Rule Text",
-    "commandType": "Label",
-    "template": "Template field",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{6E85183C-DC55-408B-A088-EFEBC1DF4A83}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4195190Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Rule Text","itemPath":"/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Data/Rule Text","template":"Template field","sourceControlRevisionId":"4be6e236caf8c4f52b2637007a13296b064ee2fc","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{6E85183C-DC55-408B-A088-EFEBC1DF4A83}","version":1,"language":"en","timestamp":"2016-06-24T00:45:08.9254789Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Rule Text","itemPath":"/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Data/Rule Text","template":"Template field","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
