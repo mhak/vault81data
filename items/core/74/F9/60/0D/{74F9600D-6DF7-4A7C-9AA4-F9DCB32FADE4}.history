@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{74F9600D-6DF7-4A7C-9AA4-F9DCB32FADE4}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4252247Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "__Standard Values",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Messaging/XSpeak/XSpeak-Parameters/__Standard Values",
-    "commandType": "Label",
-    "template": "XSpeak-Parameters",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{74F9600D-6DF7-4A7C-9AA4-F9DCB32FADE4}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4252247Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"__Standard Values","itemPath":"/sitecore/client/Your Apps/Vault/Common/Messaging/XSpeak/XSpeak-Parameters/__Standard Values","template":"XSpeak-Parameters","sourceControlRevisionId":"997676fcbdc0d204fb7fe04d65b5a78eec3fd805","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{74F9600D-6DF7-4A7C-9AA4-F9DCB32FADE4}","version":1,"language":"en","timestamp":"2016-06-24T00:45:10.0008087Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"__Standard Values","itemPath":"/sitecore/client/Your Apps/Vault/Common/Messaging/XSpeak/XSpeak-Parameters/__Standard Values","template":"XSpeak-Parameters","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
