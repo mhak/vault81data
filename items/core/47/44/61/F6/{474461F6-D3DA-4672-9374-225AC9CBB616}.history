@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{474461F6-D3DA-4672-9374-225AC9CBB616}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4408144Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "__Standard Values",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters/__Standard Values",
-    "commandType": "Label",
-    "template": "VaultListControl Parameters",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{474461F6-D3DA-4672-9374-225AC9CBB616}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4408144Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"__Standard Values","itemPath":"/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters/__Standard Values","template":"VaultListControl Parameters","sourceControlRevisionId":"7adf5111b24a5d2e9dfc2ceb24a27ecfb4bffd1f","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{474461F6-D3DA-4672-9374-225AC9CBB616}","version":1,"language":"en","timestamp":"2016-06-24T00:45:12.9161139Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"__Standard Values","itemPath":"/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters/__Standard Values","template":"VaultListControl Parameters","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
