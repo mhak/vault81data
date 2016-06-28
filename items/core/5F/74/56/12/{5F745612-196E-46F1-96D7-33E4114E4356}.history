@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{5F745612-196E-46F1-96D7-33E4114E4356}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4408144Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "MaxItems",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultRecentActivity/RecentActivity-Parameters/Data/MaxItems",
-    "commandType": "Label",
-    "template": "Template field",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{5F745612-196E-46F1-96D7-33E4114E4356}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4408144Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"MaxItems","itemPath":"/sitecore/client/Your Apps/Vault/Common/Renderings/VaultRecentActivity/RecentActivity-Parameters/Data/MaxItems","template":"Template field","sourceControlRevisionId":"134638b85a817a6dda0b65d099cb945497ff0eaf","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{5F745612-196E-46F1-96D7-33E4114E4356}","version":1,"language":"en","timestamp":"2016-06-24T00:45:12.1414404Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"MaxItems","itemPath":"/sitecore/client/Your Apps/Vault/Common/Renderings/VaultRecentActivity/RecentActivity-Parameters/Data/MaxItems","template":"Template field","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
