@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{98F7C1FB-D773-416C-81AE-06F6EBCE4161}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4195190Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "ShowHiddenItems",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Data/ShowHiddenItems",
-    "commandType": "Label",
-    "template": "Template field",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{98F7C1FB-D773-416C-81AE-06F6EBCE4161}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4195190Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"ShowHiddenItems","itemPath":"/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Data/ShowHiddenItems","template":"Template field","sourceControlRevisionId":"9901e9368a5b45b0e1333b461585f00ffbd0c684","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{98F7C1FB-D773-416C-81AE-06F6EBCE4161}","version":1,"language":"en","timestamp":"2016-06-24T00:45:09.0942726Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"ShowHiddenItems","itemPath":"/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Data/ShowHiddenItems","template":"Template field","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
