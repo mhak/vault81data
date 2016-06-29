@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{48C9AF0E-7376-465B-9D65-A8AC1B0C5702}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4566063Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Buttons",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Item Versions/PageSettings/ItemVersionsList/Buttons",
-    "commandType": "Label",
-    "template": "ColumnField",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{48C9AF0E-7376-465B-9D65-A8AC1B0C5702}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4566063Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Buttons","itemPath":"/sitecore/client/Your Apps/Vault/Dialogs/Item Versions/PageSettings/ItemVersionsList/Buttons","template":"ColumnField","sourceControlRevisionId":"316c8b32c06dfa606133410f1db8a1a1b20619b1","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{48C9AF0E-7376-465B-9D65-A8AC1B0C5702}","version":1,"language":"en","timestamp":"2016-06-24T00:45:15.4519702Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Buttons","itemPath":"/sitecore/client/Your Apps/Vault/Dialogs/Item Versions/PageSettings/ItemVersionsList/Buttons","template":"ColumnField","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
