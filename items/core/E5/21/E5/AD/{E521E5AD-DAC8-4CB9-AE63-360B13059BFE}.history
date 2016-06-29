@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{E521E5AD-DAC8-4CB9-AE63-360B13059BFE}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.5318100Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Open Selected",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Expander/ActionControl Parameters/ActionColumn/Recovered Item ActionGroup/Open Selected",
-    "commandType": "Label",
-    "template": "Action",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{E521E5AD-DAC8-4CB9-AE63-360B13059BFE}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.5318100Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Open Selected","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Expander/ActionControl Parameters/ActionColumn/Recovered Item ActionGroup/Open Selected","template":"Action","sourceControlRevisionId":"c53a9d16ab9dc69bbd89058ca165257c400c4828","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{E521E5AD-DAC8-4CB9-AE63-360B13059BFE}","version":1,"language":"en","timestamp":"2016-06-24T00:45:20.4308074Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Open Selected","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Expander/ActionControl Parameters/ActionColumn/Recovered Item ActionGroup/Open Selected","template":"Action","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
