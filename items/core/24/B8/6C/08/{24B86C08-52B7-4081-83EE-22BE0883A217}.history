@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{24B86C08-52B7-4081-83EE-22BE0883A217}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4769022Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Comments",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Timeline/PageSettings/ListControl/Comments",
-    "commandType": "Label",
-    "template": "ColumnField",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{24B86C08-52B7-4081-83EE-22BE0883A217}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4769022Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Comments","itemPath":"/sitecore/client/Your Apps/Vault/Timeline/PageSettings/ListControl/Comments","template":"ColumnField","sourceControlRevisionId":"c2ca2eb94071181a43860a214ab7af99fd8ac6c3","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{24B86C08-52B7-4081-83EE-22BE0883A217}","version":1,"language":"en","timestamp":"2016-06-24T00:45:15.7830813Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Comments","itemPath":"/sitecore/client/Your Apps/Vault/Timeline/PageSettings/ListControl/Comments","template":"ColumnField","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
