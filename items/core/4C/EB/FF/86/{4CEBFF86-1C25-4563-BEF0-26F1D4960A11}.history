@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{4CEBFF86-1C25-4563-BEF0-26F1D4960A11}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.5318100Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Snapshots",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots",
-    "commandType": "Label",
-    "template": "Speak-DashboardPage",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{4CEBFF86-1C25-4563-BEF0-26F1D4960A11}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.5318100Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Snapshots","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots","template":"Speak-DashboardPage","sourceControlRevisionId":"1d6d49ca3023e4a60116e11da2226a9773c74c10","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{4CEBFF86-1C25-4563-BEF0-26F1D4960A11}","version":1,"language":"en","timestamp":"2016-06-24T00:45:17.5925664Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Snapshots","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots","template":"Speak-DashboardPage","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
