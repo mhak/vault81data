@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{CED67101-4653-4218-BA7A-5D6967B296C1}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.5140396Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "DatabaseNames",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Facets/DatabaseNames",
-    "commandType": "Label",
-    "template": "Facet",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{CED67101-4653-4218-BA7A-5D6967B296C1}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.5140396Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"DatabaseNames","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Facets/DatabaseNames","template":"Facet","sourceControlRevisionId":"2bb0506c883d477f0cb7a5b39d1985ea73dfef11","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{CED67101-4653-4218-BA7A-5D6967B296C1}","version":1,"language":"en","timestamp":"2016-06-24T00:45:19.1649065Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"DatabaseNames","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Facets/DatabaseNames","template":"Facet","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
