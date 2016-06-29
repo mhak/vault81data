@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{1D89CCE0-65FC-46C7-BA4B-3C8A1AAE0D07}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4895966Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "__Standard Values",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/DeletedItemsDataSource/DeletedItemsDataSource Parameters/__Standard Values",
-    "commandType": "Label",
-    "template": "DeletedItemsDataSource Parameters",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{1D89CCE0-65FC-46C7-BA4B-3C8A1AAE0D07}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4895966Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"__Standard Values","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/DeletedItemsDataSource/DeletedItemsDataSource Parameters/__Standard Values","template":"DeletedItemsDataSource Parameters","sourceControlRevisionId":"4fc243412ee5a8ebffab5e934e3f013e29ab5d82","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{1D89CCE0-65FC-46C7-BA4B-3C8A1AAE0D07}","version":1,"language":"en","timestamp":"2016-06-24T00:45:17.8582743Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"__Standard Values","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/DeletedItemsDataSource/DeletedItemsDataSource Parameters/__Standard Values","template":"DeletedItemsDataSource Parameters","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
