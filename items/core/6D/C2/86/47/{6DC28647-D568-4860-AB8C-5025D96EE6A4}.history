@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{6DC28647-D568-4860-AB8C-5025D96EE6A4}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.5129205Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "ActionControl Parameters",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Expander/ActionControl Parameters",
-    "commandType": "Label",
-    "template": "ActionControl Parameters",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{6DC28647-D568-4860-AB8C-5025D96EE6A4}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.5129205Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"ActionControl Parameters","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Expander/ActionControl Parameters","template":"ActionControl Parameters","sourceControlRevisionId":"d2a2a2c3d12e18bac9f224129aad582bb7ea8af6","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{6DC28647-D568-4860-AB8C-5025D96EE6A4}","version":1,"language":"en","timestamp":"2016-06-24T00:45:18.9832049Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"ActionControl Parameters","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Expander/ActionControl Parameters","template":"ActionControl Parameters","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
