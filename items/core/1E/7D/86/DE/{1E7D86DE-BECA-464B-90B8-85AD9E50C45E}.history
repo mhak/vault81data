@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{1E7D86DE-BECA-464B-90B8-85AD9E50C45E}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4566063Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "DeploymentDetails",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Deployment/DeploymentDetails",
-    "commandType": "Label",
-    "template": "Speak-DialogPage",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{1E7D86DE-BECA-464B-90B8-85AD9E50C45E}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4566063Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"DeploymentDetails","itemPath":"/sitecore/client/Your Apps/Vault/Dialogs/Deployment/DeploymentDetails","template":"Speak-DialogPage","sourceControlRevisionId":"c18a56ae84fee09196e8df28f6ff1804b7e866c5","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{1E7D86DE-BECA-464B-90B8-85AD9E50C45E}","version":1,"language":"en","timestamp":"2016-06-24T00:45:15.2265034Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"DeploymentDetails","itemPath":"/sitecore/client/Your Apps/Vault/Dialogs/Deployment/DeploymentDetails","template":"Speak-DialogPage","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
