@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{40F4B8F7-88CE-40A7-9503-0B9EA7F02E1B}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.5140396Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Committer",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Lists/DeletedItems/Committer",
-    "commandType": "Label",
-    "template": "ColumnField",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{40F4B8F7-88CE-40A7-9503-0B9EA7F02E1B}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.5140396Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Committer","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Lists/DeletedItems/Committer","template":"ColumnField","sourceControlRevisionId":"1b6c0923e2aef6f4e3bf4d208b567bec41eaba2c","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{40F4B8F7-88CE-40A7-9503-0B9EA7F02E1B}","version":1,"language":"en","timestamp":"2016-06-24T00:45:19.2958103Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Committer","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Lists/DeletedItems/Committer","template":"ColumnField","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
