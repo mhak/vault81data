@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{91DCB429-2E04-4FEF-8C9F-B11C9075E84F}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4566063Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "ItemVersionsList",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Item Versions/PageSettings/ItemVersionsList",
-    "commandType": "Label",
-    "template": "ListControl Parameters",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{91DCB429-2E04-4FEF-8C9F-B11C9075E84F}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4566063Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"ItemVersionsList","itemPath":"/sitecore/client/Your Apps/Vault/Dialogs/Item Versions/PageSettings/ItemVersionsList","template":"ListControl Parameters","sourceControlRevisionId":"0f52a1b7aaa3097d0d120bd4b24040ac36dd92b6","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{91DCB429-2E04-4FEF-8C9F-B11C9075E84F}","version":1,"language":"en","timestamp":"2016-06-24T00:45:15.3406018Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"ItemVersionsList","itemPath":"/sitecore/client/Your Apps/Vault/Dialogs/Item Versions/PageSettings/ItemVersionsList","template":"ListControl Parameters","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
