@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{3EA91FE8-83EF-461B-9DD4-590A7EA153C2}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.5599086Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Release",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Release",
-    "commandType": "Label",
-    "template": "LaunchPad-Group",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{3EA91FE8-83EF-461B-9DD4-590A7EA153C2}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.5599086Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Release","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Release","template":"LaunchPad-Group","sourceControlRevisionId":"1f9c47dc77cda1245fff9d0d6d38e3163144cae8","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{3EA91FE8-83EF-461B-9DD4-590A7EA153C2}","version":1,"language":"en","timestamp":"2016-06-24T00:45:16.3564775Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Release","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Release","template":"LaunchPad-Group","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
