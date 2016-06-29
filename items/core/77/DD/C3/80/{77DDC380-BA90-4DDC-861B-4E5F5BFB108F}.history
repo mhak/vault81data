@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{77DDC380-BA90-4DDC-861B-4E5F5BFB108F}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.5609998Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "XSpeakRules",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/XSpeakRules",
-    "commandType": "Label",
-    "template": "RuleDefinition",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{77DDC380-BA90-4DDC-861B-4E5F5BFB108F}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.5609998Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"XSpeakRules","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/XSpeakRules","template":"RuleDefinition","sourceControlRevisionId":"c31ab38bd2db093740e5e8ac3f713fedbfbbcda3","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{77DDC380-BA90-4DDC-861B-4E5F5BFB108F}","version":1,"language":"en","timestamp":"2016-06-24T00:45:16.2293622Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"XSpeakRules","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/XSpeakRules","template":"RuleDefinition","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
