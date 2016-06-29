@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{20913C22-DCB4-42A3-8C15-FEAA3CD3EC8C}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4778093Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Data Recovery",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery",
-    "commandType": "Label",
-    "template": "Folder",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{20913C22-DCB4-42A3-8C15-FEAA3CD3EC8C}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4778093Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Data Recovery","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery","template":"Folder","sourceControlRevisionId":"5687d1bd0ecdb42ad182d9ca4e4e802c149214a9","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{20913C22-DCB4-42A3-8C15-FEAA3CD3EC8C}","version":1,"language":"en","timestamp":"2016-06-24T00:45:15.8251858Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Data Recovery","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery","template":"Folder","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
