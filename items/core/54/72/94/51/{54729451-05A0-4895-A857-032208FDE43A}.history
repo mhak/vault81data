@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{54729451-05A0-4895-A857-032208FDE43A}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.5599086Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Rollback",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Release/Rollback",
-    "commandType": "Label",
-    "template": "LaunchPad-Button",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{54729451-05A0-4895-A857-032208FDE43A}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.5599086Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Rollback","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Release/Rollback","template":"LaunchPad-Button","sourceControlRevisionId":"39b6f54bab359115ab57d15f28e62164f3a3ae58","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{54729451-05A0-4895-A857-032208FDE43A}","version":1,"language":"en","timestamp":"2016-06-24T00:45:16.8748215Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Rollback","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Release/Rollback","template":"LaunchPad-Button","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
