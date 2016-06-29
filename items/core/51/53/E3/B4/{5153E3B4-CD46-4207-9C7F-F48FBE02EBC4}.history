@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{5153E3B4-CD46-4207-9C7F-F48FBE02EBC4}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.5159882Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "PageSettings",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings",
-    "commandType": "Label",
-    "template": "PageSettings",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{5153E3B4-CD46-4207-9C7F-F48FBE02EBC4}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.5159882Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"PageSettings","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings","template":"PageSettings","sourceControlRevisionId":"ba80b17b8a42d95fd9aa5ef81cf46ac6e309137f","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{5153E3B4-CD46-4207-9C7F-F48FBE02EBC4}","version":1,"language":"en","timestamp":"2016-06-24T00:45:19.3819302Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"PageSettings","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings","template":"PageSettings","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
