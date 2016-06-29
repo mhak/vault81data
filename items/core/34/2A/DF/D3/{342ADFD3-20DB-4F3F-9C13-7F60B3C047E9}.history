@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{342ADFD3-20DB-4F3F-9C13-7F60B3C047E9}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4566063Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "PageSettings",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Deployment/DeploymentSelection/PageSettings",
-    "commandType": "Label",
-    "template": "PageSettings",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{342ADFD3-20DB-4F3F-9C13-7F60B3C047E9}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4566063Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"PageSettings","itemPath":"/sitecore/client/Your Apps/Vault/Dialogs/Deployment/DeploymentSelection/PageSettings","template":"PageSettings","sourceControlRevisionId":"3edfb687cdbf2a32fbe442218706f98d5c9d6438","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{342ADFD3-20DB-4F3F-9C13-7F60B3C047E9}","version":1,"language":"en","timestamp":"2016-06-24T00:45:15.2868557Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"PageSettings","itemPath":"/sitecore/client/Your Apps/Vault/Dialogs/Deployment/DeploymentSelection/PageSettings","template":"PageSettings","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
