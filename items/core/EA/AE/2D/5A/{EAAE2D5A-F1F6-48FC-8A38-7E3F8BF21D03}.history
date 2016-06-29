@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{EAAE2D5A-F1F6-48FC-8A38-7E3F8BF21D03}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.4566063Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "LabelDatabase",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/LabelDatabase",
-    "commandType": "Label",
-    "template": "Speak-DialogPage",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{EAAE2D5A-F1F6-48FC-8A38-7E3F8BF21D03}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.4566063Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"LabelDatabase","itemPath":"/sitecore/client/Your Apps/Vault/Dialogs/LabelDatabase","template":"Speak-DialogPage","sourceControlRevisionId":"3a97c568317452bfcec139350269c91f2d6ce600","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{EAAE2D5A-F1F6-48FC-8A38-7E3F8BF21D03}","version":1,"language":"en","timestamp":"2016-06-24T00:45:15.1332960Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"LabelDatabase","itemPath":"/sitecore/client/Your Apps/Vault/Dialogs/LabelDatabase","template":"Speak-DialogPage","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
