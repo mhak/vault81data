@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{1F81E264-8482-49DB-BA9E-D45279FFCC6B}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.6047023Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Vault Enhancement",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback/PageSettings/Vault Enhancement",
-    "commandType": "Label",
-    "template": "Page-Stylesheet-File",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{1F81E264-8482-49DB-BA9E-D45279FFCC6B}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.6047023Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Vault Enhancement","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback/PageSettings/Vault Enhancement","template":"Page-Stylesheet-File","sourceControlRevisionId":"49786f69cca7de0b20fafda4253119b2788d12c0","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{1F81E264-8482-49DB-BA9E-D45279FFCC6B}","version":1,"language":"en","timestamp":"2016-06-24T00:45:26.9081106Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Vault Enhancement","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback/PageSettings/Vault Enhancement","template":"Page-Stylesheet-File","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
