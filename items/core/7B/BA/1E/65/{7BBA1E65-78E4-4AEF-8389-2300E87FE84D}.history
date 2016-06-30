@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{7BBA1E65-78E4-4AEF-8389-2300E87FE84D}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.5980604Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Filter-based selection",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Filter based selection",
-    "commandType": "Label",
-    "template": "Tab",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{7BBA1E65-78E4-4AEF-8389-2300E87FE84D}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.5980604Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Filter-based selection","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Filter based selection","template":"Tab","sourceControlRevisionId":"9cb7d0a329cc68fe115aef406259f728b0b1b988","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{7BBA1E65-78E4-4AEF-8389-2300E87FE84D}","version":1,"language":"en","timestamp":"2016-06-24T00:45:26.3204549Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Filter-based selection","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Filter based selection","template":"Tab","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
