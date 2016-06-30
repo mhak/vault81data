@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{0B1DC76B-E99C-4D9D-995E-767CAAA8801D}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.6284287Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "HasPaging",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/Data/HistoryDataSource/HistoryDataSource Parameters/State/HasPaging",
-    "commandType": "Label",
-    "template": "Template field",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{0B1DC76B-E99C-4D9D-995E-767CAAA8801D}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.6284287Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"HasPaging","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/Data/HistoryDataSource/HistoryDataSource Parameters/State/HasPaging","template":"Template field","sourceControlRevisionId":"ec44c308596e6de9fba8e120949627c52b47b361","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{0B1DC76B-E99C-4D9D-995E-767CAAA8801D}","version":2,"language":"en","timestamp":"2016-06-24T00:45:34.7802712Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"HasPaging","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/Data/HistoryDataSource/HistoryDataSource Parameters/State/HasPaging","template":"Template field","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
