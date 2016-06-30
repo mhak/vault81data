@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{CEBCDEF4-A6C3-4BD2-AAB8-536EEAB0E7B6}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.5956246Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Select ActionControl Parameters",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Select Accordian/Select ActionControl Parameters",
-    "commandType": "Label",
-    "template": "ActionControl Parameters",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{CEBCDEF4-A6C3-4BD2-AAB8-536EEAB0E7B6}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.5956246Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Select ActionControl Parameters","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Select Accordian/Select ActionControl Parameters","template":"ActionControl Parameters","sourceControlRevisionId":"784c4303023ffbd6fb05431c3c7f415a5446c8f0","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{CEBCDEF4-A6C3-4BD2-AAB8-536EEAB0E7B6}","version":1,"language":"en","timestamp":"2016-06-24T00:45:25.7314836Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Select ActionControl Parameters","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Select Accordian/Select ActionControl Parameters","template":"ActionControl Parameters","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
