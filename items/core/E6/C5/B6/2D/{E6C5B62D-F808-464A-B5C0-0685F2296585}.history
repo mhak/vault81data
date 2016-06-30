@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{E6C5B62D-F808-464A-B5C0-0685F2296585}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.6244400Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Deploy Accordian",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Deploy Accordian",
-    "commandType": "Label",
-    "template": "Folder",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{E6C5B62D-F808-464A-B5C0-0685F2296585}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.6244400Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Deploy Accordian","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Deploy Accordian","template":"Folder","sourceControlRevisionId":"e5800586e51f0d27042108281882bdc780485204","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{E6C5B62D-F808-464A-B5C0-0685F2296585}","version":1,"language":"en","timestamp":"2016-06-24T00:45:27.0409602Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Deploy Accordian","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Deploy Accordian","template":"Folder","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
