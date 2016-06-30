@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{1F70B980-52E8-497C-A8F3-68FEB24701E5}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.5619069Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Deployment",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment",
-    "commandType": "Label",
-    "template": "Speak-DashboardPage",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{1F70B980-52E8-497C-A8F3-68FEB24701E5}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.5619069Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Deployment","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment","template":"Speak-DashboardPage","sourceControlRevisionId":"6e61165fbc99f7c900ec8eba21e17f5b9d5fa894","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{1F70B980-52E8-497C-A8F3-68FEB24701E5}","version":1,"language":"en","timestamp":"2016-06-24T00:45:21.6008586Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Deployment","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment","template":"Speak-DashboardPage","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
