@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{AD9AB109-3993-49E2-86AC-5F240EB28986}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.6018041Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Vault QuickDeployment",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Deployment/PageSettings/Vault QuickDeployment",
-    "commandType": "Label",
-    "template": "Page-Stylesheet-File",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{AD9AB109-3993-49E2-86AC-5F240EB28986}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.6018041Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Vault QuickDeployment","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Deployment/PageSettings/Vault QuickDeployment","template":"Page-Stylesheet-File","sourceControlRevisionId":"6e88927633e1692c5e12b68d9c221ddeb831df39","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{AD9AB109-3993-49E2-86AC-5F240EB28986}","version":1,"language":"en","timestamp":"2016-06-24T00:45:26.6762027Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Vault QuickDeployment","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Deployment/PageSettings/Vault QuickDeployment","template":"Page-Stylesheet-File","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
