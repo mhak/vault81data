@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{1E35AB07-1CB4-4D69-8176-8661207BB009}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.6284287Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Data",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/Data",
-    "commandType": "Label",
-    "template": "Folder",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{1E35AB07-1CB4-4D69-8176-8661207BB009}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.6284287Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Data","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/Data","template":"Folder","sourceControlRevisionId":"19f04ae35bec2d9e1a2995880afd1bec6f5aec5f","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{1E35AB07-1CB4-4D69-8176-8661207BB009}","version":2,"language":"en","timestamp":"2016-06-24T00:45:29.0222458Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Data","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/Data","template":"Folder","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
