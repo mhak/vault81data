@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{F5F3C7ED-6854-470D-A30B-AF3A543B81F5}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.5998491Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Search Data Source Parameters",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Filter based selection/PageSettings/Search Data Source Parameters",
-    "commandType": "Label",
-    "template": "Search Data Source Parameters",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{F5F3C7ED-6854-470D-A30B-AF3A543B81F5}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.5998491Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Search Data Source Parameters","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Filter based selection/PageSettings/Search Data Source Parameters","template":"Search Data Source Parameters","sourceControlRevisionId":"6745809dcce9680b669d228fd218396f3e0f6757","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{F5F3C7ED-6854-470D-A30B-AF3A543B81F5}","version":1,"language":"en","timestamp":"2016-06-24T00:45:26.4248954Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Search Data Source Parameters","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Filter based selection/PageSettings/Search Data Source Parameters","template":"Search Data Source Parameters","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
