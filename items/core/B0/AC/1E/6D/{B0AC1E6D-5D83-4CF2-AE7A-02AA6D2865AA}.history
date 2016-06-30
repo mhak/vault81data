@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{B0AC1E6D-5D83-4CF2-AE7A-02AA6D2865AA}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.6255197Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Deploy Border Parameters",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Deploy Accordian/Deploy Border Parameters",
-    "commandType": "Label",
-    "template": "Border Parameters",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{B0AC1E6D-5D83-4CF2-AE7A-02AA6D2865AA}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.6255197Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Deploy Border Parameters","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Deploy Accordian/Deploy Border Parameters","template":"Border Parameters","sourceControlRevisionId":"d333c4fe1928b3fd4cec4f8fb77fed92066a019c","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{B0AC1E6D-5D83-4CF2-AE7A-02AA6D2865AA}","version":1,"language":"en","timestamp":"2016-06-24T00:45:27.9452537Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Deploy Border Parameters","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Deploy Accordian/Deploy Border Parameters","template":"Border Parameters","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
