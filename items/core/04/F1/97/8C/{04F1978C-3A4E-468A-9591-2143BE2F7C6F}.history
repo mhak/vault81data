@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{04F1978C-3A4E-468A-9591-2143BE2F7C6F}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.6438673Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "ListControl",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/ListControl",
-    "commandType": "Label",
-    "template": "ListControl",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{04F1978C-3A4E-468A-9591-2143BE2F7C6F}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.6438673Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"ListControl","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/ListControl","template":"ListControl","sourceControlRevisionId":"dec3a9da4a904e02f5816f5a328154372c1602da","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{04F1978C-3A4E-468A-9591-2143BE2F7C6F}","version":2,"language":"en","timestamp":"2016-06-24T00:45:29.0712775Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"ListControl","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/ListControl","template":"ListControl","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
