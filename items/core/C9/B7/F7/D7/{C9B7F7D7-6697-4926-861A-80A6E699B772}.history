@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{C9B7F7D7-6697-4926-861A-80A6E699B772}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.5990027Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "ListControl Parameters",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Filter based selection/PageSettings/ListControl Parameters",
-    "commandType": "Label",
-    "template": "ListControl",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{C9B7F7D7-6697-4926-861A-80A6E699B772}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.5990027Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"ListControl Parameters","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Filter based selection/PageSettings/ListControl Parameters","template":"ListControl","sourceControlRevisionId":"63cc5b3076ac8687bd309ba7a901acd40102282a","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{C9B7F7D7-6697-4926-861A-80A6E699B772}","version":1,"language":"en","timestamp":"2016-06-24T00:45:26.3958646Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"ListControl Parameters","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Filter based selection/PageSettings/ListControl Parameters","template":"ListControl","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
