@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{05E13EF2-A66E-4916-8160-05A8CAC09796}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.6438673Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Workflow",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/ListControl/Workflow",
-    "commandType": "Label",
-    "template": "ColumnField",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{05E13EF2-A66E-4916-8160-05A8CAC09796}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.6438673Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Workflow","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/ListControl/Workflow","template":"ColumnField","sourceControlRevisionId":"49e59867bc49228ab817edf5e802c2ab390bb660","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{05E13EF2-A66E-4916-8160-05A8CAC09796}","version":2,"language":"en","timestamp":"2016-06-24T00:45:37.7676216Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Workflow","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/ListControl/Workflow","template":"ColumnField","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
