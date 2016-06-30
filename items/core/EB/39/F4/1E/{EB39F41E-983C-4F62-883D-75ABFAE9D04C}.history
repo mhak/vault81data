@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{EB39F41E-983C-4F62-883D-75ABFAE9D04C}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.5659647Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Add To Deployment",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Selected Filter ActionControl Parameters/Selected ActionColumn/Select ActionGroup/Add To Deployment",
-    "commandType": "Label",
-    "template": "Action",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{EB39F41E-983C-4F62-883D-75ABFAE9D04C}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.5659647Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Add To Deployment","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Selected Filter ActionControl Parameters/Selected ActionColumn/Select ActionGroup/Add To Deployment","template":"Action","sourceControlRevisionId":"672f28677503fd6dfad5b2dd74f2c9d5f77b0792","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{EB39F41E-983C-4F62-883D-75ABFAE9D04C}","version":1,"language":"en","timestamp":"2016-06-24T00:45:22.4841194Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Add To Deployment","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Selected Filter ActionControl Parameters/Selected ActionColumn/Select ActionGroup/Add To Deployment","template":"Action","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
