@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{9BCE695C-9255-4AEB-B62F-074C7A0F8B70}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.6284287Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "BarChart Parameters",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/BarChart Parameters",
-    "commandType": "Label",
-    "template": "BarChart Parameters",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{9BCE695C-9255-4AEB-B62F-074C7A0F8B70}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.6284287Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"BarChart Parameters","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/BarChart Parameters","template":"BarChart Parameters","sourceControlRevisionId":"570bbad088f867fceb9f4f86f0ec5a2c60058fe9","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{9BCE695C-9255-4AEB-B62F-074C7A0F8B70}","version":2,"language":"en","timestamp":"2016-06-24T00:45:28.9267838Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"BarChart Parameters","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/BarChart Parameters","template":"BarChart Parameters","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
