@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{7DB62181-E08C-4148-91D1-533CAA2D162F}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.6244400Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Deploy ActionColumn",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Deploy Accordian/Deploy ActionControl Parameters/Deploy ActionColumn",
-    "commandType": "Label",
-    "template": "ActionColumn",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{7DB62181-E08C-4148-91D1-533CAA2D162F}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.6244400Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Deploy ActionColumn","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Deploy Accordian/Deploy ActionControl Parameters/Deploy ActionColumn","template":"ActionColumn","sourceControlRevisionId":"16772b921790581f8216e0d447bb1861c8c1b713","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{7DB62181-E08C-4148-91D1-533CAA2D162F}","version":1,"language":"en","timestamp":"2016-06-24T00:45:27.9549987Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Deploy ActionColumn","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Deploy Accordian/Deploy ActionControl Parameters/Deploy ActionColumn","template":"ActionColumn","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
