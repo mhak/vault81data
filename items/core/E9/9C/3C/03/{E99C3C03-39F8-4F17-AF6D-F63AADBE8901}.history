@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{E99C3C03-39F8-4F17-AF6D-F63AADBE8901}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.6255197Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Vault StyleSheet",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Vault StyleSheet",
-    "commandType": "Label",
-    "template": "Page-Stylesheet-File",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{E99C3C03-39F8-4F17-AF6D-F63AADBE8901}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.6255197Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Vault StyleSheet","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Vault StyleSheet","template":"Page-Stylesheet-File","sourceControlRevisionId":"314768f2f597e783af40cff8522b573306467886","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{E99C3C03-39F8-4F17-AF6D-F63AADBE8901}","version":1,"language":"en","timestamp":"2016-06-24T00:45:27.0731770Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Vault StyleSheet","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Vault StyleSheet","template":"Page-Stylesheet-File","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
