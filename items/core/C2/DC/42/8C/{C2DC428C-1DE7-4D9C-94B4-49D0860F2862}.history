@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{C2DC428C-1DE7-4D9C-94B4-49D0860F2862}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.6255197Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Infrastructure",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Infrastructure",
-    "commandType": "Label",
-    "template": "Speak-DashboardPage",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{C2DC428C-1DE7-4D9C-94B4-49D0860F2862}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.6255197Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Infrastructure","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Infrastructure","template":"Speak-DashboardPage","sourceControlRevisionId":"1e51310244059b3e888ed6563d04237633c00d9e","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{C2DC428C-1DE7-4D9C-94B4-49D0860F2862}","version":1,"language":"en","timestamp":"2016-06-24T00:45:28.7997320Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Status","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Status","template":"Speak-DashboardPage","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
