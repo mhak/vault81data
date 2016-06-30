@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{5C92C232-6B58-45B4-AC6A-9CAD10B47350}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.5998491Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Item selection",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Item selection",
-    "commandType": "Label",
-    "template": "Tab",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{5C92C232-6B58-45B4-AC6A-9CAD10B47350}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.5998491Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Item selection","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Item selection","template":"Tab","sourceControlRevisionId":"ae19cc1047600c41ccb24a64e1d95324a1188fd6","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{5C92C232-6B58-45B4-AC6A-9CAD10B47350}","version":1,"language":"en","timestamp":"2016-06-24T00:45:26.3047722Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Item selection","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Item selection","template":"Tab","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
