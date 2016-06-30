@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{259269D5-6D5A-4CED-963F-71F40A1AA61F}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.6058013Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Next Button",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Buttons/Next Button",
-    "commandType": "Label",
-    "template": "Button Parameters",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{259269D5-6D5A-4CED-963F-71F40A1AA61F}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.6058013Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Next Button","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Buttons/Next Button","template":"Button Parameters","sourceControlRevisionId":"2e92faf1f634096f3d14517ee13006f9eaaf6097","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{259269D5-6D5A-4CED-963F-71F40A1AA61F}","version":1,"language":"en","timestamp":"2016-06-24T00:45:27.1151395Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Next Button","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Buttons/Next Button","template":"Button Parameters","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
