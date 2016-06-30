@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{488E297F-62FA-4E29-AD9A-F8965D00BF6F}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.6027651Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Execute Rollback",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback",
-    "commandType": "Label",
-    "template": "Speak-DashboardPage",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{488E297F-62FA-4E29-AD9A-F8965D00BF6F}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.6027651Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Execute Rollback","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback","template":"Speak-DashboardPage","sourceControlRevisionId":"a21ba7d88e435272e689b035e42b3d1c1a151d1a","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{488E297F-62FA-4E29-AD9A-F8965D00BF6F}","version":1,"language":"en","timestamp":"2016-06-24T00:45:22.0234851Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Execute Rollback","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback","template":"Speak-DashboardPage","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
