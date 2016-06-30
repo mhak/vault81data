@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{60F66BD3-7B53-4C4F-82C1-7599FF404581}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.5541218Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Database",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots/PageSettings/Lists/SnapshotItems/Database",
-    "commandType": "Label",
-    "template": "ColumnField",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{60F66BD3-7B53-4C4F-82C1-7599FF404581}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.5541218Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Database","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots/PageSettings/Lists/SnapshotItems/Database","template":"ColumnField","sourceControlRevisionId":"a60a4922101a97eaccb71be5453cf31a9e80f038","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{60F66BD3-7B53-4C4F-82C1-7599FF404581}","version":1,"language":"en","timestamp":"2016-06-24T00:45:21.4238657Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Database","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots/PageSettings/Lists/SnapshotItems/Database","template":"ColumnField","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
