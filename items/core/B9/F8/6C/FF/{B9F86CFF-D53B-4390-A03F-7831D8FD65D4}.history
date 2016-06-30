@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{B9F86CFF-D53B-4390-A03F-7831D8FD65D4}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.5859172Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "RedirectRule",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules/RedirectRule",
-    "commandType": "Label",
-    "template": "RuleDefinition",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{B9F86CFF-D53B-4390-A03F-7831D8FD65D4}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.5859172Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"RedirectRule","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules/RedirectRule","template":"RuleDefinition","sourceControlRevisionId":"57c51dd020b1b4e1bfeb115255da05d36e69bd31","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{B9F86CFF-D53B-4390-A03F-7831D8FD65D4}","version":1,"language":"en","timestamp":"2016-06-24T00:45:25.6512676Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"RedirectRule","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules/RedirectRule","template":"RuleDefinition","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
