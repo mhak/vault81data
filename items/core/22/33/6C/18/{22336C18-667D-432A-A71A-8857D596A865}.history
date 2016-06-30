@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{22336C18-667D-432A-A71A-8857D596A865}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.6047023Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Warning Accordian Parameters",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback/PageSettings/Warning Accordian/Warning Accordian Parameters",
-    "commandType": "Label",
-    "template": "AdvancedExpander Parameters",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{22336C18-667D-432A-A71A-8857D596A865}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.6047023Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Warning Accordian Parameters","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback/PageSettings/Warning Accordian/Warning Accordian Parameters","template":"AdvancedExpander Parameters","sourceControlRevisionId":"0e56704e976b7fb9441667d4e015c4e840f12b26","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{22336C18-667D-432A-A71A-8857D596A865}","version":1,"language":"en","timestamp":"2016-06-24T00:45:26.9823251Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Warning Accordian Parameters","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback/PageSettings/Warning Accordian/Warning Accordian Parameters","template":"AdvancedExpander Parameters","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
