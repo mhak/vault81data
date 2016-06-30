@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{F80EA83F-1086-450F-A6CD-9059A98932AF}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.6284287Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "Day",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/BarChart Parameters/Day",
-    "commandType": "Label",
-    "template": "ChartField",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{F80EA83F-1086-450F-A6CD-9059A98932AF}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.6284287Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"Day","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/BarChart Parameters/Day","template":"ChartField","sourceControlRevisionId":"802a85f8b15469d70f07604ba434445022d625c3","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{F80EA83F-1086-450F-A6CD-9059A98932AF}","version":2,"language":"en","timestamp":"2016-06-24T00:45:29.1974485Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"Day","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/BarChart Parameters/Day","template":"ChartField","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
