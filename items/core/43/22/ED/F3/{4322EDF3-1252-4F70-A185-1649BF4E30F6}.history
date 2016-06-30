@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "PackageInstall",
-    "database": "core",
-    "itemId": "{4322EDF3-1252-4F70-A185-1649BF4E30F6}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-04-27T03:19:52.6284287Z",
-    "label": "Installed from package - {0}",
-    "workflowState": "",
-    "activeUser": "sitecore\\admin",
-    "itemName": "CurrentPage",
-    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/Data/HistoryDataSource/HistoryDataSource Parameters/Appearance/CurrentPage",
-    "commandType": "Label",
-    "template": "Template field",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"PackageInstall","database":"core","itemId":"{4322EDF3-1252-4F70-A185-1649BF4E30F6}","version":1,"language":"en","timestamp":"2016-04-27T03:19:52.6284287Z","label":"Installed from package - {0}","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\admin","itemName":"CurrentPage","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/Data/HistoryDataSource/HistoryDataSource Parameters/Appearance/CurrentPage","template":"Template field","sourceControlRevisionId":"1da4c93dcc20001d125733665d8078838e5e02c9","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Deployed","database":"core","itemId":"{4322EDF3-1252-4F70-A185-1649BF4E30F6}","version":2,"language":"en","timestamp":"2016-06-24T00:45:33.3213055Z","label":"Deployed from Vault","workflowState":"","workflowStateName":"","activeUser":"extranet\\Anonymous","itemName":"CurrentPage","itemPath":"/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Reports/PageSettings/Data/HistoryDataSource/HistoryDataSource Parameters/Appearance/CurrentPage","template":"Template field","sourceControlRevisionId":null,"sitecoreVersion":"8.1.151003","vaultVersion":"1.0.140","deploymentId":"46a6eb71-bf37-4fc5-b196-17fe95e603fb"}]
